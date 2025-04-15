@@ -1,10 +1,10 @@
 import scrapy
 
 
-class ChavesSpider(scrapy.Spider):
-    name = "chaves"
+class ChavesCasasSpider(scrapy.Spider):
+    name = "chaves_casas"
     allowed_domains = ["www.chavesnamao.com.br"]
-    start_urls = ["https://www.chavesnamao.com.br/imoveis/ce-fortaleza/"]
+    start_urls = ["https://www.chavesnamao.com.br/casas-a-venda/ce-fortaleza/"]
     page_count = 1
     max_page = 99
 
@@ -17,7 +17,7 @@ class ChavesSpider(scrapy.Spider):
 
             yield {
                 'preco' : imovel.css('span.card-module__cvK-Xa__cardContent p b::text').get(),
-                'tipo' : imovel.css('h2.styles-module__aBT18q__heading2.styles-module__ViVk2q__title.undefined::text').get(),
+                'tipo' : 'Casa',
                 'localizacao' : imovel.css('address p:nth-of-type(2)::text').get(),
                 'area' : raw_area[1] if raw_area else None,
                 'quartos' : imovel.css('span.style-module__Yo5w-q__list p:nth-of-type(2)::text').get(),
