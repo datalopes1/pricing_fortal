@@ -3,8 +3,7 @@ import pandas as pd
 lopes = pd.read_json("data/raw/lopes.json")
 
 # Limpeza do dados da Imobiliária Lopes
-
-## Remoção de nulos em preço
+## Processos iniciais
 lopes.dropna(subset='preco', inplace=True)
 
 ## Limpeza das colunas com dtype FLOAT
@@ -27,6 +26,5 @@ lopes['localizacao'] = lopes['localizacao'].astype(str).str.strip()
 lopes.rename(columns={'localizacao': 'bairro', 'condo': 'condominio'}, inplace=True)
 lopes = lopes[['tipo', 'bairro', 'area', 'quartos', 'banheiros', 'vagas', 'condominio', 'preco']]
 
-# Limpeza dos dados da Chaves na Mão
-print(lopes.head())
-print(lopes['tipo'].unique().tolist())
+## Salvando em formato .csv
+lopes.to_csv("data/processed/lopes_imoveis.csv", index=False)

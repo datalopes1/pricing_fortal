@@ -1,0 +1,3093 @@
+tipo,bairro,area,quartos,banheiros,vagas,condominio,preco
+Apartamento,Itaperi,58,2,1,1,330.0,140000.0
+Apartamento,Messejana,1,1,0,0,232.0,110000.0
+Apartamento,Praia do Futuro,38,2,1,1,10.0,243000.0
+Apartamento,Parangaba,0,0,0,0,0.0,521000.0
+Apartamento,Papicu,100,3,3,1,760.0,350000.0
+Apartamento,Engenheiro Luciano Cavalcante,68,3,2,2,900.0,280000.0
+Apartamento,Guararapes,143,3,3,3,1263.0,1290000.0
+Apartamento,Guararapes,292,4,1,4,0.0,3200000.0
+Apartamento,Aldeota,67,1,1,1,1250.0,715000.0
+Apartamento,Meireles,124,3,3,2,1425.0,650000.0
+Apartamento,Fátima,96,3,4,2,960.0,1150000.0
+Apartamento,Guararapes,76,3,2,3,780.0,750000.0
+Apartamento,Praia de Iracema,38,1,1,1,439.0,440000.0
+Apartamento,Praia de Iracema,54,2,2,1,0.0,700000.0
+Apartamento,Meireles,253,4,5,4,3000.0,2199900.0
+Apartamento,Cocó,99,3,3,1,960.0,320000.0
+Apartamento,Cocó,165,3,5,3,2150.0,1800000.0
+Apartamento,Aldeota,136,3,5,2,1150.0,1300000.0
+Apartamento,Meireles,73,3,2,2,890.0,680000.0
+Apartamento,Guajerú,45,2,0,1,0.0,208990.0
+Apartamento,Parque Iracema,71,2,2,2,650.0,550000.0
+Apartamento,Fátima,144,3,4,3,1300.0,1695000.0
+Apartamento,Passaré,75,3,2,2,492.0,270000.0
+Apartamento,Edson Queiroz,54,2,2,1,358.0,648209.0
+Apartamento,Damas,94,4,1,1,0.0,210000.0
+Apartamento,Padre Andrade,6,2,1,1,0.0,130000.0
+Apartamento,Engenheiro Luciano Cavalcante,111,4,4,2,800.0,1050000.0
+Apartamento,Aldeota,1,1,0,1,0.0,406625.0
+Apartamento,Dionisio Torres,121,3,4,3,950.0,750000.0
+Apartamento,Meireles,40,1,1,1,300.0,569000.0
+Apartamento,Cambeba,2,2,0,2,767.0,807000.0
+Apartamento,São Gerardo,51,2,2,1,0.0,334000.0
+Apartamento,Messejana,72,3,2,2,480.0,420000.0
+Apartamento,Aldeota,127,3,4,2,1580.0,720000.0
+Apartamento,Paupina,41,2,1,1,300.0,215000.0
+Apartamento,Papicu,82,3,3,1,890.0,399000.0
+Apartamento,Cajazeiras,52,2,2,1,0.0,210000.0
+Apartamento,Papicu,69,3,3,1,650.0,530000.0
+Apartamento,Salinas,121,2,0,0,0.0,252471.0
+Apartamento,Praia do Futuro,49,2,2,1,400.0,340000.0
+Apartamento,Varjota,89,3,3,2,0.0,1163371.0
+Apartamento,Meireles,63,2,0,2,0.0,1450000.0
+Apartamento,Meireles,518,4,5,5,3200.0,6500000.0
+Apartamento,Cocó,96,2,3,2,950.0,950000.0
+Apartamento,Passaré,58,3,1,2,320.0,350000.0
+Apartamento,Cocó,263,4,1,2,1899.0,3100000.0
+Apartamento,Cocó,73,3,2,2,700.0,520000.0
+Apartamento,Aldeota,330,4,5,4,1800.0,1800000.0
+Apartamento,Antônio Bezerra,69,3,0,2,570.0,450000.0
+Apartamento,Manoel Dias Branco,2,2,0,3,994.0,1360000.0
+Apartamento,Cocó,73,3,2,2,625.0,800000.0
+Apartamento,Praia do Futuro,58,2,0,3,0.0,356400.0
+Apartamento,Parquelândia,77,3,3,2,535.0,590000.0
+Apartamento,Dionisio Torres,118,3,4,2,1025.0,1180000.0
+Apartamento,Messejana,8,2,2,1,350.0,282000.0
+Apartamento,Engenheiro Luciano Cavalcante,119,3,4,2,0.0,1326000.0
+Apartamento,Meireles,92,3,3,1,870.0,320000.0
+Apartamento,Praia de Iracema,54,2,2,1,607.0,757000.0
+Apartamento,Jangurussu,45,2,1,1,0.0,120000.0
+Apartamento,Meireles,47,1,1,1,1200.0,420000.0
+Apartamento,Cambeba,129,3,4,2,179.0,699000.0
+Apartamento,Praia de Iracema,125,3,4,1,900.0,315000.0
+Apartamento,Maraponga,83,3,2,1,200.0,160000.0
+Apartamento,Aldeota,120,4,2,2,1300.0,440000.0
+Apartamento,Meireles,105,2,3,2,1340.0,1250000.0
+Apartamento,Parque Iracema,70,3,2,2,630000.0,640000.0
+Apartamento,Cocó,116,3,4,3,0.0,1470000.0
+Apartamento,Dionisio Torres,134,3,3,3,1200.0,670000.0
+Apartamento,Parque Iracema,85,3,3,2,590.0,495000.0
+Apartamento,Guararapes,235,4,5,4,0.0,2942046.0
+Apartamento,Fátima,3,3,0,3,0.0,2043770.0
+Apartamento,Meireles,81,2,3,1,1128.0,630000.0
+Apartamento,Itaperi,48,2,1,1,320.0,142000.0
+Apartamento,Praia do Futuro II,77,2,2,1,0.0,450000.0
+Apartamento,Varjota,106,3,3,2,730.0,790000.0
+Apartamento,Meireles,170,3,4,2,1445.0,750000.0
+Apartamento,Presidente Kennedy,68,3,2,2,0.0,503000.0
+Apartamento,Cocó,66,3,2,2,50.0,605000.0
+Apartamento,Meireles,28,1,1,1,0.0,314165.0
+Apartamento,Meireles,75,2,3,2,788.0,680000.0
+Apartamento,Aldeota,64,2,2,1,0.0,928626.0
+Apartamento,Aldeota,125,3,3,1,1220.0,300000.0
+Apartamento,Manoel Dias Branco,163,4,5,2,0.0,1680000.0
+Apartamento,Fátima,92,3,3,2,0.0,250000.0
+Apartamento,Aldeota,94,3,3,3,1050.0,882000.0
+Apartamento,Meireles,311,4,6,5,0.0,6800000.0
+Apartamento,Presidente Kennedy,1,1,0,1,0.0,432000.0
+Apartamento,Meireles,105,3,3,2,1100.0,600000.0
+Apartamento,Presidente Kennedy,100,3,2,1,345.0,399000.0
+Apartamento,José de Alencar,65,2,2,1,400.0,185000.0
+Apartamento,Dionisio Torres,91,3,3,3,1133.0,520000.0
+Apartamento,Manoel Dias Branco,145,4,5,3,1300.0,1680000.0
+Apartamento,Cajazeiras,44,2,1,1,0.0,175000.0
+Apartamento,Mondubim,49,2,2,1,249.0,160000.0
+Apartamento,Vicente Pinzon,70,2,2,2,750.0,259000.0
+Apartamento,Engenheiro Luciano Cavalcante,204,4,4,3,1800.0,2100000.0
+Apartamento,Papicu,108,3,3,2,0.0,390000.0
+Apartamento,Meireles,220,3,0,6,2100.0,1300000.0
+Apartamento,Aldeota,40,1,1,1,400.0,448000.0
+Apartamento,Papicu,110,4,3,2,770.0,960000.0
+Apartamento,Papicu,100,4,3,1,837.0,325000.0
+Apartamento,Cocó,105,3,4,2,850.0,1012000.0
+Apartamento,Carlito Pamplona,51,3,2,1,0.0,319280.0
+Apartamento,Jóquei Clube,50,2,2,1,440.0,225000.0
+Apartamento,Cocó,271,3,3,4,1800.0,2200000.0
+Apartamento,Meireles,43,1,1,1,1180.0,465000.0
+Apartamento,Aldeota,169,3,4,2,1800.0,550000.0
+Apartamento,Damas,78,3,3,1,475.0,210000.0
+Apartamento,Cidade dos Funcionários,68,3,3,1,400.0,195000.0
+Apartamento,Meireles,150,3,5,2,1460.0,1300000.0
+Apartamento,Itaperi,44,2,1,1,300.0,160000.0
+Apartamento,Meireles,148,3,4,2,0.0,3800000.0
+Apartamento,Aldeota,160,4,4,2,1700.0,800000.0
+Apartamento,Aldeota,4,4,0,4,1570.0,1900000.0
+Apartamento,Fátima,123,3,3,1,1050.0,345000.0
+Apartamento,Meireles,164,3,4,2,1313.0,1500000.0
+Apartamento,Mucuripe,164,4,5,3,0.0,1515000.0
+Apartamento,Mucuripe,74,2,0,2,888.0,3200.0
+Apartamento,Barra do Ceará,44,2,1,1,350.0,145000.0
+Apartamento,Dionisio Torres,54,3,2,1,0.0,507000.0
+Apartamento,Cidade dos Funcionários,91,3,2,2,480.0,615000.0
+Apartamento,Meireles,85,3,1,1,1300.0,299000.0
+Apartamento,Fátima,121,3,3,1,800.0,260000.0
+Apartamento,Messejana,65,3,2,2,411.0,430000.0
+Apartamento,Papicu,97,3,3,2,0.0,970000.0
+Apartamento,Praia do Futuro,47,2,2,1,0.0,332000.0
+Apartamento,Mucuripe,114,3,4,3,1060.0,1453000.0
+Apartamento,Edson Queiroz,81,3,3,2,615.0,655000.0
+Apartamento,Meireles,158,3,4,2,2502.0,860000.0
+Apartamento,Parangaba,51,2,2,1,250.0,250000.0
+Apartamento,Meireles,155,4,5,3,970.0,1950000.0
+Apartamento,Meireles,2,4,6,5,2000.0,4095479.0
+Apartamento,Dionisio Torres,129,3,0,4,1160.0,495000.0
+Apartamento,Aldeota,134,3,5,2,1048.0,690000.0
+Apartamento,Montese,61,3,2,2,350.0,340000.0
+Apartamento,Passaré,44,2,0,1,0.0,127295.0
+Apartamento,Parque Iracema,66,2,2,1,410.0,399000.0
+Apartamento,Vicente Pinzon,152,3,0,2,1720.0,290000.0
+Apartamento,Passaré,38,2,1,1,0.0,249000.0
+Apartamento,Paupina,48,2,2,1,310.0,230000.0
+Apartamento,Presidente Kennedy,53,2,2,1,0.0,408000.0
+Apartamento,Itaperi,60,3,2,1,550.0,170000.0
+Apartamento,São João do Tauape,65,3,2,1,350.0,180000.0
+Apartamento,Aldeota,69,3,2,2,720.0,640000.0
+Apartamento,Engenheiro Luciano Cavalcante,98,3,3,2,850.0,949000.0
+Apartamento,Cristo Redentor,164,3,4,4,1334.0,1472485.0
+Apartamento,Dionisio Torres,156,3,4,3,1370.0,629000.0
+Apartamento,Meireles,134,3,4,2,1200.0,650000.0
+Apartamento,Meireles,325,3,5,5,5000.0,4000000.0
+Apartamento,Fátima,65,2,2,1,700.0,240000.0
+Apartamento,Cocó,125,3,0,4,1350.0,1700000.0
+Apartamento,Joaquim Távora,125,3,1,3,1500.0,715000.0
+Apartamento,Conjunto Esperança,68,4,3,1,0.0,200000.0
+Apartamento,Centro,110,3,2,1,180.0,250000.0
+Apartamento,Meireles,58,2,1,2,860.0,890000.0
+Apartamento,Mucuripe,112,3,4,3,1060.0,1278000.0
+Apartamento,Aldeota,263,5,0,3,2060.0,950000.0
+Apartamento,Cocó,105,3,3,2,0.0,1187000.0
+Apartamento,Jacarecanga,48,2,1,1,450.0,290000.0
+Apartamento,Meireles,186,3,4,3,2080.0,1200000.0
+Apartamento,Papicu,161,3,4,2,1298.0,270000.0
+Apartamento,Engenheiro Luciano Cavalcante,57,2,2,1,0.0,491634.0
+Apartamento,Jóquei Clube,49,2,2,1,0.0,350000.0
+Apartamento,Aldeota,136,3,3,1,750.0,550000.0
+Apartamento,Dionisio Torres,50,2,2,1,600.0,610000.0
+Apartamento,Montese,62,3,2,1,400.0,375000.0
+Apartamento,Jardim Cearense,52,2,1,1,0.0,200000.0
+Apartamento,Praia do Futuro,90,3,3,2,0.0,400000.0
+Apartamento,Meireles,112,3,3,2,0.0,800000.0
+Apartamento,Joaquim Távora,110,3,4,3,0.0,850000.0
+Apartamento,Aldeota,63,2,1,1,1100.0,450000.0
+Apartamento,Engenheiro Luciano Cavalcante,73,2,2,2,0.0,450000.0
+Apartamento,Meireles,319,3,4,5,3600.0,2990000.0
+Apartamento,Cocó,74,3,3,2,890.0,478999.0
+Apartamento,Meireles,430,5,0,6,4000.0,3500000.0
+Apartamento,Cambeba,65,3,2,2,846.0,369000.0
+Apartamento,Varjota,3,3,0,2,1050.0,425000.0
+Apartamento,Edson Queiroz,54,2,2,1,360.0,580000.0
+Apartamento,Passaré,49,2,2,1,10.0,334000.0
+Apartamento,Papicu,78,3,3,2,530.0,730000.0
+Apartamento,Cocó,200,4,5,4,2050.0,1750000.0
+Apartamento,Parque Dois Irmãos,57,2,2,2,490.0,340000.0
+Apartamento,Aldeota,40,1,1,1,250.0,413000.0
+Apartamento,Passaré,50,2,1,1,450.0,320000.0
+Apartamento,Meireles,10,10,0,7,0.0,12500000.0
+Apartamento,Guararapes,331,4,5,4,1400.0,2250000.0
+Apartamento,Mucuripe,86,2,3,2,800.0,765000.0
+Apartamento,Engenheiro Luciano Cavalcante,74,3,3,2,750.0,749000.0
+Apartamento,José Bonifácio,105,3,3,2,0.0,899000.0
+Apartamento,Mucuripe,221,3,4,4,2632.0,2399000.0
+Apartamento,Aldeota,1,1,0,3,663.0,320000.0
+Apartamento,Mondubim,44,2,1,1,250.0,198700.0
+Apartamento,Mucuripe,86,2,2,2,690.0,720000.0
+Apartamento,Engenheiro Luciano Cavalcante,75,2,3,2,779.0,740000.0
+Apartamento,Engenheiro Luciano Cavalcante,90,3,2,1,850.0,319999.0
+Apartamento,Antônio Bezerra,36,2,0,1,0.0,252275.0
+Apartamento,Aldeota,218,4,4,4,0.0,2983106.0
+Apartamento,Dunas,59,3,2,1,380.0,420000.0
+Apartamento,Cocó,82,4,3,1,610.0,460000.0
+Apartamento,Jacarecanga,70,3,2,2,530.0,480000.0
+Apartamento,Meireles,297,4,5,3,2600.0,2500000.0
+Apartamento,Parangaba,105,3,2,2,343.0,330000.0
+Apartamento,Parreão,119,3,0,3,0.0,237000.0
+Apartamento,Papicu,70,3,3,1,650.0,505000.0
+Apartamento,Meireles,276,3,4,3,2900.0,1490000.0
+Apartamento,Presidente Kennedy,53,3,3,2,0.0,423000.0
+Apartamento,Engenheiro Luciano Cavalcante,112,4,4,3,0.0,950000.0
+Apartamento,Aldeota,140,3,3,2,1080.0,1400000.0
+Apartamento,Manoel Dias Branco,145,3,5,2,1200.0,1450000.0
+Apartamento,Papicu,138,3,0,3,0.0,988200.0
+Apartamento,Montese,91,3,2,2,373.0,310000.0
+Apartamento,Aldeota,223,4,4,4,2531.0,900000.0
+Apartamento,Papicu,65,3,2,2,550.0,550000.0
+Apartamento,Aldeota,48,1,1,1,0.0,602210.0
+Apartamento,Fátima,48,2,2,1,532.0,520000.0
+Apartamento,Guararapes,72,3,0,2,500.0,750000.0
+Apartamento,Meireles,311,4,6,4,2500.0,1600000.0
+Apartamento,Vila União,60,2,2,1,1060.0,280000.0
+Apartamento,Engenheiro Luciano Cavalcante,292,5,5,2,0.0,2490000.0
+Apartamento,São Gerardo,91,3,3,2,704.0,680000.0
+Apartamento,Varjota,72,3,0,2,890.0,942000.0
+Apartamento,Cocó,128,3,2,4,1474.0,500000.0
+Apartamento,Aldeota,65,2,2,2,800.0,1140000.0
+Apartamento,Edson Queiroz,1,1,0,2,358.0,520000.0
+Apartamento,Parquelândia,1,1,0,2,470.0,330000.0
+Apartamento,Cambeba,60,3,3,2,0.0,324999.0
+Apartamento,Meireles,254,4,0,5,0.0,4165000.0
+Apartamento,Guararapes,220,3,6,4,2000.0,2300000.0
+Apartamento,Engenheiro Luciano Cavalcante,1,1,0,2,0.0,429046.0
+Apartamento,Cocó,114,3,3,1,751.0,390000.0
+Apartamento,Papicu,77,3,2,2,0.0,752000.0
+Apartamento,Dionisio Torres,115,3,0,3,0.0,1189531.0
+Apartamento,Meireles,260,3,5,4,2414.0,2450000.0
+Apartamento,Meireles,113,4,4,2,1500.0,1300000.0
+Apartamento,Cocó,112,3,4,2,1200.0,625000.0
+Apartamento,Aldeota,86,3,3,2,10.0,1024000.0
+Apartamento,Guararapes,90,3,3,1,950.0,420000.0
+Apartamento,Benfica,67,3,3,3,511.0,649000.0
+Apartamento,Dunas,125,3,3,2,1200.0,1400000.0
+Apartamento,Meireles,66,2,2,1,850.0,760000.0
+Apartamento,Meireles,203,3,4,4,2600.0,3200000.0
+Apartamento,Meireles,260,3,4,4,2898.0,2850000.0
+Apartamento,Dunas,130,3,3,2,1200.0,1100000.0
+Apartamento,Meireles,220,4,6,4,2400.0,1995000.0
+Apartamento,Meireles,166,3,5,3,0.0,2100000.0
+Apartamento,Aldeota,170,3,4,3,2650.0,690000.0
+Apartamento,Benfica,5,2,3,2,0.0,916000.0
+Apartamento,Varjota,152,3,5,3,1200.0,1850000.0
+Apartamento,Jacarecanga,72,3,1,1,0.0,185000.0
+Apartamento,Passaré,58,2,2,1,460.0,330000.0
+Apartamento,Cocó,166,3,5,2,1730.0,660000.0
+Apartamento,Maraponga,64,3,2,2,50.0,535000.0
+Apartamento,Papicu,78,3,2,2,0.0,829921.0
+Apartamento,São Gerardo,114,4,3,1,600.0,260000.0
+Apartamento,Parque Del Sol,45,2,1,1,260.0,250000.0
+Apartamento,Engenheiro Luciano Cavalcante,118,3,3,3,0.0,949000.0
+Apartamento,Jóquei Clube,80,3,1,1,400.0,315000.0
+Apartamento,Benfica,92,3,2,1,560.0,190000.0
+Apartamento,Cocó,114,3,5,3,1100.0,620000.0
+Apartamento,Aldeota,108,4,3,1,1200.0,259999.0
+Apartamento,Praia de Iracema,38,1,1,1,456.0,530722.0
+Apartamento,Meireles,200,4,4,2,2522.0,1750000.0
+Apartamento,Benfica,100,4,0,3,820.0,390000.0
+Apartamento,Papicu,78,3,3,2,490.0,808700.0
+Apartamento,Varjota,182,4,5,2,1763.0,600000.0
+Apartamento,Praia do Futuro I,340,5,6,6,2000.0,1300000.0
+Apartamento,Cocó,126,3,4,2,1400.0,440000.0
+Apartamento,Meireles,225,3,5,4,2500.0,2800000.0
+Apartamento,Fátima,112,3,3,2,900.0,160000.0
+Apartamento,Passaré,49,2,2,1,300.0,301195.0
+Apartamento,Presidente Kennedy,72,3,2,1,380.0,485000.0
+Apartamento,Meireles,60,1,0,1,0.0,894700.0
+Apartamento,Guararapes,316,4,6,4,2300.0,2450000.0
+Apartamento,Cambeba,89,3,2,2,0.0,795000.0
+Apartamento,Papicu,107,4,3,2,0.0,419000.0
+Apartamento,Monte Castelo,64,3,2,2,514.0,375000.0
+Apartamento,Parangaba,48,2,2,1,0.0,324000.0
+Apartamento,Monte Castelo,64,3,2,2,425.0,410000.0
+Apartamento,Meireles,74,2,2,1,1004.0,1250000.0
+Apartamento,Parque Dois Irmãos,59,3,2,1,466.0,310000.0
+Apartamento,Cocó,105,3,2,3,111.0,970000.0
+Apartamento,Meireles,550,4,6,5,0.0,11000000.0
+Apartamento,Guararapes,78,3,2,2,505.0,799900.0
+Apartamento,Engenheiro Luciano Cavalcante,68,3,2,2,900.0,295000.0
+Apartamento,Aldeota,98,3,4,2,900.0,1370000.0
+Apartamento,Aldeota,132,3,4,2,1500.0,700000.0
+Apartamento,Centro,55,2,2,1,280.0,485000.0
+Apartamento,Mondubim,60,3,2,1,0.0,249000.0
+Apartamento,Guararapes,109,3,4,2,850.0,1099000.0
+Apartamento,Papicu,100,2,3,1,690.0,340000.0
+Apartamento,Engenheiro Luciano Cavalcante,78,3,3,2,746.0,750000.0
+Apartamento,Jacarecanga,62,3,2,2,509.0,355000.0
+Apartamento,Centro,55,2,2,1,350.0,430000.0
+Apartamento,Damas,72,3,3,1,352.0,220000.0
+Apartamento,Praia do Futuro,60,2,2,1,800.0,580000.0
+Apartamento,Passaré,60,3,2,1,370.0,260000.0
+Apartamento,Varjota,180,4,5,3,1296.0,1299000.0
+Apartamento,Benfica,108,3,2,1,480.0,280000.0
+Apartamento,Meireles,3,3,0,5,6750.0,2600000.0
+Apartamento,Meireles,355,4,6,5,0.0,5966375.0
+Apartamento,Papicu,78,3,3,2,550.0,798000.0
+Apartamento,Jóquei Clube,49,2,2,1,0.0,352990.0
+Apartamento,Bela Vista,60,2,2,1,355.0,149000.0
+Apartamento,Mucuripe,86,2,3,2,1004.0,1200000.0
+Apartamento,Mondubim,63,3,2,1,500.0,410000.0
+Apartamento,Parque Iracema,70,3,2,2,645.0,595000.0
+Apartamento,Papicu,119,3,3,2,751.0,480000.0
+Apartamento,Bela Vista,79,3,1,1,390.0,189000.0
+Apartamento,Aldeota,220,3,3,3,2350.0,1100000.0
+Apartamento,Parquelândia,78,3,3,2,520.0,822000.0
+Apartamento,Meireles,271,4,5,5,0.0,4000000.0
+Apartamento,Cocó,600,5,7,4,0.0,750000.0
+Apartamento,Praia do Futuro II,58,2,2,1,820.0,560000.0
+Apartamento,Aldeota,940,3,4,2,1430.0,675000.0
+Apartamento,Varjota,122,4,3,2,890.0,420000.0
+Apartamento,Messejana,52,2,2,1,0.0,269000.0
+Apartamento,Messejana,47,2,2,1,268.0,270000.0
+Apartamento,Damas,63,3,2,2,0.0,463699.0
+Apartamento,Cajazeiras,80,2,1,2,250.0,150000.0
+Apartamento,Montese,72,3,2,1,388.0,220000.0
+Apartamento,Jacarecanga,60,2,2,1,350.0,190000.0
+Apartamento,Guararapes,82,2,3,2,653.0,780000.0
+Apartamento,São Gerardo,85,3,1,2,0.0,720000.0
+Apartamento,Joaquim Távora,108,4,4,1,900.0,340000.0
+Apartamento,Passaré,48,2,1,1,329.0,179000.0
+Apartamento,José de Alencar,56,2,2,1,350.0,180000.0
+Apartamento,Maraponga,64,3,2,2,560.0,535000.0
+Apartamento,Praia do Futuro,114,4,0,3,370.0,200000.0
+Apartamento,Damas,48,2,2,1,0.0,307339.0
+Apartamento,Aldeota,106,4,3,3,1300.0,595000.0
+Apartamento,Cocó,165,2,4,3,2300.0,1649000.0
+Apartamento,Montese,1,1,0,2,500.0,230000.0
+Apartamento,Meireles,176,4,5,2,1600.0,700000.0
+Apartamento,Meireles,163,4,6,3,0.0,2740000.0
+Apartamento,Joaquim Távora,74,3,2,1,450.0,230000.0
+Apartamento,Messejana,51,2,2,1,100.0,278000.0
+Apartamento,Passaré,0,0,0,0,0.0,269000.0
+Apartamento,Prefeito José Walter,1,1,0,1,240.0,130000.0
+Apartamento,de Lourdes,2,2,0,2,723.0,880000.0
+Apartamento,Papicu,58,2,2,1,370.0,390000.0
+Apartamento,Meireles,166,3,4,2,1550.0,880000.0
+Apartamento,Álvaro Weyne,47,2,2,1,0.0,240000.0
+Apartamento,Aldeota,116,3,2,2,565.0,340000.0
+Apartamento,Mucuripe,86,2,2,2,690.0,850000.0
+Apartamento,Papicu,117,3,3,1,738.0,590000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,2,680.0,659000.0
+Apartamento,Papicu,133,3,3,2,1400.0,320000.0
+Apartamento,Amadeu Furtado,58,2,2,1,0.0,298133.0
+Apartamento,Meireles,150,3,5,2,1650.0,850000.0
+Apartamento,Meireles,1,1,0,1,0.0,495152.0
+Apartamento,Papicu,98,3,4,2,599.0,1087000.0
+Apartamento,Papicu,147,3,3,2,1074.0,470000.0
+Apartamento,São Gerardo,142,4,0,2,800.0,670000.0
+Apartamento,Centro,87,2,3,1,732.0,400000.0
+Apartamento,Papicu,126,3,2,2,400.0,245000.0
+Apartamento,Presidente Kennedy,85,3,2,2,700.0,650000.0
+Apartamento,Edson Queiroz,42,2,1,1,340.0,120000.0
+Apartamento,Meireles,355,4,5,5,0.0,5930000.0
+Apartamento,Parquelândia,3,3,0,4,0.0,1290000.0
+Apartamento,Edson Queiroz,148,3,3,2,615.0,655000.0
+Apartamento,Aldeota,212,5,6,4,0.0,3849098.0
+Apartamento,Cocó,62,2,0,1,0.0,805150.0
+Apartamento,Engenheiro Luciano Cavalcante,71,3,2,2,730.0,657000.0
+Apartamento,Mucuripe,208,3,5,3,2400.0,2899900.0
+Apartamento,Edson Queiroz,271,3,5,3,2000.0,990000.0
+Apartamento,Cocó,83,3,3,2,752.0,890000.0
+Apartamento,Parque Dois Irmãos,56,2,2,1,260.0,280000.0
+Apartamento,Guararapes,90,3,3,2,890.0,849000.0
+Apartamento,Cidade 2000,2,2,0,3,800.0,410000.0
+Apartamento,Guararapes,90,3,0,3,1100.0,806000.0
+Apartamento,Guararapes,209,4,5,4,1600.0,2999000.0
+Apartamento,Praia do Futuro II,1,1,0,2,380.0,480000.0
+Apartamento,Aldeota,174,3,5,3,0.0,3200000.0
+Apartamento,Aldeota,50,2,2,1,500.0,687000.0
+Apartamento,Parque Santa Maria,50,2,1,1,225.0,129990.0
+Apartamento,Guararapes,90,3,3,2,0.0,1233000.0
+Apartamento,Meireles,130,3,4,2,1100.0,649000.0
+Apartamento,Vila União,82,3,3,1,500.0,215000.0
+Apartamento,Aldeota,91,3,3,2,750.0,875000.0
+Apartamento,Praia do Futuro,130,3,3,1,750.0,220000.0
+Apartamento,Joaquim Távora,197,3,5,2,1200.0,590000.0
+Apartamento,Dunas,145,4,4,3,1400.0,1500000.0
+Apartamento,Messejana,3,2,0,1,0.0,391999.0
+Apartamento,Aldeota,108,3,3,1,600.0,350000.0
+Apartamento,Presidente Kennedy,74,3,2,1,480.0,320000.0
+Apartamento,Passaré,64,3,2,2,535.0,430000.0
+Apartamento,Meireles,127,3,5,3,950.0,850000.0
+Apartamento,Dionisio Torres,1,0,0,0,0.0,700500.0
+Apartamento,Papicu,63,2,3,1,677.0,300000.0
+Apartamento,Jardim América,62,2,2,2,10.0,748667.0
+Apartamento,Aldeota,190,3,3,2,930.0,450000.0
+Apartamento,Cocó,130,3,4,2,1200.0,420000.0
+Apartamento,Aldeota,117,3,4,2,850.0,1328000.0
+Apartamento,Meireles,311,4,4,5,0.0,5500000.0
+Apartamento,Meireles,268,4,5,4,3500.0,1900000.0
+Apartamento,Meireles,69,2,2,2,600.0,970000.0
+Apartamento,José Bonifácio,80,2,0,2,150.0,180000.0
+Apartamento,Engenheiro Luciano Cavalcante,121,3,3,2,0.0,1238050.0
+Apartamento,Aldeota,65,2,2,1,10.0,535680.0
+Apartamento,Cocó,132,3,3,2,1200.0,500000.0
+Apartamento,Aldeota,135,3,4,2,1200.0,650000.0
+Apartamento,Jóquei Clube,52,2,2,1,440.0,250000.0
+Apartamento,Meireles,820,5,6,10,4771.0,14000000.0
+Apartamento,Meireles,214,3,4,3,2080.0,1200000.0
+Apartamento,Meireles,93,3,3,1,2300.0,789000.0
+Apartamento,Mondubim,54,2,1,1,300.0,185000.0
+Apartamento,Cocó,128,3,4,2,1280.0,640000.0
+Apartamento,Meireles,271,4,4,5,0.0,4130653.0
+Apartamento,Aldeota,95,4,3,2,750.0,930000.0
+Apartamento,Aldeota,212,4,4,4,0.0,2989000.0
+Apartamento,Praia de Iracema,53,2,2,2,730.0,850000.0
+Apartamento,Meireles,108,3,2,1,0.0,430000.0
+Apartamento,Cocó,111,4,4,3,900.0,1340000.0
+Apartamento,Passaré,54,2,2,1,541.0,230000.0
+Apartamento,Dias Macedo,45,2,1,1,345.0,185000.0
+Apartamento,Messejana,72,3,2,2,400.0,379999.0
+Apartamento,Meireles,92,3,3,1,1279.0,650000.0
+Apartamento,Meireles,61,2,2,2,100.0,960000.0
+Apartamento,Dionisio Torres,170,4,4,2,2100.0,590000.0
+Apartamento,Messejana,45,2,2,1,800.0,342400.0
+Apartamento,Meireles,435,4,5,5,111.0,9476424.0
+Apartamento,Papicu,95,3,3,2,541.0,959000.0
+Apartamento,Joaquim Távora,138,3,3,2,1300.0,690000.0
+Apartamento,Manoel Dias Branco,145,3,0,3,1263.0,1290000.0
+Apartamento,Praia do Futuro II,53,2,1,1,659.0,530000.0
+Apartamento,Meireles,64,2,2,2,0.0,1092000.0
+Apartamento,Fátima,130,3,4,4,1500.0,1350000.0
+Apartamento,Meireles,188,4,0,5,1150.0,2690000.0
+Apartamento,Parquelândia,89,4,3,2,620.0,550000.0
+Apartamento,Parque Dois Irmãos,44,2,1,1,280.0,85000.0
+Apartamento,Messejana,59,2,2,2,550.0,380000.0
+Apartamento,Meireles,200,4,4,2,1866.0,950000.0
+Apartamento,Fátima,134,3,2,1,1276.0,290000.0
+Apartamento,Cocó,140,2,3,2,1150.0,490000.0
+Apartamento,Meireles,220,3,4,4,2100.0,1650000.0
+Apartamento,Guararapes,90,2,3,1,950.0,420000.0
+Apartamento,Passaré,50,2,1,1,370.0,330000.0
+Apartamento,Aldeota,126,3,3,3,0.0,1950000.0
+Apartamento,Damas,65,3,2,2,540.0,345000.0
+Apartamento,Manoel Dias Branco,116,3,3,2,1350.0,1290000.0
+Apartamento,Centro,69,3,2,1,930.0,425000.0
+Apartamento,Meireles,368,4,4,3,0.0,5509000.0
+Apartamento,Presidente Kennedy,55,2,2,1,340.0,478000.0
+Apartamento,Maraponga,63,3,2,1,111.0,280000.0
+Apartamento,Varjota,126,3,3,2,870.0,699000.0
+Apartamento,Cambeba,91,3,3,2,845.0,620000.0
+Apartamento,Engenheiro Luciano Cavalcante,121,3,5,2,0.0,1318920.0
+Apartamento,Joaquim Távora,51,2,2,1,0.0,494000.0
+Apartamento,Aldeota,134,3,4,2,1340.0,740000.0
+Apartamento,Dionisio Torres,250,4,6,2,2500.0,830000.0
+Apartamento,Dunas,51,2,2,1,450.0,370000.0
+Apartamento,Meireles,122,3,4,2,1100.0,595000.0
+Apartamento,Guararapes,177,4,6,3,1450.0,2250000.0
+Apartamento,Fátima,104,3,2,1,550.0,330000.0
+Apartamento,Monte Castelo,91,3,2,2,780.0,395000.0
+Apartamento,Meireles,249,4,5,5,2424.0,3550000.0
+Apartamento,Meireles,28,1,1,1,0.0,430000.0
+Apartamento,Cocó,54,2,2,1,0.0,427990.0
+Apartamento,Parreão,65,3,2,1,180.0,300000.0
+Apartamento,Parque Iracema,110,3,4,2,1057.0,1155000.0
+Apartamento,Meireles,65,2,1,1,771.0,700000.0
+Apartamento,Fátima,73,3,3,2,350.0,520000.0
+Apartamento,Salinas,49,2,2,1,330.0,270000.0
+Apartamento,Meireles,435,4,6,5,3500.0,9000000.0
+Apartamento,Meireles,400,4,6,9,3000.0,6700000.0
+Apartamento,Parquelândia,94,3,3,2,618.0,790000.0
+Apartamento,Aldeota,176,3,0,3,1950.0,2000000.0
+Apartamento,Papicu,69,3,3,2,600.0,549000.0
+Apartamento,Cocó,135,3,4,3,0.0,1470000.0
+Apartamento,Praia do Futuro I,123,3,2,2,800.0,270000.0
+Apartamento,Aldeota,117,3,2,2,0.0,1499000.0
+Apartamento,Parangaba,61,3,2,1,300.0,265000.0
+Apartamento,Mucuripe,40,1,1,1,298.0,350000.0
+Apartamento,Parangaba,52,2,2,1,376.0,320000.0
+Apartamento,Cocó,100,3,4,2,800.0,850000.0
+Apartamento,Cidade dos Funcionários,90,3,4,2,800.0,740000.0
+Apartamento,Meireles,94,3,3,1,2200.0,700000.0
+Apartamento,Cristo Redentor,54,2,1,1,356.0,250000.0
+Apartamento,Aldeota,175,4,5,2,1342.0,960000.0
+Apartamento,Cambeba,105,3,3,2,820.0,982000.0
+Apartamento,Parangaba,57,3,2,1,0.0,360000.0
+Apartamento,Itaperi,56,2,1,1,3.0,190000.0
+Apartamento,Aldeota,50,2,2,1,0.0,610000.0
+Apartamento,Praia do Futuro II,65,3,2,1,10.0,517000.0
+Apartamento,Aldeota,2,2,0,3,750.0,1080000.0
+Apartamento,Cambeba,90,3,2,2,750.0,925000.0
+Apartamento,Monte Castelo,50,2,2,1,0.0,325000.0
+Apartamento,Engenheiro Luciano Cavalcante,119,3,5,2,800.0,969000.0
+Apartamento,Aldeota,140,3,4,2,0.0,880000.0
+Apartamento,Cambeba,1,1,0,2,600.0,330000.0
+Apartamento,Parque Iracema,77,3,3,2,700.0,770000.0
+Apartamento,Aldeota,212,4,4,2,2000.0,900000.0
+Apartamento,Parangaba,57,3,2,2,0.0,377504.0
+Apartamento,Meireles,208,3,5,3,2400.0,2990000.0
+Apartamento,Cocó,116,3,4,2,1100.0,490000.0
+Apartamento,Papicu,100,3,2,1,900.0,429000.0
+Apartamento,Aldeota,94,3,4,2,1200.0,949999.0
+Apartamento,Cambeba,96,4,4,2,750.0,315000.0
+Apartamento,Guararapes,177,4,5,3,1750.0,1900000.0
+Apartamento,Centro,55,2,2,1,450.0,599000.0
+Apartamento,Meireles,73,2,2,1,687.0,4700.0
+Apartamento,Cidade dos Funcionários,114,3,2,1,550.0,220000.0
+Apartamento,Meireles,325,4,5,5,4500.0,4700000.0
+Apartamento,Parquelândia,78,3,2,2,506.0,800000.0
+Apartamento,Guararapes,164,3,4,3,1250.0,1380000.0
+Apartamento,Guararapes,195,4,0,4,1980.0,650000.0
+Apartamento,Cocó,135,3,5,3,0.0,1430000.0
+Apartamento,Meireles,243,4,4,4,2520.0,1680000.0
+Apartamento,Praia do Futuro II,53,2,2,1,200.0,432000.0
+Apartamento,Meireles,460,4,6,5,3000.0,2490000.0
+Apartamento,Aldeota,330,4,4,5,2237.0,4590000.0
+Apartamento,Maraponga,43,2,1,1,0.0,254990.0
+Apartamento,Meireles,38,1,1,1,0.0,573000.0
+Apartamento,Cambeba,63,3,2,1,344.0,519900.0
+Apartamento,Joaquim Távora,92,4,3,2,890.0,769999.0
+Apartamento,Aldeota,120,3,5,3,1500.0,1726000.0
+Apartamento,Aldeota,40,1,1,1,0.0,540000.0
+Apartamento,Mucuripe,41,1,1,1,1550.0,560000.0
+Apartamento,José Bonifácio,78,3,2,2,440.0,579000.0
+Apartamento,Papicu,110,3,3,2,1180.0,330000.0
+Apartamento,Mucuripe,221,3,4,4,2200.0,2300000.0
+Apartamento,Sapiranga,72,3,3,2,300.0,250000.0
+Apartamento,Meireles,107,3,3,2,1300.0,720000.0
+Apartamento,Bela Vista,62,2,2,1,369.0,150000.0
+Apartamento,Papicu,78,2,3,2,680.0,290000.0
+Apartamento,Meireles,200,3,5,4,2500.0,1000000.0
+Apartamento,Prefeito José Walter,43,2,2,1,0.0,215000.0
+Apartamento,Meireles,68,3,3,2,1171.0,700000.0
+Apartamento,Parque Del Sol,113,3,4,2,1064.0,690000.0
+Apartamento,Aldeota,163,4,6,3,100.0,2868000.0
+Apartamento,Aldeota,304,4,5,4,328.0,1200000.0
+Apartamento,Parreão,61,3,2,1,0.0,485000.0
+Apartamento,Centro,54,2,1,1,607.0,684760.0
+Apartamento,Mucuripe,221,3,5,3,0.0,1800000.0
+Apartamento,Meireles,271,4,6,5,2000.0,3682629.0
+Apartamento,Quintino Cunha,45,2,1,1,378.0,124900.0
+Apartamento,Papicu,95,3,3,1,550.0,310000.0
+Apartamento,Aldeota,117,3,4,2,1200.0,1400000.0
+Apartamento,Cocó,55,2,2,1,0.0,471000.0
+Apartamento,Parangaba,84,3,3,2,750.0,369999.0
+Apartamento,Barra do Ceará,39,2,0,2,0.0,254990.0
+Apartamento,Mucuripe,0,0,0,0,0.0,920000.0
+Apartamento,Cambeba,12,3,3,2,747.0,910000.0
+Apartamento,Cocó,105,3,3,2,800.0,959000.0
+Apartamento,Praia de Iracema,55,2,1,1,600.0,520000.0
+Apartamento,Cocó,92,3,3,1,900.0,310000.0
+Apartamento,Vila Velha,49,2,0,1,300.0,135000.0
+Apartamento,Aldeota,95,3,2,2,0.0,1385000.0
+Apartamento,Presidente Kennedy,65,3,2,1,450.0,329000.0
+Apartamento,Fátima,141,4,4,3,111.0,1947570.0
+Apartamento,Papicu,102,3,2,2,1087.0,340000.0
+Apartamento,Meireles,188,4,4,3,1700.0,2270000.0
+Apartamento,de Lourdes,88,2,2,2,800.0,900000.0
+Apartamento,Papicu,95,3,4,2,541.0,870000.0
+Apartamento,Dionisio Torres,116,3,4,2,1400.0,530000.0
+Apartamento,Meireles,249,4,5,5,2424.0,3300000.0
+Apartamento,Prefeito José Walter,43,2,1,1,290.0,200000.0
+Apartamento,Parque Iracema,110,3,4,2,0.0,1100000.0
+Apartamento,Parque Iracema,73,3,2,2,630.0,620000.0
+Apartamento,Vicente Pinzon,95,3,2,2,550.0,360000.0
+Apartamento,Aldeota,95,4,3,1,0.0,390000.0
+Apartamento,Cocó,129,3,3,2,1200.0,480000.0
+Apartamento,Itaperi,47,2,2,1,2.0,377504.0
+Apartamento,Centro,70,3,2,1,460.0,200000.0
+Apartamento,Cocó,55,2,2,1,50.0,492000.0
+Apartamento,Centro,100,3,3,3,456.0,890000.0
+Apartamento,Meireles,69,2,1,1,600.0,1200000.0
+Apartamento,Varjota,172,4,3,1,800.0,350000.0
+Apartamento,Jacarecanga,110,3,3,1,0.0,310000.0
+Apartamento,Passaré,50,2,2,1,0.0,287000.0
+Apartamento,Montese,53,2,1,1,850.0,190000.0
+Apartamento,Cidade dos Funcionários,60,3,2,2,540.0,280000.0
+Apartamento,Meireles,272,4,6,4,2250.0,1250000.0
+Apartamento,Aldeota,130,3,2,1,1100.0,455000.0
+Apartamento,Meireles,55,2,2,1,0.0,895000.0
+Apartamento,Praia do Futuro II,47,2,1,1,0.0,328000.0
+Apartamento,Praia do Futuro,39,2,1,1,0.0,255000.0
+Apartamento,Presidente Kennedy,68,2,2,1,400.0,504000.0
+Apartamento,Presidente Kennedy,54,2,2,1,0.0,410000.0
+Apartamento,Meireles,129,3,4,3,0.0,1404000.0
+Apartamento,Barra do Ceará,45,2,1,1,280.0,245000.0
+Apartamento,Aldeota,87,2,3,2,0.0,950000.0
+Apartamento,Dionisio Torres,118,3,4,2,1550.0,570000.0
+Apartamento,Montese,42,2,1,1,200.0,190000.0
+Apartamento,Meireles,72,3,2,2,1041.0,970000.0
+Apartamento,Aldeota,115,3,2,1,1090.0,340000.0
+Apartamento,Presidente Kennedy,53,3,2,1,111.0,421000.0
+Apartamento,Jacarecanga,71,3,2,1,577.0,425000.0
+Apartamento,Aldeota,150,3,4,2,1400.0,799000.0
+Apartamento,Meireles,170,3,3,2,1445.0,750000.0
+Apartamento,Serrinha,63,3,2,2,370.0,269999.0
+Apartamento,Aldeota,136,3,4,2,1200.0,1300000.0
+Apartamento,Aldeota,67,3,1,2,750.0,535000.0
+Apartamento,Patriolino Ribeiro,146,3,4,3,1202.0,1500000.0
+Apartamento,Guararapes,235,4,6,4,0.0,2563583.0
+Apartamento,Cambeba,74,3,2,2,680.0,580000.0
+Apartamento,Meireles,198,4,5,3,2100.0,1350000.0
+Apartamento,Cidade dos Funcionários,48,2,1,1,426.0,155000.0
+Apartamento,Aldeota,110,3,4,2,1100.0,1220000.0
+Apartamento,Fátima,116,4,3,2,0.0,270000.0
+Apartamento,Parangaba,63,3,2,2,340.0,289999.0
+Apartamento,Aldeota,150,3,3,3,1585.0,1195000.0
+Apartamento,Joaquim Távora,56,2,2,1,580.0,450000.0
+Apartamento,Aldeota,143,3,4,2,1400.0,600000.0
+Apartamento,Aldeota,125,3,4,1,1220.0,650000.0
+Apartamento,Meireles,58,2,2,2,850.0,878000.0
+Apartamento,Meireles,4,2,2,1,0.0,550000.0
+Apartamento,Cocó,206,3,5,4,0.0,1549999.0
+Apartamento,Meireles,249,5,7,2,2000.0,849000.0
+Apartamento,Meireles,276,4,4,4,3350.0,1500000.0
+Apartamento,Mondubim,63,3,2,1,483.0,420000.0
+Apartamento,Meireles,70,2,2,2,630.0,1270000.0
+Apartamento,Dionisio Torres,130,3,1,2,1800.0,550000.0
+Apartamento,Aldeota,125,3,4,2,1379.0,550000.0
+Apartamento,Meireles,275,4,5,4,2618.0,2300000.0
+Apartamento,Papicu,98,3,3,2,650.0,963000.0
+Apartamento,Meireles,59,2,2,1,0.0,858338.0
+Apartamento,Engenheiro Luciano Cavalcante,119,4,5,3,800.0,986887.0
+Apartamento,Jóquei Clube,68,2,2,1,436.0,420000.0
+Apartamento,Cocó,99,2,2,2,950.0,970000.0
+Apartamento,Cocó,142,3,4,2,1200.0,380000.0
+Apartamento,Meireles,55,2,2,1,0.0,859000.0
+Apartamento,Aldeota,148,3,4,2,950.0,355000.0
+Apartamento,Maraponga,83,3,2,2,756.0,370000.0
+Apartamento,Cambeba,62,2,2,2,550.0,459999.0
+Apartamento,Meireles,425,4,0,5,0.0,5000000.0
+Apartamento,Praia do Futuro II,60,1,2,1,0.0,380000.0
+Apartamento,Vicente Pinzon,98,3,3,1,600.0,250000.0
+Apartamento,José de Alencar,50,2,2,1,0.0,330088.0
+Apartamento,Mondubim,49,2,1,1,0.0,195900.0
+Apartamento,Presidente Kennedy,95,3,3,1,300.0,265000.0
+Apartamento,Meireles,2,1,1,1,0.0,321000.0
+Apartamento,Engenheiro Luciano Cavalcante,106,4,4,3,920.0,649000.0
+Apartamento,Praia do Futuro,59,2,2,1,700.0,450000.0
+Apartamento,Papicu,78,3,3,2,530.0,750000.0
+Apartamento,Aldeota,140,3,3,2,1600.0,450000.0
+Apartamento,Meireles,90,3,2,2,0.0,290000.0
+Apartamento,Meireles,311,4,6,5,0.0,5057549.0
+Apartamento,Guararapes,164,3,5,3,1334.0,1504000.0
+Apartamento,Engenheiro Luciano Cavalcante,118,3,3,2,850.0,1180000.0
+Apartamento,Fátima,62,3,2,2,600.0,390000.0
+Apartamento,Fátima,105,3,1,2,1095.0,570000.0
+Apartamento,Papicu,100,4,3,1,837.0,330000.0
+Apartamento,Meireles,121,3,3,2,1584.0,620000.0
+Apartamento,Cajazeiras,52,2,2,1,570.0,249000.0
+Apartamento,Mucuripe,1,1,0,1,766.0,570000.0
+Apartamento,Bela Vista,52,2,2,1,350.0,140000.0
+Apartamento,Cocó,112,2,3,2,740.0,1599998.0
+Apartamento,Presidente Kennedy,59,3,2,1,335.0,250000.0
+Apartamento,Cocó,111,3,4,2,950.0,1100000.0
+Apartamento,Mucuripe,72,3,0,2,664.0,797397.0
+Apartamento,Praia do Futuro II,59,2,2,1,960.0,540000.0
+Apartamento,Meireles,70,3,2,2,0.0,1142968.0
+Apartamento,Aldeota,123,3,3,2,0.0,630000.0
+Apartamento,Fátima,70,3,2,2,50.0,670000.0
+Apartamento,Praia de Iracema,41,2,4,1,444.0,556451.0
+Apartamento,Couto Fernandes,46,2,2,2,550.0,320000.0
+Apartamento,Engenheiro Luciano Cavalcante,189,4,4,4,0.0,2400000.0
+Apartamento,Parque Iracema,86,3,3,2,900.0,620000.0
+Apartamento,Itaperi,85,3,3,2,600.0,585000.0
+Apartamento,Papicu,6,3,2,2,0.0,799000.0
+Apartamento,Maraponga,50,2,1,1,256.0,220000.0
+Apartamento,Aldeota,48,2,2,1,0.0,439000.0
+Apartamento,Parque Iracema,74,3,2,2,620.0,620000.0
+Apartamento,Mucuripe,86,2,3,2,0.0,764990.0
+Apartamento,Aldeota,156,3,4,3,1600.0,2300000.0
+Apartamento,Cambeba,74,3,2,2,680.0,610000.0
+Apartamento,Praia de Iracema,54,2,2,1,608.0,685000.0
+Apartamento,Passaré,48,2,2,1,0.0,334000.0
+Apartamento,Meireles,68,2,2,1,790.0,640000.0
+Apartamento,Aldeota,155,3,4,2,1468.0,620000.0
+Apartamento,Aldeota,2,2,0,2,0.0,1382195.0
+Apartamento,Aldeota,1,1,0,1,0.0,572500.0
+Apartamento,Jangurussu,55,2,2,1,220.0,250000.0
+Apartamento,Parque Iracema,125,4,5,2,760.0,990000.0
+Apartamento,Messejana,51,2,2,1,0.0,274000.0
+Apartamento,Papicu,94,3,4,2,850.0,340000.0
+Apartamento,São João do Tauape,102,2,2,1,620.0,200000.0
+Apartamento,Cocó,111,3,4,2,1300.0,1250000.0
+Apartamento,Varjota,123,3,3,2,0.0,550000.0
+Apartamento,Cocó,268,4,5,5,3000.0,800000.0
+Apartamento,Joaquim Távora,65,3,2,2,1100.0,410000.0
+Apartamento,Benfica,123,3,3,1,510.0,380000.0
+Apartamento,Meireles,232,4,4,4,0.0,3250000.0
+Apartamento,Parquelândia,284,4,4,2,0.0,1199000.0
+Apartamento,Fátima,110,3,1,1,500.0,250000.0
+Apartamento,Mucuripe,82,2,1,1,1400.0,650000.0
+Apartamento,Joaquim Távora,124,3,3,2,900.0,330000.0
+Apartamento,Aldeota,64,2,2,1,764.0,840000.0
+Apartamento,Passaré,45,2,1,1,485.0,125000.0
+Apartamento,Meireles,72,3,2,2,825.0,660000.0
+Apartamento,Praia do Futuro I,1,1,0,2,0.0,340000.0
+Apartamento,Edson Queiroz,91,3,2,2,950.0,959000.0
+Apartamento,Guararapes,90,3,2,2,0.0,1076000.0
+Apartamento,Mucuripe,3,3,0,4,1976.0,3100000.0
+Apartamento,Fátima,115,3,3,1,990.0,350000.0
+Apartamento,Meireles,150,3,4,2,1430.0,1260000.0
+Apartamento,Engenheiro Luciano Cavalcante,74,2,3,2,779.0,735000.0
+Apartamento,Cocó,112,3,4,3,800.0,1050000.0
+Apartamento,Aldeota,133,3,4,2,1200.0,620000.0
+Apartamento,Meireles,45,1,1,1,0.0,734000.0
+Apartamento,Fátima,63,2,2,1,800.0,215000.0
+Apartamento,Meireles,40,1,1,1,0.0,565000.0
+Apartamento,Monte Castelo,105,3,4,2,750.0,550000.0
+Apartamento,Aldeota,54,2,2,1,0.0,600000.0
+Apartamento,José de Alencar,56,2,2,2,830.0,255000.0
+Apartamento,Papicu,63,3,2,1,648.0,230000.0
+Apartamento,Engenheiro Luciano Cavalcante,70,3,1,2,790.0,665000.0
+Apartamento,Fátima,70,3,2,2,550.0,549999.0
+Apartamento,Papicu,139,4,4,2,1200.0,530000.0
+Apartamento,Damas,65,3,2,2,530.0,290000.0
+Apartamento,Aldeota,40,1,1,1,0.0,637807.0
+Apartamento,Meireles,1,2,2,1,757.0,883288.0
+Apartamento,Centro,87,2,3,2,731.0,400000.0
+Apartamento,Meireles,240,3,3,3,3000.0,2890000.0
+Apartamento,Parangaba,51,2,2,1,322.0,310000.0
+Apartamento,Meireles,455,4,0,5,0.0,6000000.0
+Apartamento,Fátima,148,4,3,2,396.0,245000.0
+Apartamento,Parque Manibura,57,3,2,1,765.0,260000.0
+Apartamento,Meireles,126,3,0,3,1350.0,1000000.0
+Apartamento,Presidente Kennedy,53,2,2,1,10.0,420000.0
+Apartamento,Aldeota,337,4,5,5,0.0,5024553.0
+Apartamento,Meireles,215,4,6,2,2050.0,1100000.0
+Apartamento,Meireles,134,3,4,2,2000.0,750000.0
+Apartamento,Papicu,136,4,3,2,1200.0,525000.0
+Apartamento,Papicu,2,2,0,2,0.0,844294.0
+Apartamento,Engenheiro Luciano Cavalcante,65,3,2,2,0.0,659021.0
+Apartamento,Aldeota,141,3,5,3,1400.0,1900000.0
+Apartamento,Cidade dos Funcionários,60,3,2,1,540.0,280000.0
+Apartamento,Meireles,5,5,0,5,0.0,4500000.0
+Apartamento,Aldeota,115,3,2,2,1200.0,495000.0
+Apartamento,Praia do Futuro,70,2,2,2,780.0,350000.0
+Apartamento,Mucuripe,4,4,0,4,3.0,3300000.0
+Apartamento,Praia do Futuro,30,1,1,1,700.0,350000.0
+Apartamento,Parque Dois Irmãos,54,2,2,2,400.0,300000.0
+Apartamento,Dunas,125,3,3,2,1600.0,1300000.0
+Apartamento,Meireles,82,2,3,2,10.0,1263565.0
+Apartamento,Meireles,2,2,0,4,2300.0,1300000.0
+Apartamento,Presidente Kennedy,103,2,1,3,700.0,420000.0
+Apartamento,Sapiranga,0,0,0,0,0.0,325021.0
+Apartamento,Joaquim Távora,1,1,0,1,555.0,320000.0
+Apartamento,Cambeba,215,4,5,3,0.0,530000.0
+Apartamento,Cambeba,62,2,2,2,630.0,530000.0
+Apartamento,Varjota,120,3,2,1,1100.0,369000.0
+Apartamento,Varjota,113,3,2,2,600.0,430000.0
+Apartamento,Aldeota,178,4,5,3,1900.0,870000.0
+Apartamento,Cocó,165,4,6,3,1297.0,1499000.0
+Apartamento,Meireles,192,4,5,3,1500.0,1700000.0
+Apartamento,Cocó,130,3,4,2,1080.0,590000.0
+Apartamento,Dionisio Torres,183,3,4,2,1350.0,690000.0
+Apartamento,Praia do Futuro,48,2,2,1,0.0,345000.0
+Apartamento,Montese,73,2,2,1,360.0,200000.0
+Apartamento,Cocó,220,4,5,4,2200.0,2785000.0
+Apartamento,Cajazeiras,61,3,1,1,410.0,170000.0
+Apartamento,Meireles,165,3,4,3,1600.0,1900000.0
+Apartamento,Cocó,56,2,2,2,500.0,370000.0
+Apartamento,Guararapes,303,4,6,4,4650.0,2800000.0
+Apartamento,São João do Tauape,114,3,4,2,920.0,840000.0
+Apartamento,Mondubim,45,2,1,1,0.0,235000.0
+Apartamento,Parque Iracema,83,3,2,2,0.0,874279.0
+Apartamento,Mucuripe,72,3,3,2,0.0,765000.0
+Apartamento,Parquelândia,53,2,2,1,200.0,322377.0
+Apartamento,Parreão,130,3,3,2,1050.0,429777.0
+Apartamento,Conjunto Esperança,47,2,1,1,175.0,100000.0
+Apartamento,Montese,53,2,1,1,800.0,210000.0
+Apartamento,Aldeota,157,3,5,4,1700.0,700000.0
+Apartamento,Planalto Ayrton Senna,69,2,2,1,0.0,179000.0
+Apartamento,Aldeota,80,3,2,2,533.0,750000.0
+Apartamento,Joaquim Távora,124,3,2,1,900.0,330000.0
+Apartamento,Engenheiro Luciano Cavalcante,70,3,2,2,606.0,789000.0
+Apartamento,Engenheiro Luciano Cavalcante,60,3,2,1,850.0,380000.0
+Apartamento,Aldeota,299,5,5,4,0.0,1390000.0
+Apartamento,Aldeota,105,4,3,1,1300.0,590000.0
+Apartamento,Aldeota,126,3,1,2,1500.0,760000.0
+Apartamento,Aldeota,2,2,0,4,950.0,886000.0
+Apartamento,Guararapes,90,3,3,2,0.0,802000.0
+Apartamento,Benfica,103,4,3,1,820.0,420000.0
+Apartamento,Cidade 2000,1,1,0,1,485.0,415000.0
+Apartamento,Mucuripe,164,3,3,2,630.0,1515000.0
+Apartamento,Cocó,63,3,2,2,600.0,410000.0
+Apartamento,Meireles,154,3,3,2,1620.0,880000.0
+Apartamento,Jardim Cearense,58,2,2,2,355.0,365000.0
+Apartamento,Passaré,67,3,1,1,340.0,160000.0
+Apartamento,Meireles,124,3,4,2,1300.0,650000.0
+Apartamento,Engenheiro Luciano Cavalcante,2,3,4,2,0.0,875000.0
+Apartamento,Parque Del Sol,70,3,2,2,630.0,650000.0
+Apartamento,Vicente Pinzon,53,2,0,1,550.0,210000.0
+Apartamento,Guararapes,220,4,4,4,2100.0,1700000.0
+Apartamento,Meireles,60,2,2,1,0.0,1200000.0
+Apartamento,Messejana,65,3,2,2,550.0,349999.0
+Apartamento,Benfica,100,3,3,1,1020.0,280000.0
+Apartamento,Parque Iracema,83,3,2,1,0.0,710990.0
+Apartamento,Meireles,40,1,1,1,100.0,580802.0
+Apartamento,Papicu,182,3,0,4,1700.0,495000.0
+Apartamento,Parquelândia,94,4,3,2,618.0,695000.0
+Apartamento,Engenheiro Luciano Cavalcante,142,3,4,3,1350.0,1520000.0
+Apartamento,Meireles,155,3,5,2,1500.0,990000.0
+Apartamento,Benfica,98,4,3,2,350.0,270000.0
+Apartamento,Meireles,80,3,2,1,1170.0,560000.0
+Apartamento,Salinas,109,3,0,2,1115.0,572000.0
+Apartamento,Papicu,115,3,2,1,700.0,420000.0
+Apartamento,Papicu,108,3,3,1,850.0,280000.0
+Apartamento,Aldeota,103,3,3,1,1230.0,520000.0
+Apartamento,Cambeba,68,3,2,2,1200.0,375000.0
+Apartamento,Aldeota,111,4,5,2,1600.0,850000.0
+Apartamento,Meireles,249,4,5,5,2420.0,3650000.0
+Apartamento,Papicu,110,3,4,2,464.0,955000.0
+Apartamento,Fátima,102,3,3,1,731.0,420000.0
+Apartamento,Papicu,109,3,3,2,695.0,935000.0
+Apartamento,de Lourdes,3,3,0,3,1019.0,1400000.0
+Apartamento,Aldeota,60,3,2,1,400.0,634634.0
+Apartamento,Cocó,111,3,3,2,0.0,1152800.0
+Apartamento,Parque Iracema,105,3,4,2,900.0,770000.0
+Apartamento,Meireles,40,1,1,1,0.0,700000.0
+Apartamento,Serrinha,70,3,2,2,448.0,320000.0
+Apartamento,Monte Castelo,64,2,2,2,430.0,400000.0
+Apartamento,Manuel Sátiro,109,3,2,1,200.0,370000.0
+Apartamento,Praia do Futuro II,1,1,0,2,400.0,380000.0
+Apartamento,Cidade dos Funcionários,66,3,1,2,0.0,230000.0
+Apartamento,Presidente Kennedy,55,2,2,1,340.0,460000.0
+Apartamento,Cocó,100,2,0,3,900.0,930000.0
+Apartamento,Cocó,220,4,5,4,1500.0,2785000.0
+Apartamento,Engenheiro Luciano Cavalcante,142,3,5,3,1200.0,1520000.0
+Apartamento,Papicu,103,3,3,2,660.0,989000.0
+Apartamento,Meireles,305,4,6,4,3300.0,1899000.0
+Apartamento,Damas,48,2,2,1,0.0,271046.0
+Apartamento,Guararapes,178,4,4,3,1570.0,1800000.0
+Apartamento,Meireles,77,2,2,2,660.0,670000.0
+Apartamento,Dunas,61,2,2,2,580.0,503803.0
+Apartamento,José Bonifácio,105,4,4,2,0.0,1167725.0
+Apartamento,José de Alencar,130,3,2,1,350.0,269999.0
+Apartamento,Fátima,162,3,4,2,850.0,395000.0
+Apartamento,Joaquim Távora,120,3,2,2,800.0,1100000.0
+Apartamento,Guararapes,82,3,3,2,0.0,820000.0
+Apartamento,Dionisio Torres,118,3,4,2,1050.0,1180000.0
+Apartamento,Meireles,61,2,1,2,770.0,680000.0
+Apartamento,Centro,87,3,2,2,780.0,630000.0
+Apartamento,Meireles,175,4,5,2,1500.0,780000.0
+Apartamento,Aldeota,44,2,1,1,0.0,626040.0
+Apartamento,Praia de Iracema,2,2,0,2,0.0,1766354.0
+Apartamento,Dionisio Torres,129,3,4,2,1166.0,490000.0
+Apartamento,Meireles,127,3,3,1,710.0,270000.0
+Apartamento,Planalto Ayrton Senna,38,2,1,1,250.0,204000.0
+Apartamento,Salinas,107,3,4,2,1269.0,650000.0
+Apartamento,Meireles,204,4,5,2,1700.0,1150000.0
+Apartamento,Meireles,800,5,6,8,6700.0,11500000.0
+Apartamento,Praia do Futuro II,48,2,2,1,0.0,419000.0
+Apartamento,Fátima,76,3,2,2,780.0,450000.0
+Apartamento,Cocó,54,2,2,1,700.0,667000.0
+Apartamento,Maraponga,80,3,3,2,500.0,260000.0
+Apartamento,Aldeota,93,3,0,3,750.0,905000.0
+Apartamento,Cocó,90,3,4,2,850.0,497000.0
+Apartamento,Meireles,356,4,0,5,0.0,3450000.0
+Apartamento,Cocó,81,3,3,2,0.0,840000.0
+Apartamento,Aldeota,311,4,5,5,2500.0,4600000.0
+Apartamento,Jacarecanga,103,3,3,1,724.0,340000.0
+Apartamento,Meireles,60,2,2,1,620.0,490000.0
+Apartamento,Fátima,60,2,2,2,800.0,300000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,2,900.0,480000.0
+Apartamento,São Gerardo,104,3,3,2,981.0,390000.0
+Apartamento,Parquelândia,170,3,2,4,1500.0,1100000.0
+Apartamento,Passaré,123,2,2,1,418.0,280000.0
+Apartamento,Patriolino Ribeiro,71,3,2,2,350.0,916052.0
+Apartamento,Mucuripe,90,2,2,1,700.0,540000.0
+Apartamento,Parangaba,50,2,2,1,0.0,250000.0
+Apartamento,Papicu,2,2,0,3,541.0,963000.0
+Apartamento,Presidente Kennedy,87,3,2,2,720.0,260000.0
+Apartamento,Vicente Pinzon,152,3,4,2,2050.0,450000.0
+Apartamento,Cocó,111,3,4,2,1100.0,1300000.0
+Apartamento,Mucuripe,86,2,1,2,720.0,850000.0
+Apartamento,Cambeba,65,3,2,1,396.0,295000.0
+Apartamento,Meireles,126,3,3,1,750.0,569000.0
+Apartamento,Guararapes,90,2,3,1,0.0,420000.0
+Apartamento,Monte Castelo,64,3,2,2,514.0,430000.0
+Apartamento,Messejana,62,3,3,1,550.0,480683.0
+Apartamento,Montese,71,2,2,1,330.0,281000.0
+Apartamento,Fátima,54,2,2,1,0.0,603000.0
+Apartamento,Monte Castelo,90,3,3,2,526.0,660000.0
+Apartamento,Praia do Futuro II,48,2,2,1,266.0,330000.0
+Apartamento,Papicu,78,2,2,1,650.0,300000.0
+Apartamento,Papicu,142,4,3,2,0.0,450000.0
+Apartamento,Meireles,350,4,5,5,4492.0,3500000.0
+Apartamento,Dionisio Torres,120,3,5,2,1170.0,1280000.0
+Apartamento,Meireles,74,2,2,1,750.0,549000.0
+Apartamento,Papicu,210,4,3,2,1700.0,495000.0
+Apartamento,Serrinha,55,2,2,1,380.0,290000.0
+Apartamento,Meireles,156,3,5,3,1700.0,2300000.0
+Apartamento,Aldeota,94,3,2,2,1100.0,950000.0
+Apartamento,Meireles,182,4,5,4,2200.0,945000.0
+Apartamento,Aldeota,51,2,2,1,0.0,428900.0
+Apartamento,Papicu,165,4,5,3,0.0,1990000.0
+Apartamento,José de Alencar,88,4,2,1,250.0,250000.0
+Apartamento,Meireles,238,3,4,2,1600.0,1800000.0
+Apartamento,Meireles,324,4,6,3,4300.0,1600000.0
+Apartamento,Guararapes,90,3,3,2,800.0,890000.0
+Apartamento,Aldeota,143,3,4,2,1400.0,599000.0
+Apartamento,Messejana,51,2,2,1,0.0,270000.0
+Apartamento,Praia do Futuro,59,2,2,1,530.0,500000.0
+Apartamento,Aldeota,130,3,4,2,980.0,740000.0
+Apartamento,Meireles,48,2,1,1,907.0,900000.0
+Apartamento,Praia de Iracema,115,3,3,1,0.0,890000.0
+Apartamento,Aldeota,60,3,3,1,733.0,300000.0
+Apartamento,Praia de Iracema,180,3,4,3,1350.0,929000.0
+Apartamento,Maraponga,80,0,0,0,0.0,390000.0
+Apartamento,Presidente Kennedy,121,3,4,2,782.0,1100000.0
+Apartamento,Aldeota,64,2,2,1,700.0,906000.0
+Apartamento,Dunas,170,4,4,2,2413.0,1800000.0
+Apartamento,Praia do Futuro II,48,2,2,1,0.0,361716.0
+Apartamento,Mucuripe,68,3,2,2,728.0,340000.0
+Apartamento,Engenheiro Luciano Cavalcante,120,3,2,3,0.0,928071.0
+Apartamento,Maraponga,55,2,2,1,355.0,350000.0
+Apartamento,Meireles,69,2,3,2,830.0,970000.0
+Apartamento,Cajazeiras,61,3,1,1,280.0,130000.0
+Apartamento,Passaré,50,2,2,1,0.0,317500.0
+Apartamento,Fátima,73,3,3,2,325.0,499000.0
+Apartamento,Benfica,55,2,2,1,750.0,720000.0
+Apartamento,Parque Iracema,110,3,4,2,1140.0,1150000.0
+Apartamento,Cocó,67,3,2,2,0.0,884436.0
+Apartamento,José de Alencar,56,2,0,2,830.0,260000.0
+Apartamento,Meireles,10,10,0,7,0.0,15000000.0
+Apartamento,Dionisio Torres,66,3,2,1,850.0,178500.0
+Apartamento,Engenheiro Luciano Cavalcante,75,3,2,2,700.0,780000.0
+Apartamento,Engenheiro Luciano Cavalcante,2,2,0,2,680.0,580000.0
+Apartamento,Meireles,181,3,4,2,2309.0,2500000.0
+Apartamento,de Lourdes,100,3,4,2,800.0,920000.0
+Apartamento,Guararapes,146,3,4,3,1300.0,1495000.0
+Apartamento,Fátima,126,3,4,2,1180.0,850000.0
+Apartamento,Aldeota,95,3,3,2,0.0,1208018.0
+Apartamento,Dunas,200,3,5,2,2480.0,1150000.0
+Apartamento,Parquelândia,80,3,2,2,680.0,349999.0
+Apartamento,Centro,62,3,2,1,424.0,571000.0
+Apartamento,Parque Iracema,58,3,3,2,540.0,483000.0
+Apartamento,Parquelândia,82,3,2,1,450.0,230000.0
+Apartamento,Fátima,68,3,2,2,650.0,685000.0
+Apartamento,Meireles,56,2,2,1,810.0,852000.0
+Apartamento,Mucuripe,232,4,6,4,2500.0,3999000.0
+Apartamento,Coaçu,58,3,2,1,0.0,342400.0
+Apartamento,Cambeba,60,3,2,1,0.0,320000.0
+Apartamento,Presidente Kennedy,74,3,2,2,0.0,538000.0
+Apartamento,Aldeota,72,3,2,2,0.0,588100.0
+Apartamento,Meireles,87,2,3,2,850.0,950000.0
+Apartamento,Joaquim Távora,116,3,2,1,533.0,255000.0
+Apartamento,Joaquim Távora,67,2,2,1,530.0,240000.0
+Apartamento,Engenheiro Luciano Cavalcante,70,3,3,2,811.0,390000.0
+Apartamento,Joaquim Távora,78,3,3,2,0.0,1190000.0
+Apartamento,Aldeota,125,3,3,1,1220.0,335000.0
+Apartamento,Cocó,125,3,4,2,1300.0,585000.0
+Apartamento,Parque Iracema,90,2,0,0,0.0,790000.0
+Apartamento,Varjota,88,3,3,1,1014.0,330000.0
+Apartamento,Mucuripe,87,2,3,2,751.0,1576133.0
+Apartamento,Cidade 2000,1,1,0,1,539.0,450000.0
+Apartamento,Cocó,2,2,0,4,1300.0,1280000.0
+Apartamento,Aldeota,110,3,3,2,1100.0,1200000.0
+Apartamento,Dionisio Torres,98,3,2,2,1125.0,630000.0
+Apartamento,Meireles,350,4,4,5,4300.0,3450000.0
+Apartamento,Dunas,29,1,1,2,0.0,398000.0
+Apartamento,Meireles,415,5,7,7,4200.0,5500000.0
+Apartamento,Dionisio Torres,112,4,4,2,1400.0,750000.0
+Apartamento,Engenheiro Luciano Cavalcante,1,1,0,2,850.0,360000.0
+Apartamento,Montese,59,2,2,1,0.0,279000.0
+Apartamento,Maraponga,65,3,2,1,400.0,269000.0
+Apartamento,Centro,56,2,2,1,290.0,400000.0
+Apartamento,Cocó,140,3,3,3,1200.0,850000.0
+Apartamento,Fátima,117,3,3,2,620.0,290000.0
+Apartamento,Varjota,190,4,5,2,1753.0,600000.0
+Apartamento,Engenheiro Luciano Cavalcante,102,3,3,2,850.0,960000.0
+Apartamento,Meireles,362,4,5,5,0.0,5680000.0
+Apartamento,Parangaba,99,3,2,2,295.0,210000.0
+Apartamento,Dunas,61,2,2,2,0.0,510000.0
+Apartamento,Cocó,80,3,2,2,648.0,720000.0
+Apartamento,Papicu,75,3,2,1,425.0,200000.0
+Apartamento,Passaré,57,3,2,2,0.0,350000.0
+Apartamento,Dunas,75,3,3,2,702.0,607769.0
+Apartamento,Varjota,138,3,3,2,980.0,440000.0
+Apartamento,Parreão,82,3,3,1,519.0,220000.0
+Apartamento,Cocó,112,4,3,1,1317.0,360000.0
+Apartamento,Mondubim,1,1,0,1,250.0,239990.0
+Apartamento,Maraponga,45,2,1,1,220.0,250000.0
+Apartamento,Engenheiro Luciano Cavalcante,71,3,2,2,0.0,634652.0
+Apartamento,Dionisio Torres,131,3,3,1,0.0,380000.0
+Apartamento,Joaquim Távora,88,3,3,2,400.0,680000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,2,750.0,660000.0
+Apartamento,Cocó,138,4,4,3,1360.0,859000.0
+Apartamento,Meireles,253,5,5,4,2700.0,2900000.0
+Apartamento,Papicu,67,3,2,2,0.0,749800.0
+Apartamento,Aldeota,118,3,3,2,1025.0,1180000.0
+Apartamento,Fátima,144,3,4,3,1400.0,1950000.0
+Apartamento,Jacarecanga,62,3,2,2,0.0,350000.0
+Apartamento,Praia do Futuro II,48,2,2,1,100.0,338000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,1,700.0,650000.0
+Apartamento,Montese,61,3,2,2,380.0,435000.0
+Apartamento,Passaré,63,3,2,1,420.0,360000.0
+Apartamento,Mucuripe,132,3,3,2,1562.0,1950000.0
+Apartamento,Aldeota,203,5,6,2,1469.0,1000000.0
+Apartamento,Cocó,123,3,4,2,1300.0,500000.0
+Apartamento,Prefeito José Walter,43,2,2,1,345.0,225000.0
+Apartamento,Papicu,114,3,2,1,751.0,440000.0
+Apartamento,Meireles,61,3,2,1,987.0,490000.0
+Apartamento,Meireles,64,2,2,1,714.0,690000.0
+Apartamento,Meireles,240,4,0,5,2500.0,1800000.0
+Apartamento,Praia do Futuro II,48,2,2,1,0.0,380000.0
+Apartamento,Dionisio Torres,50,1,1,1,0.0,638000.0
+Apartamento,Manoel Dias Branco,116,3,4,2,1100.0,1365000.0
+Apartamento,Benfica,145,4,3,1,820.0,400000.0
+Apartamento,Engenheiro Luciano Cavalcante,0,0,0,0,0.0,918883.0
+Apartamento,Cocó,54,2,2,1,10.0,728596.0
+Apartamento,Meireles,56,2,1,1,570.0,710000.0
+Apartamento,Aldeota,118,3,4,2,920.0,1250000.0
+Apartamento,Praia do Futuro II,51,2,0,1,650.0,399000.0
+Apartamento,Cidade dos Funcionários,55,2,2,1,0.0,561272.0
+Apartamento,Cocó,78,3,0,2,0.0,380000.0
+Apartamento,Guararapes,177,4,5,3,1600.0,1850000.0
+Apartamento,Papicu,78,3,2,2,623.0,729000.0
+Apartamento,Passaré,65,3,2,2,600.0,319999.0
+Apartamento,Mondubim,40,2,1,1,0.0,255000.0
+Apartamento,Engenheiro Luciano Cavalcante,71,3,0,2,750.0,450000.0
+Apartamento,Meireles,42,1,0,1,1383.0,390000.0
+Apartamento,Messejana,52,2,1,1,244.0,189000.0
+Apartamento,Guararapes,251,4,5,4,2823.0,1500000.0
+Apartamento,Fátima,56,2,2,2,600.0,570000.0
+Apartamento,São Gerardo,68,3,2,1,290.0,280000.0
+Apartamento,Presidente Kennedy,53,2,2,1,0.0,423000.0
+Apartamento,Meireles,240,3,4,4,2750.0,1530000.0
+Apartamento,Cocó,112,3,3,1,1310.0,360000.0
+Apartamento,Presidente Kennedy,70,3,2,1,433.0,260000.0
+Apartamento,Papicu,78,3,0,2,0.0,808000.0
+Apartamento,Edson Queiroz,81,3,3,2,800.0,450000.0
+Apartamento,Meireles,112,3,2,2,1230.0,390000.0
+Apartamento,Bela Vista,53,2,2,1,320.0,136000.0
+Apartamento,Aldeota,170,4,4,3,1500.0,890000.0
+Apartamento,Messejana,59,2,2,1,0.0,239000.0
+Apartamento,Parquelândia,63,2,2,1,800.0,349000.0
+Apartamento,Dionisio Torres,50,2,2,1,521.0,700000.0
+Apartamento,Mucuripe,604,7,6,8,0.0,8872235.0
+Apartamento,Fátima,108,3,4,2,720.0,490000.0
+Apartamento,Meireles,341,5,7,6,0.0,4780000.0
+Apartamento,Aldeota,2,2,0,3,0.0,1257433.0
+Apartamento,Meireles,180,3,3,3,2120.0,1100000.0
+Apartamento,Jardim Cearense,65,3,2,2,0.0,545000.0
+Apartamento,Papicu,97,3,4,2,679.0,994000.0
+Apartamento,Meireles,205,3,3,1,700.0,550000.0
+Apartamento,Aldeota,3,3,0,5,1300.0,1650000.0
+Apartamento,Aldeota,112,4,4,2,890.0,1100000.0
+Apartamento,Parque Iracema,58,2,2,2,0.0,483000.0
+Apartamento,Damas,57,3,2,2,10.0,314600.0
+Apartamento,Aldeota,112,3,4,2,0.0,1260000.0
+Apartamento,Cambeba,129,3,4,2,179.0,690000.0
+Apartamento,Engenheiro Luciano Cavalcante,84,3,2,2,990.0,299999.0
+Apartamento,Cidade 2000,75,3,3,2,737.0,520000.0
+Apartamento,Engenheiro Luciano Cavalcante,60,3,1,1,850.0,380000.0
+Apartamento,Engenheiro Luciano Cavalcante,74,3,2,2,750.0,760000.0
+Apartamento,Praia do Futuro II,51,2,2,1,285.0,390000.0
+Apartamento,Fátima,165,4,5,3,1050.0,1750000.0
+Apartamento,Praia de Iracema,51,1,1,1,619.0,620000.0
+Apartamento,Meireles,202,4,5,4,0.0,3200000.0
+Apartamento,Meireles,170,3,1,2,1445.0,750000.0
+Apartamento,Cambeba,73,3,3,2,630.0,530000.0
+Apartamento,Meireles,155,4,5,3,900.0,2200000.0
+Apartamento,Cocó,195,3,5,3,2100.0,1150000.0
+Apartamento,Papicu,2,2,0,3,670.0,1066990.0
+Apartamento,Cocó,110,3,3,2,1250.0,930000.0
+Apartamento,Coaçu,75,3,2,2,433.0,229000.0
+Apartamento,Aldeota,152,4,2,2,1100.0,1370000.0
+Apartamento,Meireles,378,5,6,2,2360.0,1180000.0
+Apartamento,Parreão,60,3,2,2,741.0,299000.0
+Apartamento,Meireles,120,3,2,1,800.0,670000.0
+Apartamento,Meireles,66,3,3,1,1058.0,785000.0
+Apartamento,Patriolino Ribeiro,78,3,2,2,890.0,934816.0
+Apartamento,Presidente Kennedy,54,2,2,1,385.0,420000.0
+Apartamento,Cocó,142,2,3,2,1280.0,560000.0
+Apartamento,Meireles,74,2,2,1,1003.0,1250000.0
+Apartamento,Fátima,70,3,3,2,700.0,670000.0
+Apartamento,São Gerardo,92,3,2,1,800.0,300000.0
+Apartamento,Fátima,112,4,3,2,930.0,895000.0
+Apartamento,Meireles,250,4,6,5,2000.0,3450000.0
+Apartamento,Centro,87,2,2,2,685.0,400000.0
+Apartamento,Cambeba,83,3,2,2,750.0,485000.0
+Apartamento,Praia do Futuro,156,4,0,3,1307.0,380000.0
+Apartamento,Mucuripe,72,3,2,2,878.0,929000.0
+Apartamento,Cocó,72,3,3,2,965.0,620000.0
+Apartamento,Messejana,58,3,2,2,350.0,342400.0
+Apartamento,José Bonifácio,70,3,2,2,465.0,599999.0
+Apartamento,Passaré,48,2,2,1,500.0,290000.0
+Apartamento,Cocó,140,3,4,3,1500.0,980000.0
+Apartamento,Henrique Jorge,45,2,0,1,0.0,890000.0
+Apartamento,Aldeota,65,2,2,2,600.0,219000.0
+Apartamento,Meireles,415,4,6,4,5656.0,5900000.0
+Apartamento,Dionisio Torres,1,1,0,2,520.0,755000.0
+Apartamento,Aldeota,115,3,2,1,600.0,570000.0
+Apartamento,Papicu,97,3,3,2,640.0,1200000.0
+Apartamento,Engenheiro Luciano Cavalcante,3,3,0,4,860.0,950000.0
+Apartamento,Cambeba,63,3,2,1,396.0,295000.0
+Apartamento,Engenheiro Luciano Cavalcante,120,3,4,2,0.0,956383.0
+Apartamento,Meireles,96,3,3,1,670.0,380000.0
+Apartamento,Parque Iracema,91,3,2,2,574.0,625000.0
+Apartamento,Jangurussu,38,2,0,1,0.0,197530.0
+Apartamento,Maraponga,45,2,1,1,242.0,235000.0
+Apartamento,Messejana,126,3,3,2,390.0,320000.0
+Apartamento,Jardim Cearense,64,3,2,2,500.0,600000.0
+Apartamento,Maraponga,50,2,0,1,0.0,195000.0
+Apartamento,Cocó,278,3,4,4,0.0,2300000.0
+Apartamento,Aldeota,145,3,5,4,1400.0,1680000.0
+Apartamento,São Bento,5,2,2,1,0.0,220000.0
+Apartamento,Damas,72,3,3,1,352.0,195000.0
+Apartamento,de Lourdes,60,3,2,1,350.0,480000.0
+Apartamento,Prefeito José Walter,43,2,2,1,0.0,225000.0
+Apartamento,Cocó,1,1,0,1,0.0,570000.0
+Apartamento,Parquelândia,85,3,2,2,100.0,698700.0
+Apartamento,Meireles,1,1,0,2,800.0,920000.0
+Apartamento,Jacarecanga,58,2,2,2,500.0,320000.0
+Apartamento,Messejana,60,3,3,1,460.0,315000.0
+Apartamento,Papicu,110,3,3,2,1350.0,379000.0
+Apartamento,Aldeota,226,3,4,2,2000.0,820000.0
+Apartamento,Aldeota,2,3,3,2,748.0,975000.0
+Apartamento,Meireles,49,2,1,1,0.0,1150000.0
+Apartamento,Papicu,96,3,2,1,550.0,365000.0
+Apartamento,Vicente Pinzon,78,2,2,1,435.0,190000.0
+Apartamento,Mucuripe,45,1,0,1,0.0,680161.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,2,680.0,660000.0
+Apartamento,Fátima,150,4,4,3,1400.0,1950000.0
+Apartamento,Aldeota,105,3,4,2,730.0,649000.0
+Apartamento,Aldeota,93,3,3,2,1200.0,903000.0
+Apartamento,Dionisio Torres,74,3,3,2,650.0,490000.0
+Apartamento,Praia do Futuro,156,4,3,2,1823.0,440000.0
+Apartamento,Meireles,235,4,5,4,1800.0,1300000.0
+Apartamento,Praia de Iracema,180,3,4,2,1050.0,929000.0
+Apartamento,Cidade dos Funcionários,73,3,2,2,820.0,579990.0
+Apartamento,Parque Iracema,86,3,0,2,650.0,500000.0
+Apartamento,Papicu,110,3,2,2,0.0,310000.0
+Apartamento,Jóquei Clube,49,2,2,1,0.0,370000.0
+Apartamento,Messejana,65,3,2,2,350.0,420000.0
+Apartamento,Meireles,153,3,4,3,0.0,3300000.0
+Apartamento,Papicu,115,3,3,1,750.0,346000.0
+Apartamento,Papicu,110,4,3,1,747.0,300000.0
+Apartamento,Aldeota,300,3,6,4,0.0,1690000.0
+Apartamento,Meireles,74,2,0,2,1003.0,1250000.0
+Apartamento,Cidade dos Funcionários,73,3,2,2,770.0,620000.0
+Apartamento,Aldeota,110,2,3,2,1166.0,929900.0
+Apartamento,Joaquim Távora,121,3,2,3,1870.0,400000.0
+Apartamento,Paupina,41,2,0,1,320.0,210000.0
+Apartamento,Presidente Kennedy,73,3,2,2,550.0,700000.0
+Apartamento,Engenheiro Luciano Cavalcante,70,3,2,2,860.0,460000.0
+Apartamento,Meireles,300,5,5,4,2700.0,2500000.0
+Apartamento,Dionisio Torres,116,3,2,3,1390.0,520000.0
+Apartamento,Meireles,170,3,4,2,2600.0,1400000.0
+Apartamento,Praia do Futuro,58,2,2,1,898.0,545000.0
+Apartamento,Presidente Kennedy,65,3,2,1,0.0,479000.0
+Apartamento,Meireles,179,3,4,2,1600.0,750000.0
+Apartamento,Fátima,4,4,0,0,0.0,2370455.0
+Apartamento,Meireles,110,3,4,2,1258.0,1099000.0
+Apartamento,Edson Queiroz,245,5,5,2,1720.0,820000.0
+Apartamento,Messejana,55,2,2,1,350.0,265000.0
+Apartamento,Cocó,138,4,3,2,1200.0,520000.0
+Apartamento,Cocó,82,3,4,2,1280.0,565000.0
+Apartamento,Papicu,70,3,2,2,804.0,420000.0
+Apartamento,Meireles,100,3,3,2,1177.0,730000.0
+Apartamento,Itaperi,47,2,2,1,300.0,315000.0
+Apartamento,Praia do Futuro II,1,1,0,2,266.0,399000.0
+Apartamento,Parque Iracema,53,2,2,1,535.0,550000.0
+Apartamento,Aldeota,117,3,4,2,850.0,999900.0
+Apartamento,Aldeota,111,3,3,2,550.0,859999.0
+Apartamento,Maraponga,60,3,2,1,0.0,446000.0
+Apartamento,Passaré,46,2,2,1,276.0,220000.0
+Apartamento,Itaperi,140,3,2,2,920.0,557000.0
+Apartamento,Aldeota,304,4,6,4,3500.0,1900000.0
+Apartamento,Parquelândia,84,3,3,2,0.0,717000.0
+Apartamento,Papicu,138,3,3,3,1019.0,1343000.0
+Apartamento,Parquelândia,52,2,2,1,0.0,270000.0
+Apartamento,Parreão,60,2,1,1,0.0,280000.0
+Apartamento,Vicente Pinzon,110,3,5,2,0.0,400000.0
+Apartamento,Praia do Futuro II,63,2,2,1,748.0,720000.0
+Apartamento,Aldeota,150,4,4,2,0.0,1726354.0
+Apartamento,Praia do Futuro II,85,2,2,2,0.0,360000.0
+Apartamento,Benfica,104,3,0,4,0.0,1132820.0
+Apartamento,Presidente Kennedy,94,3,2,2,0.0,716000.0
+Apartamento,Mucuripe,72,3,2,2,890.0,942266.0
+Apartamento,Dionisio Torres,127,3,2,2,750.0,270000.0
+Apartamento,Cambeba,75,2,3,2,670.0,550000.0
+Apartamento,Meireles,90,3,4,1,832.0,690000.0
+Apartamento,Papicu,100,3,3,1,850.0,400000.0
+Apartamento,Dunas,116,3,4,2,970.0,1250000.0
+Apartamento,Meireles,70,2,2,1,700.0,980000.0
+Apartamento,Cambeba,129,3,4,2,1205.0,680000.0
+Apartamento,Jóquei Clube,91,3,3,1,494.0,278000.0
+Apartamento,Dionisio Torres,120,3,2,1,1050.0,400000.0
+Apartamento,Praia de Iracema,186,3,4,3,0.0,929000.0
+Apartamento,Mondubim,54,2,1,1,244.0,230000.0
+Apartamento,Meireles,360,3,4,3,3834.0,3700000.0
+Apartamento,Cocó,69,3,2,2,650.0,670000.0
+Apartamento,Fátima,72,2,2,1,656.0,250000.0
+Apartamento,Meireles,291,5,6,4,3100.0,1800000.0
+Apartamento,Maraponga,64,3,3,1,600.0,260000.0
+Apartamento,Meireles,95,3,3,2,0.0,1099000.0
+Apartamento,Serrinha,55,2,2,1,380.0,239000.0
+Apartamento,Cambeba,44,2,2,2,280.0,245000.0
+Apartamento,Parangaba,66,3,2,1,400.0,380000.0
+Apartamento,Aldeota,204,4,5,4,1400.0,2090000.0
+Apartamento,Parangaba,4,3,2,2,0.0,328000.0
+Apartamento,Dionisio Torres,47,2,0,2,0.0,662000.0
+Apartamento,Messejana,41,2,1,1,260.0,200000.0
+Apartamento,Cambeba,129,3,4,2,1217.0,680000.0
+Apartamento,Meireles,81,2,3,1,1228.0,540000.0
+Apartamento,Montese,90,3,3,1,370.0,240000.0
+Apartamento,Parque Iracema,83,3,2,2,735.0,485000.0
+Apartamento,Praia do Futuro,53,2,2,1,0.0,450000.0
+Apartamento,Dionisio Torres,2,2,0,4,820.0,450000.0
+Apartamento,Aldeota,119,3,4,2,0.0,1198000.0
+Apartamento,Aldeota,369,4,6,4,3100.0,1690000.0
+Apartamento,Fátima,108,3,3,4,930.0,580000.0
+Apartamento,Meireles,110,3,5,3,1160.0,1100000.0
+Apartamento,Meireles,40,1,1,1,350.0,600000.0
+Apartamento,Meireles,305,5,6,4,3300.0,2300000.0
+Apartamento,Papicu,78,3,3,2,492.0,738000.0
+Apartamento,Papicu,94,3,1,1,1044.0,270000.0
+Apartamento,Aldeota,95,3,4,2,950.0,1067983.0
+Apartamento,Fátima,80,3,2,2,535.0,400000.0
+Apartamento,Dionisio Torres,60,3,3,1,860.0,400000.0
+Apartamento,Praia do Futuro II,51,2,1,1,100.0,338000.0
+Apartamento,Parque Iracema,95,3,4,2,811.0,850000.0
+Apartamento,Aldeota,65,3,2,2,680.0,560000.0
+Apartamento,Mondubim,51,2,1,1,283.0,210000.0
+Apartamento,de Lourdes,88,2,3,2,780.0,890000.0
+Apartamento,Aldeota,4,4,0,4,2300.0,1200000.0
+Apartamento,Praia de Iracema,54,2,2,1,674.0,635000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,2,700.0,680000.0
+Apartamento,Engenheiro Luciano Cavalcante,64,3,2,2,900.0,450000.0
+Apartamento,Serrinha,68,3,2,2,550.0,390000.0
+Apartamento,Parque Manibura,52,3,2,1,0.0,210000.0
+Apartamento,Meireles,297,5,5,4,2350.0,2480000.0
+Apartamento,Cocó,116,3,3,3,1172.0,1480000.0
+Apartamento,Praia de Iracema,2,2,0,2,533.0,795000.0
+Apartamento,Engenheiro Luciano Cavalcante,74,3,2,2,750.0,750000.0
+Apartamento,Aldeota,94,3,3,2,1100.0,950000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,2,650.0,580000.0
+Apartamento,Meireles,356,4,5,5,0.0,3400000.0
+Apartamento,Aldeota,102,3,3,2,850.0,550000.0
+Apartamento,Mondubim,57,2,2,3,0.0,225000.0
+Apartamento,Cocó,210,3,5,4,0.0,2000000.0
+Apartamento,Mucuripe,86,2,2,2,690.0,750000.0
+Apartamento,Aldeota,364,5,7,6,1500.0,4100000.0
+Apartamento,Meireles,158,3,3,4,1300.0,790000.0
+Apartamento,Aldeota,197,3,3,2,1700.0,950000.0
+Apartamento,Henrique Jorge,44,2,1,1,295.0,180000.0
+Apartamento,Papicu,95,3,2,2,500.0,890000.0
+Apartamento,Cocó,119,3,4,3,0.0,1390000.0
+Apartamento,Mucuripe,114,3,4,2,700.0,1453300.0
+Apartamento,Meireles,56,2,2,1,800.0,780000.0
+Apartamento,Engenheiro Luciano Cavalcante,76,2,3,2,770.0,699000.0
+Apartamento,Aldeota,45,2,1,1,0.0,640864.0
+Apartamento,Parangaba,58,0,0,0,0.0,350000.0
+Apartamento,Papicu,102,3,3,2,1080.0,340000.0
+Apartamento,Cocó,109,3,3,2,800.0,500000.0
+Apartamento,Cidade dos Funcionários,156,3,4,4,0.0,698000.0
+Apartamento,Parquelândia,145,3,4,3,850.0,1200000.0
+Apartamento,Cidade 2000,46,2,1,1,319.0,235000.0
+Apartamento,Álvaro Weyne,44,2,1,1,280.0,165000.0
+Apartamento,São Gerardo,65,3,2,2,380.0,250000.0
+Apartamento,Papicu,85,3,0,2,670.0,250000.0
+Apartamento,Cajazeiras,52,2,2,1,520.0,255000.0
+Apartamento,Aldeota,170,3,4,3,1750.0,1300000.0
+Apartamento,Presidente Kennedy,93,3,3,2,10.0,726000.0
+Apartamento,Centro,106,2,2,2,0.0,1575000.0
+Apartamento,Parquelândia,60,2,2,1,720.0,220000.0
+Apartamento,Cocó,41,1,1,1,0.0,500000.0
+Apartamento,Cocó,97,3,3,2,950.0,950000.0
+Apartamento,Meireles,4,4,0,5,2800.0,3500000.0
+Apartamento,Praia de Iracema,38,1,1,1,0.0,449900.0
+Apartamento,Aldeota,83,3,3,2,680.0,570000.0
+Apartamento,Parque Iracema,54,2,2,1,535.0,550000.0
+Apartamento,Mucuripe,86,2,3,2,890.0,850000.0
+Apartamento,São Gerardo,90,3,2,2,870.0,309999.0
+Apartamento,Engenheiro Luciano Cavalcante,77,3,3,2,720.0,689000.0
+Apartamento,Cocó,55,2,2,1,0.0,468000.0
+Apartamento,Meireles,295,5,6,4,0.0,1429000.0
+Apartamento,Papicu,126,3,4,2,1045.0,580000.0
+Apartamento,Joaquim Távora,65,3,2,2,0.0,634924.0
+Apartamento,Damas,65,3,2,2,530.0,295000.0
+Apartamento,Aldeota,197,4,4,3,2000.0,870000.0
+Apartamento,Couto Fernandes,67,3,2,1,300.0,195000.0
+Apartamento,Parque Iracema,115,3,3,2,0.0,1290000.0
+Apartamento,Praia de Iracema,2,2,0,3,600.0,1390000.0
+Apartamento,Meireles,79,2,2,1,920.0,750000.0
+Apartamento,Papicu,161,3,4,2,1690.0,435000.0
+Apartamento,Guararapes,150,3,4,3,1650.0,720000.0
+Apartamento,Centro,76,3,2,1,690.0,180000.0
+Apartamento,Aldeota,91,3,3,2,800.0,950000.0
+Apartamento,Cambeba,68,3,2,2,1100.0,380000.0
+Apartamento,Papicu,154,3,4,2,1400.0,440000.0
+Apartamento,Parque Dois Irmãos,63,3,2,2,320.0,340000.0
+Apartamento,Parque Iracema,7,3,2,2,600.0,790000.0
+Apartamento,Cocó,125,3,4,2,1400.0,440000.0
+Apartamento,Meireles,600,5,6,8,0.0,4300000.0
+Apartamento,Meireles,139,4,4,2,1300.0,720000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,3,3,2,680.0,640000.0
+Apartamento,Dunas,107,3,3,1,150.0,1200000.0
+Apartamento,Meireles,305,3,4,4,3300.0,2100000.0
+Apartamento,Aldeota,178,3,4,2,1100.0,869000.0
+Apartamento,Parquelândia,0,0,0,0,0.0,1299800.0
+Apartamento,Papicu,67,3,3,2,0.0,611000.0
+Apartamento,Centro,87,2,2,1,0.0,350000.0
+Apartamento,Parque Iracema,87,3,3,2,630.0,619999.0
+Apartamento,Fátima,95,4,2,2,800.0,350000.0
+Apartamento,Parangaba,95,3,3,1,380.0,210000.0
+Apartamento,Parque Iracema,86,3,3,2,650.0,499999.0
+Apartamento,Vicente Pinzon,156,4,4,2,1540.0,480000.0
+Apartamento,Aldeota,87,3,1,1,750.0,360000.0
+Apartamento,Praia do Futuro II,64,2,2,1,800.0,310000.0
+Apartamento,Cambeba,80,3,2,2,700.0,672690.0
+Apartamento,Meireles,76,3,2,1,900.0,400000.0
+Apartamento,Papicu,94,3,3,2,850.0,880000.0
+Apartamento,Aldeota,69,3,3,2,0.0,933128.0
+Apartamento,Vila Ellery,52,2,1,1,480.0,199000.0
+Apartamento,Papicu,197,3,5,2,1400.0,480000.0
+Apartamento,Meireles,225,4,5,5,2400.0,3830000.0
+Apartamento,Guararapes,160,3,4,2,1100.0,740000.0
+Apartamento,Maraponga,55,1,1,1,0.0,65000.0
+Apartamento,Parque Santa Maria,65,3,2,2,470.0,220000.0
+Apartamento,Dionisio Torres,115,3,4,2,0.0,1189500.0
+Apartamento,Meireles,79,2,2,1,0.0,920000.0
+Apartamento,Meireles,785,6,8,6,3000.0,4700000.0
+Apartamento,Cocó,217,4,5,4,1927.0,2285000.0
+Apartamento,Meireles,97,3,3,2,1130.0,1650000.0
+Apartamento,Meireles,214,4,6,3,2880.0,1290000.0
+Apartamento,Varjota,130,3,3,3,920.0,550000.0
+Apartamento,Edson Queiroz,81,3,3,2,615.0,680000.0
+Apartamento,Mondubim,1,1,0,1,250.0,174800.0
+Apartamento,Meireles,68,2,1,2,729.0,690000.0
+Apartamento,Mucuripe,97,4,2,2,950.0,560000.0
+Apartamento,Praia do Futuro,55,2,1,1,0.0,65000.0
+Apartamento,Guararapes,146,3,4,3,1640.0,780000.0
+Apartamento,Meireles,125,4,3,2,1238.0,600000.0
+Apartamento,Meireles,166,3,4,3,0.0,2105887.0
+Apartamento,Montese,78,3,3,1,730.0,165000.0
+Apartamento,Meireles,232,4,5,4,2013.0,3700000.0
+Apartamento,Guararapes,2,2,0,2,1110.0,813000.0
+Apartamento,Farias Brito,110,3,2,2,585.0,520000.0
+Apartamento,Guararapes,138,3,5,3,3300.0,1700000.0
+Apartamento,Vicente Pinzon,69,3,2,2,400.0,230000.0
+Apartamento,Maraponga,67,3,2,1,440.0,190000.0
+Apartamento,Mondubim,115,2,3,1,0.0,340000.0
+Apartamento,Cocó,81,3,3,2,970.0,990000.0
+Apartamento,Guararapes,78,3,2,2,0.0,870000.0
+Apartamento,Benfica,0,0,0,0,0.0,522153.0
+Apartamento,Cocó,107,3,4,3,1168.0,1300000.0
+Apartamento,Aldeota,2,2,0,4,0.0,1623105.0
+Apartamento,Aldeota,150,5,4,3,1500.0,995000.0
+Apartamento,Presidente Kennedy,68,3,2,1,0.0,486000.0
+Apartamento,Cocó,135,3,4,3,0.0,1238000.0
+Apartamento,Passaré,50,2,0,1,350.0,140000.0
+Apartamento,Guararapes,235,4,4,4,0.0,2521476.0
+Apartamento,Passaré,75,3,2,1,330.0,230000.0
+Apartamento,Papicu,97,3,2,2,731.0,932605.0
+Apartamento,Aracapé,42,2,1,1,0.0,205990.0
+Apartamento,Cocó,98,3,2,1,895.0,263000.0
+Apartamento,Dionisio Torres,115,3,3,2,0.0,1175039.0
+Apartamento,Parquelândia,92,3,3,2,600.0,640000.0
+Apartamento,Guararapes,165,4,5,3,0.0,1800000.0
+Apartamento,de Lourdes,59,3,2,1,0.0,650000.0
+Apartamento,Engenheiro Luciano Cavalcante,164,3,4,3,1300.0,1250000.0
+Apartamento,Meireles,213,4,5,2,2000.0,1050000.0
+Apartamento,Damas,80,3,3,1,470.0,220000.0
+Apartamento,Cambeba,60,2,2,1,625.0,349000.0
+Apartamento,Engenheiro Luciano Cavalcante,145,3,4,3,1100.0,1250000.0
+Apartamento,Sapiranga,132,4,5,3,990.0,970000.0
+Apartamento,Aldeota,205,4,4,4,2200.0,1700000.0
+Apartamento,Meireles,112,3,3,2,1100.0,800000.0
+Apartamento,Engenheiro Luciano Cavalcante,142,3,5,3,1300.0,1550000.0
+Apartamento,Messejana,38,2,0,1,0.0,191700.0
+Apartamento,Cocó,107,3,4,3,1510.0,1200000.0
+Apartamento,Papicu,78,3,3,2,0.0,776349.0
+Apartamento,Papicu,130,4,4,2,1510.0,200000.0
+Apartamento,Amadeu Furtado,123,3,3,2,600.0,250000.0
+Apartamento,Conjunto Esperança,42,2,1,1,231.0,99000.0
+Apartamento,Meireles,137,4,3,2,1500.0,560000.0
+Apartamento,Meireles,38,1,1,1,342.0,535000.0
+Apartamento,Cocó,162,3,4,3,0.0,1240000.0
+Apartamento,Aldeota,145,3,5,2,1400.0,590000.0
+Apartamento,Cambeba,48,2,1,1,0.0,350000.0
+Apartamento,Praia do Futuro,68,2,2,2,670.0,350000.0
+Apartamento,Monte Castelo,64,3,2,2,470.0,420000.0
+Apartamento,Monte Castelo,64,3,2,2,514.0,389000.0
+Apartamento,Meireles,255,4,6,4,0.0,4290897.0
+Apartamento,Dunas,61,2,2,2,510.0,504400.0
+Apartamento,Meireles,86,2,3,2,680.0,765000.0
+Apartamento,Meireles,339,4,6,6,3260.0,4200000.0
+Apartamento,Mucuripe,86,2,3,2,820.0,790000.0
+Apartamento,Monte Castelo,50,2,2,1,0.0,350000.0
+Apartamento,Passaré,44,2,1,1,350.0,230000.0
+Apartamento,Itaperi,85,3,3,2,647.0,585000.0
+Apartamento,Fátima,114,3,4,2,1150.0,880000.0
+Apartamento,Papicu,110,3,1,2,1125.0,395000.0
+Apartamento,Centro,55,2,2,1,350.0,485000.0
+Apartamento,Messejana,61,3,2,1,334.0,295000.0
+Apartamento,Prefeito José Walter,49,2,1,1,260.0,130000.0
+Apartamento,Meireles,61,2,2,1,700.0,750000.0
+Apartamento,Engenheiro Luciano Cavalcante,80,3,3,2,800.0,620000.0
+Apartamento,Aldeota,87,3,2,1,732.0,400000.0
+Apartamento,Maraponga,45,2,1,1,350.0,120000.0
+Apartamento,Parque Iracema,70,3,2,2,630.0,650000.0
+Apartamento,Messejana,54,2,2,2,450.0,280000.0
+Apartamento,Cocó,69,3,2,2,650.0,699000.0
+Apartamento,Mondubim,56,2,1,1,300.0,215000.0
+Apartamento,Cocó,96,3,3,2,0.0,949990.0
+Apartamento,Presidente Kennedy,55,2,2,1,301.0,450000.0
+Apartamento,Meireles,70,2,2,2,810.0,890000.0
+Apartamento,Presidente Kennedy,50,2,2,1,0.0,330000.0
+Apartamento,Cocó,115,3,3,2,1346.0,690000.0
+Apartamento,Mucuripe,300,3,4,4,2000.0,2290000.0
+Apartamento,Aldeota,80,3,2,2,533.0,830000.0
+Apartamento,Cambeba,101,3,3,2,795.0,830000.0
+Apartamento,Meireles,54,2,2,1,0.0,868000.0
+Apartamento,de Lourdes,75,3,3,2,640.0,600000.0
+Apartamento,Dunas,75,3,2,2,640.0,600000.0
+Apartamento,Parquelândia,64,3,3,2,500.0,775000.0
+Apartamento,Cocó,104,2,3,1,600.0,320000.0
+Apartamento,Cambeba,58,2,2,2,437.0,435000.0
+Apartamento,Cocó,120,4,3,2,1370.0,320000.0
+Apartamento,Maraponga,50,2,1,1,240.0,250000.0
+Apartamento,Praia de Iracema,146,4,4,2,1400.0,1323000.0
+Apartamento,Guararapes,277,4,7,4,0.0,2795000.0
+Apartamento,Meireles,350,4,5,5,4492.0,3400000.0
+Apartamento,Edson Queiroz,42,2,1,1,340.0,180000.0
+Apartamento,Dionisio Torres,50,2,2,1,520.0,580000.0
+Apartamento,Papicu,98,3,3,2,650.0,948000.0
+Apartamento,Parque Dois Irmãos,66,1,2,2,486.0,370000.0
+Apartamento,Joaquim Távora,200,4,4,2,1150.0,600000.0
+Apartamento,Jacarecanga,59,3,2,1,0.0,365040.0
+Apartamento,Varjota,89,3,3,2,1200.0,1190000.0
+Apartamento,Benfica,93,3,2,1,0.0,230000.0
+Apartamento,Parque Iracema,54,2,2,1,650.0,540000.0
+Apartamento,Engenheiro Luciano Cavalcante,74,2,1,1,740.0,750000.0
+Apartamento,Aldeota,37,1,1,1,650.0,550000.0
+Apartamento,Engenheiro Luciano Cavalcante,123,3,4,2,900.0,995000.0
+Apartamento,Papicu,138,4,2,2,824.0,1351000.0
+Apartamento,Parque Dois Irmãos,64,3,2,2,399.0,329999.0
+Apartamento,Cocó,87,3,2,2,890.0,650000.0
+Apartamento,Papicu,95,2,3,2,541.0,885000.0
+Apartamento,Aldeota,203,4,6,4,1500.0,1128000.0
+Apartamento,Passaré,41,2,0,1,0.0,210130.0
+Apartamento,Mondubim,45,2,1,1,250.0,210000.0
+Apartamento,Passaré,54,2,2,1,460.0,235000.0
+Apartamento,Joaquim Távora,89,3,2,1,1250.0,320000.0
+Apartamento,Mucuripe,118,3,3,2,1200.0,750000.0
+Apartamento,Mucuripe,86,3,3,2,0.0,919000.0
+Apartamento,Engenheiro Luciano Cavalcante,121,3,0,4,0.0,1282465.0
+Apartamento,Cocó,56,2,1,1,111.0,471000.0
+Apartamento,Jacarecanga,70,3,2,2,530.0,450000.0
+Apartamento,Parque Iracema,55,2,2,1,0.0,615000.0
+Apartamento,Cocó,131,3,4,3,800.0,1349999.0
+Apartamento,Joaquim Távora,65,3,2,2,0.0,715000.0
+Apartamento,Papicu,60,2,0,2,559.0,320000.0
+Apartamento,Meireles,435,4,5,5,0.0,9412420.0
+Apartamento,Meireles,59,2,2,1,660.0,490000.0
+Apartamento,Meireles,66,2,2,1,0.0,1490000.0
+Apartamento,Barra do Ceará,54,2,1,1,356.0,250000.0
+Apartamento,Meireles,230,2,4,4,2000.0,1200000.0
+Apartamento,Parreão,107,3,3,2,750.0,429999.0
+Apartamento,Cocó,105,3,2,2,0.0,1021000.0
+Apartamento,Jóquei Clube,70,3,2,1,345.0,220000.0
+Apartamento,Passaré,50,2,1,1,150.0,150000.0
+Apartamento,Maraponga,54,2,2,2,355.0,360000.0
+Apartamento,Engenheiro Luciano Cavalcante,90,3,3,2,661.0,295000.0
+Apartamento,Patriolino Ribeiro,107,3,3,2,800.0,590000.0
+Apartamento,Presidente Kennedy,54,2,1,1,11.0,483000.0
+Apartamento,Papicu,189,3,0,4,0.0,1990000.0
+Apartamento,Cocó,217,3,4,4,1946.0,2300000.0
+Apartamento,Aldeota,149,4,5,2,1400.0,790000.0
+Apartamento,São Gerardo,121,3,3,2,780.0,970000.0
+Apartamento,Cambeba,89,3,2,2,754.0,807000.0
+Apartamento,Cocó,97,3,4,2,875.0,510000.0
+Apartamento,Parreão,60,2,2,1,1060.0,280000.0
+Apartamento,Meireles,26,1,1,1,0.0,475000.0
+Apartamento,Passaré,50,2,2,1,350.0,319000.0
+Apartamento,Meireles,25,3,2,1,1300.0,299000.0
+Apartamento,Papicu,110,4,3,1,1066.0,499000.0
+Apartamento,Engenheiro Luciano Cavalcante,133,4,4,2,1200.0,1350000.0
+Apartamento,Meireles,64,1,1,1,0.0,1110000.0
+Apartamento,Aldeota,4,4,0,4,0.0,2927000.0
+Apartamento,Engenheiro Luciano Cavalcante,112,3,4,3,1100.0,980000.0
+Apartamento,Fátima,141,3,3,1,0.0,1894516.0
+Apartamento,Papicu,70,3,3,2,750.0,450000.0
+Apartamento,Presidente Kennedy,80,2,2,1,0.0,578000.0
+Apartamento,Meireles,51,1,1,1,1818.0,385000.0
+Apartamento,Montese,73,3,2,2,349.0,479000.0
+Apartamento,Dionisio Torres,108,4,3,1,1150.0,230000.0
+Apartamento,Meireles,341,4,7,5,0.0,4350000.0
+Apartamento,Fátima,107,3,1,2,1350.0,470000.0
+Apartamento,Aldeota,105,3,4,1,1200.0,550000.0
+Apartamento,Monte Castelo,70,3,2,1,330.0,230000.0
+Apartamento,José Bonifácio,73,3,1,2,470.0,449000.0
+Apartamento,Parreão,1,1,0,2,1060.0,280000.0
+Apartamento,Itaperi,68,3,2,1,400.0,210000.0
+Apartamento,Meireles,93,2,2,1,0.0,370000.0
+Apartamento,Guararapes,98,3,3,2,838.0,699000.0
+Apartamento,Parque Iracema,71,2,3,2,620.0,549000.0
+Apartamento,Aldeota,62,2,2,2,760.0,470000.0
+Apartamento,Meireles,254,3,4,5,639.0,4100000.0
+Apartamento,Dendê,44,2,1,1,220.0,199000.0
+Apartamento,Aldeota,115,3,3,2,980.0,680000.0
+Apartamento,Cocó,135,3,4,3,0.0,1485000.0
+Apartamento,Dionisio Torres,72,3,2,1,810.0,490000.0
+Apartamento,Cocó,5,2,2,1,0.0,471000.0
+Apartamento,Benfica,50,2,2,1,490.0,220000.0
+Apartamento,Manoel Dias Branco,54,2,2,1,450.0,404990.0
+Apartamento,Cocó,1,1,0,3,899.0,399000.0
+Apartamento,Aldeota,120,3,3,4,900.0,380000.0
+Apartamento,Meireles,84,2,2,1,1300.0,299000.0
+Apartamento,Mucuripe,124,3,0,2,0.0,450000.0
+Apartamento,Aldeota,120,3,2,2,1500.0,750000.0
+Apartamento,Maraponga,54,2,0,2,382.0,249900.0
+Apartamento,Mucuripe,232,4,4,4,0.0,4041000.0
+Apartamento,Aldeota,218,4,4,4,0.0,2951231.0
+Apartamento,Praia do Futuro II,48,2,2,1,0.0,340000.0
+Apartamento,Dionisio Torres,114,3,4,2,0.0,850000.0
+Apartamento,Meireles,1,3,3,2,116.0,570000.0
+Apartamento,Engenheiro Luciano Cavalcante,54,2,2,2,440.0,715000.0
+Apartamento,Aldeota,87,2,3,2,731.0,400000.0
+Apartamento,Papicu,78,3,3,2,550.0,840000.0
+Apartamento,Meireles,311,4,4,3,2000.0,1600000.0
+Apartamento,Itaperi,48,2,0,1,297.0,140000.0
+Apartamento,Guararapes,121,3,5,2,1200.0,1315000.0
+Apartamento,Papicu,67,3,2,2,400.0,799000.0
+Apartamento,Varjota,126,4,3,1,0.0,450000.0
+Apartamento,Guararapes,259,4,5,5,1800.0,3500000.0
+Apartamento,Fátima,120,3,3,2,860.0,550000.0
+Apartamento,Meireles,88,3,3,1,0.0,389999.0
+Apartamento,Meireles,145,3,4,2,1470.0,699000.0
+Apartamento,Maraponga,45,2,1,1,260.0,245000.0
+Apartamento,Vila União,160,3,2,2,0.0,165000.0
+Apartamento,Fátima,48,2,2,1,490.0,489000.0
+Apartamento,Parque Iracema,58,2,2,1,438.0,430000.0
+Apartamento,Parreão,82,3,3,1,545.0,240000.0
+Apartamento,Cocó,104,3,3,2,0.0,998147.0
+Apartamento,Cocó,127,3,4,2,1100.0,1040000.0
+Apartamento,Cocó,71,1,2,2,0.0,420000.0
+Apartamento,Aldeota,191,3,5,2,1700.0,950000.0
+Apartamento,Meireles,121,3,2,2,1584.0,620000.0
+Apartamento,Joaquim Távora,91,3,2,1,802.0,265000.0
+Apartamento,Papicu,78,3,3,2,0.0,869000.0
+Apartamento,Aldeota,95,3,3,2,1100.0,1070000.0
+Apartamento,Dionisio Torres,45,1,2,1,716.0,300000.0
+Apartamento,Itaperi,140,3,3,2,920.0,560000.0
+Apartamento,Papicu,120,4,2,1,550.0,265000.0
+Apartamento,São Gerardo,118,3,2,1,475.0,320000.0
+Apartamento,Passaré,44,2,1,1,300.0,270000.0
+Apartamento,Aldeota,1,3,4,2,1200.0,899000.0
+Apartamento,Aldeota,127,3,3,3,1200.0,880000.0
+Apartamento,Parquelândia,34,1,1,1,0.0,341070.0
+Apartamento,Centro,53,2,2,2,0.0,413771.0
+Apartamento,Meireles,134,3,2,1,1200.0,500000.0
+Apartamento,Aldeota,79,3,3,2,0.0,1382000.0
+Apartamento,Cocó,150,4,4,2,990.0,450000.0
+Apartamento,Meireles,401,5,6,5,0.0,5990000.0
+Apartamento,Cocó,128,4,5,2,1300.0,515000.0
+Apartamento,Papicu,81,3,3,1,410.0,179000.0
+Apartamento,Parangaba,60,3,2,1,320.0,230000.0
+Apartamento,Engenheiro Luciano Cavalcante,80,3,3,2,650.0,620000.0
+Apartamento,Messejana,130,3,2,2,410.0,460000.0
+Apartamento,Meireles,267,4,6,3,2000.0,1499000.0
+Apartamento,São João do Tauape,137,3,5,3,1580.0,960000.0
+Apartamento,Praia do Futuro I,51,2,2,1,0.0,308990.0
+Apartamento,Vicente Pinzon,60,2,2,2,750.0,240000.0
+Apartamento,Aldeota,224,3,5,3,2250.0,780000.0
+Apartamento,Monte Castelo,100,3,2,1,0.0,229000.0
+Apartamento,Parquelândia,111,3,3,2,715.0,1070000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,2,680.0,650000.0
+Apartamento,Aldeota,40,1,1,2,0.0,632105.0
+Apartamento,Aldeota,116,3,2,1,1390.0,516000.0
+Apartamento,Dionisio Torres,6,2,3,2,0.0,811000.0
+Apartamento,Centro,141,3,3,4,610.0,1149000.0
+Apartamento,Meireles,600,5,7,7,0.0,8500000.0
+Apartamento,Paupina,41,2,1,2,325.0,250000.0
+Apartamento,Meireles,256,4,5,2,0.0,4290000.0
+Apartamento,Meireles,355,4,5,5,0.0,5601388.0
+Apartamento,Engenheiro Luciano Cavalcante,189,4,5,4,1400.0,2500000.0
+Apartamento,Cambeba,62,3,2,1,380.0,410000.0
+Apartamento,Aldeota,112,3,4,2,790.0,1050000.0
+Apartamento,Aldeota,119,3,3,2,0.0,1538117.0
+Apartamento,Messejana,59,2,1,2,500.0,399000.0
+Apartamento,Meireles,56,2,1,1,1568.0,470000.0
+Apartamento,Jóquei Clube,48,2,2,1,0.0,366000.0
+Apartamento,Cocó,105,3,4,2,0.0,961000.0
+Apartamento,Meireles,105,3,2,2,960.0,530000.0
+Apartamento,Praia do Futuro,1,1,0,2,0.0,354386.0
+Apartamento,Dionisio Torres,260,4,6,3,1635.0,999000.0
+Apartamento,Meireles,56,2,2,1,700.0,700000.0
+Apartamento,Engenheiro Luciano Cavalcante,54,3,2,1,0.0,407000.0
+Apartamento,Engenheiro Luciano Cavalcante,104,3,3,2,0.0,999615.0
+Apartamento,Patriolino Ribeiro,146,3,4,3,960.0,1990000.0
+Apartamento,Cambeba,60,3,3,1,460.0,315000.0
+Apartamento,Dionisio Torres,118,3,4,2,1100.0,660000.0
+Apartamento,Dionisio Torres,118,4,4,2,0.0,1330000.0
+Apartamento,Centro,55,2,2,1,345.0,430000.0
+Apartamento,Papicu,97,3,3,2,615.0,876000.0
+Apartamento,Aldeota,64,2,2,1,764.0,839000.0
+Apartamento,Engenheiro Luciano Cavalcante,73,2,1,2,500.0,580000.0
+Apartamento,Messejana,8,2,2,1,0.0,265000.0
+Apartamento,Aldeota,98,4,3,2,875.0,940000.0
+Apartamento,Centro,75,3,2,1,690.0,210000.0
+Apartamento,Presidente Kennedy,79,3,2,2,630.0,270000.0
+Apartamento,Barroso,45,2,2,1,0.0,280000.0
+Apartamento,Aldeota,311,4,5,5,0.0,5075000.0
+Apartamento,Meireles,61,2,2,1,0.0,790000.0
+Apartamento,Meireles,220,5,5,3,1759.0,1100000.0
+Apartamento,Meireles,211,3,4,3,1550.0,1200000.0
+Apartamento,Parque Iracema,57,2,2,2,650.0,450000.0
+Apartamento,Meireles,78,2,2,1,1790.0,580000.0
+Apartamento,Cambeba,103,3,1,2,0.0,730000.0
+Apartamento,Cocó,165,3,5,3,1660.0,1580000.0
+Apartamento,Centro,2,2,0,4,800.0,900000.0
+Apartamento,Aldeota,111,3,3,1,108.0,240000.0
+Apartamento,Dionisio Torres,123,2,3,2,1242.0,420000.0
+Apartamento,Meireles,280,3,4,4,2400.0,3050000.0
+Apartamento,Praia de Iracema,100,3,4,2,930.0,900000.0
+Apartamento,Jacarecanga,53,2,1,1,0.0,379500.0
+Apartamento,Fátima,100,3,4,2,729.0,750000.0
+Apartamento,Mucuripe,108,4,3,2,650.0,545000.0
+Apartamento,Cajazeiras,44,2,1,1,0.0,50000.0
+Apartamento,Papicu,130,3,5,2,900.0,1200000.0
+Apartamento,Meireles,114,3,4,2,1742.0,1300000.0
+Apartamento,Cocó,136,4,3,2,1200.0,525000.0
+Apartamento,Aldeota,163,3,5,3,0.0,2450000.0
+Apartamento,Meireles,253,3,4,5,0.0,4500000.0
+Apartamento,Parque Santa Maria,38,2,1,1,0.0,217960.0
+Apartamento,Aldeota,87,2,2,2,770.0,400000.0
+Apartamento,Edson Queiroz,1,1,0,2,360.0,499753.0
+Apartamento,Vila União,60,2,2,1,900.0,275000.0
+Apartamento,Presidente Kennedy,50,2,2,1,10.0,329161.0
+Apartamento,Parreão,1,1,0,2,0.0,404288.0
+Apartamento,Praia de Iracema,55,2,2,1,600.0,520000.0
+Apartamento,Guararapes,90,3,3,2,0.0,1050000.0
+Apartamento,Aldeota,218,4,4,4,0.0,2735000.0
+Apartamento,Aldeota,111,3,3,2,947.0,645000.0
+Apartamento,Papicu,126,3,4,2,1300.0,419999.0
+Apartamento,Cocó,156,4,5,3,1750.0,780000.0
+Apartamento,Guararapes,169,3,4,3,2000.0,840000.0
+Apartamento,Parreão,120,3,3,2,860.0,550000.0
+Apartamento,Aldeota,37,1,1,1,0.0,497500.0
+Apartamento,Parque Iracema,89,3,2,2,754.0,799000.0
+Apartamento,Benfica,48,2,2,1,532.0,495000.0
+Apartamento,Cocó,105,3,3,2,0.0,1220000.0
+Apartamento,Passaré,50,2,1,1,350.0,160000.0
+Apartamento,Parangaba,52,2,2,1,350.0,290000.0
+Apartamento,Aldeota,157,3,4,3,1375.0,1150000.0
+Apartamento,Meireles,49,2,2,1,0.0,607000.0
+Apartamento,Aldeota,85,3,3,1,700.0,260000.0
+Apartamento,Cajazeiras,41,2,2,1,0.0,260000.0
+Apartamento,Dionisio Torres,2,2,0,3,0.0,1184792.0
+Apartamento,Cocó,91,3,3,3,0.0,520000.0
+Apartamento,Parque Iracema,115,3,5,2,900.0,1290000.0
+Apartamento,Aldeota,200,4,5,2,1860.0,600000.0
+Apartamento,Guararapes,303,4,5,4,4500.0,2700000.0
+Apartamento,Cocó,78,3,3,2,0.0,765000.0
+Apartamento,Aldeota,100,3,3,2,1229.0,480000.0
+Apartamento,Monte Castelo,81,3,2,1,290.0,180000.0
+Apartamento,Aldeota,90,3,3,2,185.0,875000.0
+Apartamento,Jardim Cearense,70,3,3,1,600.0,260000.0
+Apartamento,Centro,82,3,2,2,600.0,890000.0
+Apartamento,Pedras,50,2,2,1,0.0,155000.0
+Apartamento,Jóquei Clube,63,3,2,2,430.0,420000.0
+Apartamento,Meireles,70,2,2,1,835.0,434000.0
+Apartamento,Fátima,204,4,6,4,1800.0,2500000.0
+Apartamento,Messejana,60,3,2,1,390.0,269999.0
+Apartamento,Parangaba,60,2,2,1,250.0,180000.0
+Apartamento,Praia do Futuro II,53,2,2,1,10.0,418000.0
+Apartamento,Rodolfo Teófilo,110,3,2,2,430.0,190000.0
+Apartamento,Cocó,252,4,5,4,0.0,4048313.0
+Apartamento,Engenheiro Luciano Cavalcante,81,3,2,2,500.0,618000.0
+Apartamento,Dunas,116,3,3,2,994.0,1260000.0
+Apartamento,Cajazeiras,69,3,2,1,325.0,170000.0
+Apartamento,Meireles,125,3,3,1,898.0,551780.0
+Apartamento,Meireles,72,3,2,2,750.0,981000.0
+Apartamento,Benfica,89,3,2,2,0.0,860000.0
+Apartamento,Fátima,144,4,5,3,1400.0,1950000.0
+Apartamento,Fátima,110,3,2,1,0.0,250000.0
+Apartamento,Maraponga,120,3,2,1,350.0,270000.0
+Apartamento,Cocó,217,3,5,4,1927.0,2195000.0
+Apartamento,Meireles,202,4,4,4,0.0,3276208.0
+Apartamento,Cocó,82,3,2,1,799.0,410000.0
+Apartamento,Aldeota,3,3,0,4,1850.0,2470507.0
+Apartamento,Meireles,118,2,3,2,1415.0,1260000.0
+Apartamento,São Bento,59,2,2,2,0.0,259000.0
+Apartamento,Meireles,202,3,3,4,0.0,3211011.0
+Apartamento,Meireles,355,4,0,1,0.0,5383007.0
+Apartamento,Vila União,110,3,3,2,0.0,230000.0
+Apartamento,Benfica,45,2,1,1,0.0,311736.0
+Apartamento,Cocó,143,3,3,2,1550.0,450000.0
+Apartamento,Meireles,255,4,7,4,0.0,4334000.0
+Apartamento,Maraponga,48,2,1,1,220.0,210000.0
+Apartamento,Meireles,5,0,0,0,0.0,898000.0
+Apartamento,Pici,84,3,3,2,0.0,580000.0
+Apartamento,José de Alencar,129,3,2,2,350.0,270000.0
+Apartamento,Parque Iracema,65,3,2,2,650.0,330000.0
+Apartamento,Guararapes,150,3,5,3,1500.0,1990000.0
+Apartamento,Aldeota,155,4,4,2,1510.0,850000.0
+Apartamento,Passaré,53,3,1,1,340.0,160000.0
+Apartamento,Antônio Diogo,58,2,2,1,900.0,540000.0
+Apartamento,Aldeota,165,3,5,2,2000.0,495000.0
+Apartamento,Meireles,177,4,5,2,1820.0,700000.0
+Apartamento,Centro,87,3,3,1,731.0,370000.0
+Apartamento,Aldeota,128,3,3,2,950.0,670000.0
+Apartamento,Cocó,69,3,0,2,700.0,669000.0
+Apartamento,Dionisio Torres,97,4,4,2,1200.0,750000.0
+Apartamento,São Gerardo,9,2,2,1,530.0,215000.0
+Apartamento,José Bonifácio,86,3,2,2,950.0,650000.0
+Apartamento,Parque Iracema,87,3,3,2,710.0,630000.0
+Apartamento,Jóquei Clube,61,2,2,1,0.0,430000.0
+Apartamento,Aldeota,342,4,5,3,2986.0,800000.0
+Apartamento,Patriolino Ribeiro,146,3,4,3,1200.0,1470000.0
+Apartamento,Cocó,99,3,1,2,950.0,970000.0
+Apartamento,Mucuripe,8,8,0,6,0.0,11300000.0
+Apartamento,Cocó,111,3,3,3,0.0,1470000.0
+Apartamento,Aldeota,98,3,4,2,1100.0,1696071.0
+Apartamento,Meireles,65,2,2,1,800.0,588000.0
+Apartamento,Aldeota,165,4,5,3,1459.0,500000.0
+Apartamento,Praia de Iracema,70,2,2,1,661.0,550000.0
+Apartamento,Meireles,355,4,0,4,0.0,5685000.0
+Apartamento,Dionisio Torres,119,3,4,2,0.0,1500000.0
+Apartamento,Cambeba,89,3,1,2,754.0,882000.0
+Apartamento,Meireles,66,2,1,1,700.0,1249000.0
+Apartamento,Meireles,8,8,0,1,3750.0,4300000.0
+Apartamento,Passaré,47,2,1,1,300.0,160000.0
+Apartamento,Messejana,50,3,1,1,300.0,175000.0
+Apartamento,Dionisio Torres,115,3,4,2,920.0,835000.0
+Apartamento,Praia de Iracema,145,4,4,2,1500.0,1500000.0
+Apartamento,Guararapes,90,3,3,2,0.0,806000.0
+Apartamento,Engenheiro Luciano Cavalcante,45,2,1,1,620.0,410000.0
+Apartamento,Cidade dos Funcionários,65,3,2,1,540.0,265000.0
+Apartamento,Papicu,100,4,3,2,720.0,387720.0
+Apartamento,Papicu,138,3,5,3,824.0,1382000.0
+Apartamento,Aldeota,100,3,4,2,600.0,875000.0
+Apartamento,Meireles,89,3,3,2,0.0,1167753.0
+Apartamento,Aldeota,40,1,1,1,0.0,507000.0
+Apartamento,Mucuripe,40,1,0,1,298.0,350000.0
+Apartamento,Passaré,49,2,2,1,0.0,334000.0
+Apartamento,Paupina,52,2,2,1,400.0,80000.0
+Apartamento,Aldeota,55,2,2,1,0.0,650000.0
+Apartamento,Aldeota,110,2,0,3,1100.0,1200000.0
+Apartamento,Cocó,110,3,3,1,1088.0,350000.0
+Apartamento,Monte Castelo,50,2,1,1,0.0,329161.0
+Apartamento,Cocó,83,2,0,3,0.0,860000.0
+Apartamento,Mucuripe,86,2,2,2,630.0,920000.0
+Apartamento,Varjota,87,3,3,2,751.0,1100000.0
+Apartamento,Meireles,25,1,1,1,0.0,344000.0
+Apartamento,Guararapes,182,4,4,3,0.0,1790000.0
+Apartamento,Aldeota,164,4,5,3,2500.0,2400000.0
+Apartamento,Cocó,124,3,3,2,1500.0,480000.0
+Apartamento,Dunas,59,3,2,1,380.0,400000.0
+Apartamento,Meireles,350,4,0,4,0.0,3800000.0
+Apartamento,Papicu,78,3,3,2,690.0,730000.0
+Apartamento,Varjota,119,3,2,1,890.0,670000.0
+Apartamento,Manoel Dias Branco,78,3,3,2,746.0,850000.0
+Apartamento,Guararapes,116,3,4,2,800.0,630000.0
+Apartamento,Aldeota,109,4,3,2,1670.0,379000.0
+Apartamento,Jangurussu,38,2,1,1,0.0,195100.0
+Apartamento,Meireles,128,3,3,1,790.0,579000.0
+Apartamento,Aldeota,250,5,5,4,0.0,1500000.0
+Apartamento,Itaperi,44,2,1,1,450.0,165000.0
+Apartamento,Aldeota,210,3,3,4,3164.0,3090000.0
+Apartamento,Aldeota,37,2,3,1,50.0,557500.0
+Apartamento,Aldeota,143,3,4,2,1364.0,600000.0
+Apartamento,Parangaba,50,2,2,1,300.0,250000.0
+Apartamento,Cocó,108,3,3,2,950.0,550000.0
+Apartamento,Papicu,1,3,3,2,0.0,1024361.0
+Apartamento,Meireles,97,3,1,2,1050.0,1790000.0
+Apartamento,Presidente Kennedy,53,2,2,1,340.0,483000.0
+Apartamento,Meireles,56,2,2,1,630.0,800000.0
+Apartamento,Meireles,400,4,7,9,5000.0,6750000.0
+Apartamento,Parquelândia,63,2,1,1,605.0,310000.0
+Apartamento,Paupina,48,2,2,1,350.0,189000.0
+Apartamento,Benfica,30,2,1,1,0.0,291000.0
+Apartamento,Messejana,49,2,2,1,0.0,391999.0
+Apartamento,Aldeota,220,4,5,3,2200.0,1350000.0
+Apartamento,Meireles,495,4,6,7,5000.0,4500000.0
+Apartamento,Meireles,60,2,2,1,650.0,1500000.0
+Apartamento,Guararapes,112,3,4,3,1285.0,860000.0
+Apartamento,Passaré,48,2,2,1,0.0,336000.0
+Apartamento,Aldeota,65,3,3,2,560.0,525000.0
+Apartamento,Engenheiro Luciano Cavalcante,110,4,3,2,800.0,1050000.0
+Apartamento,Meireles,121,3,3,2,1600.0,590000.0
+Apartamento,Aldeota,218,3,3,4,0.0,3022000.0
+Apartamento,Carlito Pamplona,59,3,2,1,0.0,343000.0
+Apartamento,Dunas,163,4,5,3,1300.0,1950000.0
+Apartamento,Manuel Sátiro,45,2,1,1,290.0,130000.0
+Apartamento,Farias Brito,106,3,2,1,927.0,205000.0
+Apartamento,Meireles,121,3,4,2,1600.0,600000.0
+Apartamento,Aldeota,128,2,0,3,0.0,650000.0
+Apartamento,Joaquim Távora,102,4,4,2,0.0,390000.0
+Apartamento,Aldeota,126,3,4,2,1200.0,525000.0
+Apartamento,Engenheiro Luciano Cavalcante,71,3,2,2,499.0,640000.0
+Apartamento,Cambeba,74,3,2,1,685.0,320000.0
+Apartamento,Meireles,637,5,5,8,100.0,16900000.0
+Apartamento,Fátima,108,4,3,2,800.0,600000.0
+Apartamento,Meireles,231,4,6,5,0.0,3635771.0
+Apartamento,Parquelândia,152,4,4,3,1100.0,1480000.0
+Apartamento,Aldeota,170,3,1,3,1750.0,1300000.0
+Apartamento,Praia do Futuro,85,3,2,2,1400.0,850000.0
+Apartamento,Meireles,255,4,6,4,1500.0,4215000.0
+Apartamento,Sapiranga,70,3,2,1,300.0,250000.0
+Apartamento,Paupina,44,2,0,2,0.0,188000.0
+Apartamento,Guararapes,133,3,4,3,1200.0,1380000.0
+Apartamento,Maraponga,46,2,1,1,11.0,245000.0
+Apartamento,Meireles,132,2,2,2,1265.0,3800000.0
+Apartamento,Meireles,87,3,0,3,815.0,260000.0
+Apartamento,Farias Brito,115,3,3,1,800.0,200000.0
+Apartamento,Aldeota,1,1,0,3,731.0,350000.0
+Apartamento,Edson Queiroz,81,2,0,1,615.0,630000.0
+Apartamento,Meireles,76,3,2,2,600.0,849999.0
+Apartamento,Aldeota,114,4,4,2,913.0,460000.0
+Apartamento,Varjota,86,2,3,2,700.0,1241979.0
+Apartamento,Parque Iracema,113,4,4,2,1050.0,690000.0
+Apartamento,Salinas,44,2,1,1,370.0,250000.0
+Apartamento,Presidente Kennedy,54,2,2,1,500.0,510000.0
+Apartamento,Praia do Futuro II,51,2,2,1,350.0,424999.0
+Apartamento,Meireles,69,2,2,1,600.0,940000.0
+Apartamento,Praia do Futuro,120,3,3,1,1180.0,225000.0
+Apartamento,Parque Iracema,1,2,2,1,0.0,570000.0
+Apartamento,Papicu,78,3,2,2,478.0,840000.0
+Apartamento,Presidente Kennedy,50,2,2,1,0.0,334272.0
+Apartamento,Meireles,72,3,1,2,920.0,700000.0
+Apartamento,Planalto Ayrton Senna,49,2,1,1,300.0,214000.0
+Apartamento,Fátima,141,4,5,3,0.0,1850000.0
+Apartamento,Praia de Iracema,80,3,2,2,533.0,795000.0
+Apartamento,Sapiranga,44,2,1,1,250.0,165000.0
+Apartamento,Aldeota,120,3,4,2,1050.0,970000.0
+Apartamento,Aldeota,49,2,2,2,0.0,599000.0
+Apartamento,Mucuripe,86,2,2,2,720.0,1241979.0
+Apartamento,Papicu,65,3,2,2,418.0,651000.0
+Apartamento,Mucuripe,66,2,2,1,800.0,1900000.0
+Apartamento,Meireles,62,2,2,1,1568.0,500000.0
+Apartamento,Edson Queiroz,54,2,2,1,358.0,648210.0
+Apartamento,Aldeota,117,3,4,2,1288.0,1386000.0
+Apartamento,Meireles,254,4,7,5,2455.0,3760000.0
+Apartamento,Dias Macedo,48,2,2,1,345.0,195000.0
+Apartamento,Presidente Kennedy,69,3,2,1,450.0,330000.0
+Apartamento,Meireles,200,3,4,1,1500.0,570000.0
+Apartamento,Aldeota,83,3,2,1,980.0,350000.0
+Apartamento,Engenheiro Luciano Cavalcante,1,3,4,4,1189.0,1090000.0
+Apartamento,Meireles,179,3,1,2,1600.0,750000.0
+Apartamento,Meireles,70,2,2,2,600.0,1320000.0
+Apartamento,Meireles,132,4,4,2,0.0,1672900.0
+Apartamento,Aldeota,105,3,3,2,900.0,680000.0
+Apartamento,Papicu,138,3,4,3,890.0,1343000.0
+Apartamento,Maraponga,48,2,1,1,118.0,220000.0
+Apartamento,Mondubim,70,3,2,1,315.0,190000.0
+Apartamento,Cocó,113,3,4,3,135.0,620000.0
+Apartamento,Meireles,114,3,3,2,930.0,500000.0
+Apartamento,Aldeota,37,1,1,1,529.0,510000.0
+Apartamento,Aldeota,169,3,5,3,1535.0,750000.0
+Apartamento,Joaquim Távora,106,3,3,2,1450.0,599000.0
+Apartamento,Parque Iracema,101,3,3,2,980.0,820000.0
+Apartamento,Vila União,60,3,2,1,1080.0,280000.0
+Apartamento,Edson Queiroz,81,3,3,2,615.0,650000.0
+Apartamento,Jacarecanga,75,3,0,2,220.0,164000.0
+Apartamento,Meireles,198,4,5,3,2100.0,1300000.0
+Apartamento,Cajazeiras,61,3,1,1,260.0,145000.0
+Apartamento,Itaoca,1,1,0,2,360.0,180000.0
+Apartamento,Itaperi,67,2,2,1,0.0,270000.0
+Apartamento,Aldeota,114,3,3,2,920.0,815000.0
+Apartamento,Meireles,197,4,5,4,2500.0,1600000.0
+Apartamento,Meireles,192,3,4,3,2100.0,2600000.0
+Apartamento,Meireles,188,3,5,3,1300.0,2490000.0
+Apartamento,Meireles,63,2,2,2,0.0,1400000.0
+Apartamento,Aldeota,54,2,1,2,500.0,575000.0
+Apartamento,Aldeota,2,2,0,2,0.0,907148.0
+Apartamento,Aldeota,100,3,4,2,800.0,875000.0
+Apartamento,Jardim Cearense,64,3,3,1,550.0,270000.0
+Apartamento,São Gerardo,65,3,2,1,400.0,265000.0
+Apartamento,Benfica,88,3,2,1,0.0,350000.0
+Apartamento,Parque Iracema,70,3,2,2,630.0,640000.0
+Apartamento,Guararapes,60,2,2,1,700.0,650000.0
+Apartamento,Aldeota,125,3,4,1,1217.0,595000.0
+Apartamento,Cocó,108,3,2,2,900.0,389999.0
+Apartamento,Passaré,66,3,2,2,490.0,335000.0
+Apartamento,Engenheiro Luciano Cavalcante,71,3,2,1,499.0,643000.0
+Apartamento,Cocó,143,4,4,2,1651.0,890000.0
+Apartamento,Meireles,39,1,1,1,0.0,577000.0
+Apartamento,Cambeba,51,3,2,1,0.0,311000.0
+Apartamento,Varjota,85,3,3,4,0.0,970000.0
+Apartamento,Meireles,0,0,0,0,0.0,3305000.0
+Apartamento,Aldeota,6,2,2,2,0.0,815000.0
+Apartamento,Aldeota,67,2,2,1,10.0,808057.0
+Apartamento,Guararapes,380,5,6,4,2200.0,3400000.0
+Apartamento,Cambeba,80,3,2,2,513.0,672000.0
+Apartamento,Aeroporto,90,3,3,1,460.0,210000.0
+Apartamento,Praia de Iracema,186,3,1,2,1350.0,920000.0
+Apartamento,Fátima,120,3,4,2,1050.0,590000.0
+Apartamento,Mucuripe,53,1,1,1,937.0,610000.0
+Apartamento,Parangaba,50,2,2,1,0.0,255000.0
+Apartamento,Guararapes,3,3,0,4,1199.0,1500000.0
+Apartamento,Aldeota,106,2,4,2,1438.0,1145000.0
+Apartamento,Meireles,317,3,4,5,3850.0,2790000.0
+Apartamento,Joaquim Távora,114,3,3,2,920.0,1000000.0
+Apartamento,Paupina,49,2,2,1,340.0,210000.0
+Apartamento,Passaré,48,2,2,1,600.0,260000.0
+Apartamento,Aldeota,65,2,2,2,0.0,404990.0
+Apartamento,Meireles,84,2,3,1,970.0,650000.0
+Apartamento,Cocó,83,3,1,2,750.0,910000.0
+Apartamento,Presidente Kennedy,65,3,2,1,10.0,523000.0
+Apartamento,Meireles,105,3,2,2,1200.0,680000.0
+Apartamento,Papicu,59,2,2,1,0.0,420000.0
+Apartamento,Mondubim,38,2,0,1,0.0,225990.0
+Apartamento,Prefeito José Walter,61,2,1,2,317.0,250000.0
+Apartamento,Meireles,271,4,5,4,0.0,3664000.0
+Apartamento,Messejana,60,3,2,1,370.0,290000.0
+Apartamento,Aldeota,215,4,5,4,0.0,3715000.0
+Apartamento,Cocó,70,3,2,2,700.0,450000.0
+Apartamento,Sapiranga,44,2,1,1,180.0,55000.0
+Apartamento,Meireles,57,2,2,1,580.0,745000.0
+Apartamento,Engenheiro Luciano Cavalcante,73,2,2,2,690.0,650000.0
+Apartamento,Meireles,40,1,1,1,500.0,670000.0
+Apartamento,Dionisio Torres,115,4,4,2,0.0,1450000.0
+Apartamento,Parquelândia,216,4,5,3,1030.0,1500000.0
+Apartamento,Parque Del Sol,70,3,2,2,645.0,600000.0
+Apartamento,Patriolino Ribeiro,207,4,5,3,1700.0,1800000.0
+Apartamento,Fátima,92,3,3,2,780.0,595000.0
+Apartamento,Cocó,56,2,2,1,411.0,265000.0
+Apartamento,Parque Iracema,51,2,0,1,0.0,715000.0
+Apartamento,Meireles,63,1,1,1,692.0,630000.0
+Apartamento,Praia do Futuro,50,2,2,1,0.0,354240.0
+Apartamento,Meireles,231,4,4,4,0.0,3428900.0
+Apartamento,Cajazeiras,61,3,2,1,570.0,249000.0
+Apartamento,Aldeota,93,3,3,2,1100.0,800000.0
+Apartamento,Passaré,57,3,2,1,400.0,350000.0
+Apartamento,Aldeota,94,2,2,1,930.0,420000.0
+Apartamento,Engenheiro Luciano Cavalcante,68,3,2,2,900.0,330000.0
+Apartamento,Meireles,2,2,0,3,800.0,720000.0
+Apartamento,Engenheiro Luciano Cavalcante,164,3,5,3,1300.0,1250000.0
+Apartamento,Cocó,83,2,3,2,750.0,895000.0
+Apartamento,Aldeota,214,4,4,4,0.0,3490000.0
+Apartamento,São João do Tauape,113,3,2,1,600.0,420000.0
+Apartamento,Praia do Futuro,170,5,5,3,1800.0,480000.0
+Apartamento,Passaré,38,2,1,1,0.0,235990.0
+Apartamento,Aldeota,149,4,4,3,1540.0,780000.0
+Apartamento,Presidente Kennedy,60,3,2,1,560.0,350000.0
+Apartamento,Mondubim,47,2,1,1,220.0,212000.0
+Apartamento,Benfica,55,2,2,1,660.0,590000.0
+Apartamento,Monte Castelo,64,3,2,1,339.0,220000.0
+Apartamento,Edson Queiroz,91,3,3,2,950.0,890000.0
+Apartamento,Meireles,95,3,1,2,0.0,1230000.0
+Apartamento,Damas,74,3,2,1,300.0,450000.0
+Apartamento,Vicente Pinzon,98,3,2,1,238.0,250000.0
+Apartamento,Papicu,110,3,0,2,0.0,960000.0
+Apartamento,Meireles,82,2,2,2,930.0,1970000.0
+Apartamento,Aldeota,172,3,4,3,2300.0,730000.0
+Apartamento,Papicu,95,3,3,2,541.0,924000.0
+Apartamento,Cocó,130,4,3,2,1200.0,480000.0
+Apartamento,Parque Iracema,91,3,3,2,450.0,620000.0
+Apartamento,Praia do Futuro I,352,5,5,3,2297.0,890000.0
+Apartamento,Joaquim Távora,102,3,2,1,450.0,350000.0
+Apartamento,Presidente Kennedy,58,2,1,1,0.0,550000.0
+Apartamento,Meireles,2,2,0,0,0.0,734528.0
+Apartamento,Meireles,2,2,0,3,2050.0,680000.0
+Apartamento,Maraponga,50,2,1,1,0.0,264900.0
+Apartamento,Engenheiro Luciano Cavalcante,164,4,5,3,750.0,2050000.0
+Apartamento,Parque Del Sol,116,3,3,2,1063.0,990000.0
+Apartamento,Fátima,104,3,3,2,0.0,1172000.0
+Apartamento,Papicu,86,3,3,1,830.0,290000.0
+Apartamento,Presidente Kennedy,94,3,3,2,650.0,760000.0
+Apartamento,Presidente Kennedy,66,3,1,1,500.0,380000.0
+Apartamento,Varjota,1,1,0,3,800.0,395000.0
+Apartamento,Vila União,60,2,2,1,890.0,295000.0
+Apartamento,Fátima,141,4,4,3,0.0,1894516.0
+Apartamento,Cocó,111,3,4,2,1600.0,1300000.0
+Apartamento,Meireles,78,2,2,1,1700.0,750000.0
+Apartamento,Mucuripe,66,2,1,1,700.0,1249000.0
+Apartamento,Papicu,65,3,2,2,387.0,535000.0
+Apartamento,de Lourdes,62,2,2,2,580.0,485000.0
+Apartamento,Meireles,145,3,3,2,1200.0,670000.0
+Apartamento,Aldeota,179,4,5,3,1400.0,1100000.0
+Apartamento,Passaré,54,3,2,1,541.0,270000.0
+Apartamento,Messejana,74,3,2,1,685.0,320000.0
+Apartamento,Mucuripe,231,4,5,4,0.0,4262759.0
+Apartamento,Meireles,242,4,5,4,0.0,3674636.0
+Apartamento,Joaquim Távora,51,2,2,2,0.0,448374.0
+Apartamento,Meireles,403,5,5,5,2300.0,4996000.0
+Apartamento,Mondubim,60,3,2,1,450.0,249999.0
+Apartamento,Jóquei Clube,52,1,2,1,450.0,230000.0
+Apartamento,Jóquei Clube,50,2,2,1,270.0,240000.0
+Apartamento,Cocó,154,3,4,3,1350.0,880000.0
+Apartamento,Henrique Jorge,44,2,1,1,295.0,145000.0
+Apartamento,Meireles,352,4,6,3,1900.0,1450000.0
+Apartamento,Meireles,21,1,1,1,100.0,497990.0
+Apartamento,Meireles,119,2,4,3,1015.0,930000.0
+Apartamento,Papicu,118,3,3,2,420.0,250000.0
+Apartamento,Aldeota,123,3,2,1,398.0,450000.0
+Apartamento,de Lourdes,88,2,3,2,740.0,900000.0
+Apartamento,Guararapes,73,3,3,2,775.0,629999.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,3,2,550.0,589999.0
+Apartamento,Meireles,353,4,5,5,0.0,5948529.0
+Apartamento,Maraponga,63,3,2,2,430.0,269900.0
+Apartamento,Aldeota,100,3,4,2,950.0,999900.0
+Apartamento,Aldeota,100,3,4,2,1400.0,370000.0
+Apartamento,Aldeota,162,3,5,3,0.0,2452000.0
+Apartamento,Cocó,128,3,4,2,1400.0,515000.0
+Apartamento,Parreão,130,3,3,2,860.0,540000.0
+Apartamento,Meireles,45,2,2,1,500.0,640000.0
+Apartamento,Varjota,106,3,4,4,800.0,810000.0
+Apartamento,Dionisio Torres,135,3,5,2,1430.0,580000.0
+Apartamento,Edson Queiroz,51,2,1,2,0.0,363622.0
+Apartamento,Vila Ellery,51,2,2,1,430.0,230000.0
+Apartamento,Aldeota,174,3,4,3,100.0,3198287.0
+Apartamento,Mucuripe,106,3,3,2,730.0,750000.0
+Apartamento,Engenheiro Luciano Cavalcante,81,3,3,2,500.0,260000.0
+Apartamento,Fátima,132,3,3,2,830.0,455000.0
+Apartamento,Engenheiro Luciano Cavalcante,126,3,4,2,800.0,690000.0
+Apartamento,Montese,98,3,2,1,550.0,200000.0
+Apartamento,Aldeota,64,2,2,1,763.0,840000.0
+Apartamento,Maraponga,58,3,2,1,635.0,195000.0
+Apartamento,Engenheiro Luciano Cavalcante,54,2,2,1,816.0,715200.0
+Apartamento,Cambeba,11,3,2,2,512.0,380000.0
+Apartamento,Jacarecanga,59,3,2,1,0.0,319280.0
+Apartamento,Centro,87,2,3,1,731.0,350000.0
+Apartamento,Presidente Kennedy,54,2,2,1,380.0,410000.0
+Apartamento,Engenheiro Luciano Cavalcante,111,3,4,2,1045.0,745000.0
+Apartamento,Meireles,39,1,1,1,0.0,487953.0
+Apartamento,Meireles,110,4,4,2,1300.0,1150000.0
+Apartamento,Varjota,119,3,2,1,890.0,682500.0
+Apartamento,Meireles,57,2,1,1,1822.0,525000.0
+Apartamento,Aldeota,117,3,4,2,1288.0,1453000.0
+Apartamento,Aldeota,190,3,3,2,1166.0,500000.0
+Apartamento,Praia do Futuro II,47,2,2,1,300.0,350000.0
+Apartamento,Dunas,145,4,5,3,1080.0,1450000.0
+Apartamento,Meireles,74,1,1,1,0.0,646900.0
+Apartamento,Cocó,80,3,3,2,50.0,1020382.0
+Apartamento,Parquelândia,94,3,3,2,618.0,750000.0
+Apartamento,Meireles,86,2,2,2,760.0,765000.0
+Apartamento,Mucuripe,80,3,2,1,0.0,570000.0
+Apartamento,José de Alencar,129,3,2,1,800.0,240000.0
+Apartamento,Meireles,255,4,5,5,0.0,3831744.0
+Apartamento,Parquelândia,109,3,3,2,100.0,460000.0
+Apartamento,Mondubim,44,2,0,1,190.0,42000.0
+Apartamento,Papicu,118,3,3,1,421.0,259000.0
+Apartamento,Cocó,70,3,2,2,820.0,570000.0
+Apartamento,Meireles,543,4,6,6,4440.0,9897000.0
+Apartamento,Parque Iracema,54,3,2,1,370.0,270000.0
+Apartamento,Jóquei Clube,50,2,2,1,267.0,230000.0
+Apartamento,Fátima,56,2,2,1,387.0,399000.0
+Apartamento,Meireles,80,2,2,1,1600.0,679000.0
+Apartamento,Meireles,242,4,4,4,0.0,3550000.0
+Apartamento,Passaré,63,3,0,2,450.0,320000.0
+Apartamento,Varjota,128,2,3,2,1100.0,480000.0
+Apartamento,Benfica,48,3,2,2,520.0,710000.0
+Apartamento,Papicu,1,3,3,3,800.0,450000.0
+Apartamento,Meireles,254,4,7,5,0.0,3985000.0
+Apartamento,Meireles,142,3,2,3,0.0,580000.0
+Apartamento,Carlito Pamplona,51,2,1,1,11.0,319000.0
+Apartamento,Aldeota,126,3,3,2,1420.0,510000.0
+Apartamento,Meireles,254,4,6,5,0.0,3800000.0
+Apartamento,Edson Queiroz,54,2,2,1,360.0,530000.0
+Apartamento,Meireles,214,3,5,4,0.0,949000.0
+Apartamento,Cocó,1,1,0,2,805.0,775000.0
+Apartamento,Cocó,114,3,2,2,700.0,650000.0
+Apartamento,Siqueira,115,3,3,2,0.0,87000.0
+Apartamento,Aldeota,49,2,0,2,50.0,599000.0
+Apartamento,Dias Macedo,45,2,1,1,350.0,200000.0
+Apartamento,Papicu,120,4,3,1,700.0,410000.0
+Apartamento,São Gerardo,72,3,2,1,600.0,310000.0
+Apartamento,Benfica,67,3,2,1,0.0,715980.0
+Apartamento,Mucuripe,186,3,0,0,2309.0,2500000.0
+Apartamento,Passaré,49,2,1,1,0.0,322549.0
+Apartamento,Varjota,86,2,3,2,0.0,1102861.0
+Apartamento,Meireles,129,3,4,2,0.0,1408000.0
+Apartamento,Cajazeiras,66,3,2,1,409.0,185000.0
+Apartamento,Dionisio Torres,150,4,5,2,1500.0,640000.0
+Apartamento,Meireles,5,5,0,5,0.0,5000000.0
+Apartamento,Parreão,98,3,2,1,699.0,310000.0
+Apartamento,Cocó,122,3,1,3,0.0,1457807.0
+Apartamento,Praia de Iracema,2,2,0,2,600.0,970000.0
+Apartamento,Aldeota,117,3,4,2,1200.0,1440000.0
+Apartamento,Papicu,65,3,2,2,470.0,622000.0
+Apartamento,Cidade 2000,41,1,1,1,0.0,538220.0
+Apartamento,Parangaba,47,2,1,1,300.0,321000.0
+Apartamento,Aldeota,65,2,2,1,0.0,825600.0
+Apartamento,Messejana,65,2,1,1,0.0,207000.0
+Apartamento,Cocó,105,4,4,2,100.0,951900.0
+Apartamento,Cambeba,68,2,1,1,519.0,365000.0
+Apartamento,Antônio Bezerra,37,2,1,1,200.0,252000.0
+Apartamento,Dionisio Torres,50,2,2,1,0.0,600000.0
+Apartamento,Aldeota,545,1,1,1,0.0,843000.0
+Apartamento,São Gerardo,72,3,2,2,520.0,549999.0
+Apartamento,Presidente Kennedy,60,3,2,1,560.0,369000.0
+Apartamento,Aldeota,256,4,5,3,2600.0,1450000.0
+Apartamento,Meireles,66,2,2,1,600.0,1350000.0
+Apartamento,Meireles,84,3,2,1,1100.0,299000.0
+Apartamento,Jóquei Clube,58,2,2,1,491.0,410000.0
+Apartamento,Engenheiro Luciano Cavalcante,74,3,3,2,750.0,720000.0
+Apartamento,Praia de Iracema,163,4,5,3,1457.0,1850000.0
+Apartamento,Meireles,182,3,5,4,3000.0,850000.0
+Apartamento,Sapiranga,100,3,3,2,933.0,730000.0
+Apartamento,Meireles,204,4,4,4,2200.0,3100000.0
+Apartamento,Mondubim,55,2,2,1,255.0,225000.0
+Apartamento,Fátima,144,4,4,3,0.0,1800000.0
+Apartamento,Cocó,55,2,2,1,0.0,450000.0
+Apartamento,Dunas,115,3,4,2,1400.0,1700000.0
+Apartamento,Cocó,81,3,3,2,1080.0,850000.0
+Apartamento,Dias Macedo,45,2,1,1,350.0,185000.0
+Apartamento,Meireles,28,1,1,1,0.0,558000.0
+Apartamento,Papicu,96,3,3,1,650.0,365000.0
+Apartamento,Papicu,109,2,3,2,732.0,960000.0
+Apartamento,Parquelândia,104,3,2,2,1.0,460000.0
+Apartamento,Meireles,50,1,1,1,1350.0,720000.0
+Apartamento,Presidente Kennedy,94,3,3,2,714.0,879000.0
+Apartamento,Praia de Iracema,55,2,2,1,727.0,530000.0
+Apartamento,Dunas,61,2,2,2,550.0,478080.0
+Apartamento,Aldeota,60,2,2,1,860.0,385000.0
+Apartamento,Passaré,46,2,2,1,370.0,315000.0
+Apartamento,Dendê,44,2,1,1,260.0,245000.0
+Apartamento,Papicu,137,3,4,2,1100.0,300000.0
+Apartamento,Fátima,70,3,2,2,700.0,670000.0
+Apartamento,Varjota,118,3,3,1,0.0,670000.0
+Apartamento,Meireles,118,3,3,2,1320.0,1580000.0
+Apartamento,Engenheiro Luciano Cavalcante,2,2,0,3,980.0,986887.0
+Apartamento,Montese,90,2,2,1,455.0,220000.0
+Apartamento,Guararapes,164,3,4,4,0.0,1442564.0
+Apartamento,Meireles,107,2,2,2,1175.0,1050000.0
+Apartamento,Meireles,74,2,2,1,1450.0,1250000.0
+Apartamento,Meireles,301,4,6,5,2500.0,4037000.0
+Apartamento,Praia de Iracema,67,1,2,1,550.0,565000.0
+Apartamento,Centro,53,2,2,1,300.0,360000.0
+Apartamento,Aldeota,150,4,5,2,1400.0,790000.0
+Apartamento,Meireles,231,4,6,5,1900.0,3200000.0
+Apartamento,Cambeba,51,2,2,1,350.0,360000.0
+Apartamento,Meireles,300,5,5,4,1600.0,1800000.0
+Apartamento,Meireles,88,3,2,2,1050.0,500000.0
+Apartamento,São Gerardo,64,3,2,2,570.0,415000.0
+Apartamento,Cajazeiras,554,6,8,8,900.0,1100000.0
+Apartamento,Mucuripe,44,1,1,1,990.0,380000.0
+Apartamento,Aldeota,93,3,3,2,800.0,849000.0
+Apartamento,Fátima,2,2,0,1,0.0,600000.0
+Apartamento,Cocó,136,3,3,1,832.0,430000.0
+Apartamento,Meireles,56,2,2,1,690.0,710000.0
+Apartamento,Parquelândia,110,3,3,1,900.0,380000.0
+Apartamento,Engenheiro Luciano Cavalcante,82,3,3,2,680.0,899000.0
+Apartamento,Papicu,110,3,4,1,900.0,320000.0
+Apartamento,Guararapes,107,3,1,1,0.0,440000.0
+Apartamento,Cocó,95,3,3,2,950.0,950000.0
+Apartamento,Cocó,268,4,5,5,2850.0,890000.0
+Apartamento,Papicu,135,3,3,1,780.0,280000.0
+Apartamento,Damas,46,2,2,1,0.0,299000.0
+Apartamento,Aldeota,154,4,3,2,1620.0,879999.0
+Apartamento,Presidente Kennedy,55,2,2,1,0.0,451050.0
+Apartamento,Meireles,188,4,5,3,0.0,2720000.0
+Apartamento,Mucuripe,132,2,4,2,1400.0,1950000.0
+Apartamento,Jóquei Clube,73,2,1,1,300.0,200000.0
+Apartamento,Fátima,115,3,2,1,660.0,290000.0
+Apartamento,Engenheiro Luciano Cavalcante,118,3,4,2,0.0,870000.0
+Apartamento,Maraponga,65,3,2,2,430.0,235000.0
+Apartamento,Dionisio Torres,121,3,2,2,1200.0,350000.0
+Apartamento,Tauape,169,4,3,2,575.0,235000.0
+Apartamento,Aldeota,46,1,1,1,477.0,499000.0
+Apartamento,Aldeota,150,3,5,3,1350.0,1727000.0
+Apartamento,Cambeba,101,3,3,2,0.0,830000.0
+Apartamento,Varjota,249,3,4,2,2216.0,720000.0
+Apartamento,Cocó,165,3,4,2,1600.0,849000.0
+Apartamento,Meireles,58,2,2,1,770.0,868000.0
+Apartamento,Dionisio Torres,1,1,0,1,0.0,489737.0
+Apartamento,Praia de Iracema,52,2,1,1,0.0,430000.0
+Apartamento,Praia de Iracema,55,2,2,1,728.0,545000.0
+Apartamento,Aldeota,112,3,4,2,800.0,799900.0
+Apartamento,José Bonifácio,54,2,2,1,450.0,603805.0
+Apartamento,Engenheiro Luciano Cavalcante,74,3,2,2,950.0,475000.0
+Apartamento,Guararapes,164,3,5,3,1285.0,1472000.0
+Apartamento,Guararapes,146,3,3,3,950.0,1450000.0
+Apartamento,Cidade dos Funcionários,73,3,2,2,0.0,640000.0
+Apartamento,Meireles,70,3,3,1,0.0,900000.0
+Apartamento,Passaré,99,3,2,2,528.0,449990.0
+Apartamento,Mucuripe,602,5,6,8,10.0,10480000.0
+Apartamento,Aldeota,4,2,1,1,0.0,849000.0
+Apartamento,Meireles,102,2,3,1,1293.0,899900.0
+Apartamento,Papicu,109,3,3,1,550.0,240000.0
+Apartamento,Meireles,260,3,5,4,2898.0,2850000.0
+Apartamento,Centro,100,3,4,2,0.0,875000.0
+Apartamento,Praia do Futuro,68,2,2,2,763.0,365000.0
+Apartamento,José Bonifácio,544,6,5,6,0.0,2500000.0
+Apartamento,Cajazeiras,55,2,1,1,250.0,160000.0
+Apartamento,Aldeota,145,3,3,4,1695.0,1600000.0
+Apartamento,Meireles,254,4,6,5,2446.0,4110288.0
+Apartamento,Praia do Futuro,58,2,2,1,620.0,205000.0
+Apartamento,Meireles,128,4,4,2,1150.0,410000.0
+Apartamento,Parquelândia,84,4,3,2,600.0,559999.0
+Apartamento,Mucuripe,86,2,2,2,900.0,790000.0
+Apartamento,Aldeota,2,2,0,3,1115.0,530000.0
+Apartamento,Cocó,80,3,3,2,1250.0,699000.0
+Apartamento,Parque Iracema,105,3,2,2,0.0,690000.0
+Apartamento,Guararapes,90,3,3,2,833.0,1000076.0
+Apartamento,Mondubim,55,2,1,1,255.0,290000.0
+Apartamento,Parque Iracema,65,3,2,2,0.0,370000.0
+Apartamento,Meireles,69,2,3,1,570.0,1690000.0
+Apartamento,Aldeota,110,3,3,1,1200.0,345000.0
+Apartamento,Aldeota,106,4,5,4,1180.0,1050000.0
+Apartamento,Mucuripe,80,2,3,2,1134.0,1020000.0
+Apartamento,Joaquim Távora,106,3,3,2,0.0,750000.0
+Apartamento,Meireles,100,3,4,1,975.0,650000.0
+Apartamento,Meireles,231,4,4,5,0.0,3635771.0
+Apartamento,Cocó,78,3,2,2,0.0,891788.0
+Apartamento,Cambeba,55,2,2,1,0.0,629997.0
+Apartamento,Engenheiro Luciano Cavalcante,73,2,2,2,589.0,669000.0
+Apartamento,Cidade 2000,1,1,0,1,0.0,398000.0
+Apartamento,Parreão,49,2,2,1,0.0,391000.0
+Apartamento,Meireles,311,4,5,5,2500.0,5000000.0
+Apartamento,Cidade dos Funcionários,68,3,2,2,600.0,280000.0
+Apartamento,Maraponga,61,3,2,1,331.0,210000.0
+Apartamento,Fátima,68,2,3,4,480.0,640000.0
+Apartamento,Fátima,87,3,3,1,1257.0,230000.0
+Apartamento,Damas,68,3,2,1,0.0,450000.0
+Apartamento,Praia de Iracema,50,1,1,1,600.0,635000.0
+Apartamento,Parque Iracema,57,2,2,1,586.0,642000.0
+Apartamento,Meireles,93,3,3,2,0.0,877280.0
+Apartamento,Cidade 2000,29,1,0,1,602.0,369000.0
+Apartamento,Dionisio Torres,3,3,0,4,800.0,375000.0
+Apartamento,Parreão,49,2,2,1,0.0,391109.0
+Apartamento,Fátima,6,2,2,1,0.0,590000.0
+Apartamento,Meireles,242,3,3,2,1297.0,890000.0
+Apartamento,Joaquim Távora,68,2,3,1,520.0,240000.0
+Apartamento,Guararapes,168,3,4,4,1800.0,2300000.0
+Apartamento,Papicu,120,3,3,1,550.0,280000.0
+Apartamento,Cocó,93,3,3,2,0.0,1130117.0
+Apartamento,Meireles,806,6,6,5,4788.0,4000000.0
+Apartamento,Guararapes,424,4,7,4,2600.0,3810000.0
+Apartamento,Meireles,220,3,4,21,2400.0,4500000.0
+Apartamento,Cocó,105,2,3,2,0.0,1100000.0
+Apartamento,Praia de Iracema,38,1,1,1,439.0,548093.0
+Apartamento,Meireles,230,3,5,4,0.0,3300000.0
+Apartamento,Fátima,54,2,2,1,479.0,797054.0
+Apartamento,Guararapes,44,2,1,2,380.0,530000.0
+Apartamento,Aldeota,4,4,0,4,2530.0,1600000.0
+Apartamento,Fátima,96,3,3,2,600.0,746000.0
+Apartamento,Praia do Futuro II,48,2,2,1,401.0,410000.0
+Apartamento,Cocó,70,3,2,2,750.0,669000.0
+Apartamento,Maraponga,45,2,1,1,220.0,280000.0
+Apartamento,Parangaba,96,3,4,2,700.0,650000.0
+Apartamento,Aldeota,155,3,4,2,0.0,470000.0
+Apartamento,Parangaba,67,3,2,1,674.0,230000.0
+Apartamento,Prefeito José Walter,43,2,1,1,315.0,135000.0
+Apartamento,Planalto Ayrton Senna,38,2,0,1,0.0,209000.0
+Apartamento,Varjota,203,3,3,3,1850.0,580000.0
+Apartamento,Engenheiro Luciano Cavalcante,142,3,4,3,1050.0,1550000.0
+Apartamento,Planalto Ayrton Senna,57,2,2,1,0.0,200000.0
+Apartamento,Praia do Futuro II,1,1,0,2,0.0,320987.0
+Apartamento,Papicu,100,3,3,2,0.0,389990.0
+Apartamento,Meireles,174,4,5,3,1920.0,1250000.0
+Apartamento,Meireles,222,4,6,3,1700.0,750000.0
+Apartamento,Passaré,47,2,1,1,330.0,159999.0
+Apartamento,Engenheiro Luciano Cavalcante,43,2,1,1,330.0,225000.0
+Apartamento,Dionisio Torres,174,3,5,3,1600.0,989000.0
+Apartamento,Cocó,120,3,5,3,0.0,1600000.0
+Apartamento,Meireles,325,4,5,5,5000.0,5000000.0
+Apartamento,Guararapes,235,5,5,4,0.0,2612000.0
+Apartamento,Meireles,380,4,5,6,0.0,7500000.0
+Apartamento,Guararapes,64,3,2,2,100.0,1310765.0
+Apartamento,Parque Iracema,58,2,2,1,450.0,540000.0
+Apartamento,São Gerardo,64,3,2,2,560.0,450000.0
+Apartamento,Aldeota,94,3,3,2,955.0,950000.0
+Apartamento,Edson Queiroz,81,3,3,2,617.0,715000.0
+Apartamento,Cocó,97,3,3,2,599.0,980000.0
+Apartamento,de Lourdes,75,3,3,2,789.0,587579.0
+Apartamento,Meireles,65,2,2,1,600.0,950000.0
+Apartamento,Cocó,54,2,2,1,0.0,714992.0
+Apartamento,São Gerardo,103,4,2,2,660.0,399999.0
+Apartamento,Cocó,344,5,4,5,4666.0,5500000.0
+Apartamento,Mondubim,43,2,2,1,0.0,232000.0
+Apartamento,Damas,69,3,0,2,430.0,240000.0
+Apartamento,Varjota,120,3,3,2,898000.0,690000.0
+Apartamento,Aldeota,80,3,1,1,714.0,280000.0
+Apartamento,Jacarecanga,55,2,2,2,500.0,315000.0
+Apartamento,Parreão,79,3,2,1,180.0,300000.0
+Apartamento,Meireles,22,1,1,1,0.0,750000.0
+Apartamento,Messejana,45,2,2,1,200.0,210990.0
+Apartamento,Papicu,102,4,2,2,1087.0,340000.0
+Apartamento,Cambeba,89,3,2,2,750.0,936000.0
+Apartamento,Monte Castelo,100,3,2,2,660.0,650000.0
+Apartamento,Meireles,70,2,2,2,0.0,1269999.0
+Apartamento,Parquelândia,78,3,3,2,506.0,790000.0
+Apartamento,Aldeota,128,3,3,2,1500.0,650000.0
+Apartamento,Messejana,59,2,2,1,0.0,342400.0
+Apartamento,Maraponga,65,3,2,1,400.0,209900.0
+Apartamento,Tauape,446,5,6,2,0.0,800000.0
+Apartamento,Meireles,148,3,4,2,0.0,850000.0
+Apartamento,Meireles,179,3,3,2,1600.0,750000.0
+Apartamento,Papicu,65,2,2,1,650.0,320000.0
+Apartamento,Cocó,115,4,5,2,1300.0,1250000.0
+Apartamento,Parangaba,85,3,3,2,600.0,590000.0
+Apartamento,Aldeota,64,2,2,1,10.0,928626.0
+Apartamento,Meireles,182,3,4,4,2800.0,829000.0
+Apartamento,Aldeota,134,4,5,2,1200.0,1200000.0
+Apartamento,José de Alencar,50,2,1,1,200.0,160000.0
+Apartamento,Passaré,59,3,2,2,434.0,340000.0
+Apartamento,Conjunto Esperança,42,2,0,1,250.0,135000.0
+Apartamento,Meireles,244,3,4,2,1290.0,890000.0
+Apartamento,Aldeota,51,2,1,1,0.0,580000.0
+Apartamento,Aldeota,218,4,5,4,0.0,3022901.0
+Apartamento,Meireles,84,3,2,1,1254.0,314000.0
+Apartamento,Messejana,130,3,3,2,410.0,460000.0
+Apartamento,Meireles,95,3,3,2,700.0,1235000.0
+Apartamento,Vila União,102,3,3,3,350.0,210000.0
+Apartamento,José de Alencar,62,3,2,1,350.0,195000.0
+Apartamento,Meireles,60,2,1,1,2000.0,480000.0
+Apartamento,Maraponga,60,3,2,2,0.0,445125.0
+Apartamento,Meireles,202,3,5,4,0.0,2750000.0
+Apartamento,Meireles,69,2,2,2,700.0,1400000.0
+Apartamento,Cambeba,130,3,1,1,800.0,250000.0
+Apartamento,Aldeota,117,3,4,3,1200.0,1445000.0
+Apartamento,Engenheiro Luciano Cavalcante,74,3,3,2,0.0,760000.0
+Apartamento,Aldeota,125,3,3,1,888.0,370000.0
+Apartamento,Fátima,141,3,4,3,0.0,2043770.0
+Apartamento,Centro,76,3,2,1,690.0,250000.0
+Apartamento,Praia do Futuro I,80,3,2,1,600.0,220000.0
+Apartamento,Praia de Iracema,81,3,2,2,533.0,830000.0
+Apartamento,Parangaba,50,2,0,2,300.0,250000.0
+Apartamento,Aldeota,94,3,4,3,800.0,1100000.0
+Apartamento,Jangurussu,52,2,2,1,220.0,230000.0
+Apartamento,Praia de Iracema,38,1,1,1,456.0,504186.0
+Apartamento,Monte Castelo,72,3,1,1,510.0,180000.0
+Apartamento,Messejana,57,2,2,1,390.0,290000.0
+Apartamento,Engenheiro Luciano Cavalcante,133,4,4,3,1300.0,1380000.0
+Apartamento,Mucuripe,234,4,6,4,0.0,4500000.0
+Apartamento,Meireles,118,3,5,3,0.0,1499990.0
+Apartamento,Cocó,2,2,0,3,1354.0,980000.0
+Apartamento,Dionisio Torres,142,3,4,2,1800.0,850000.0
+Apartamento,Monte Castelo,68,3,2,1,555.0,360000.0
+Apartamento,Aldeota,165,4,5,3,1591.0,525000.0
+Apartamento,Aldeota,110,3,4,2,850.0,950000.0
+Apartamento,Cocó,267,3,6,4,1587.0,2200000.0
+Apartamento,Passaré,46,2,2,1,350.0,340000.0
+Apartamento,Mucuripe,5,0,0,0,0.0,797457.0
+Apartamento,Engenheiro Luciano Cavalcante,57,2,2,2,0.0,456000.0
+Apartamento,Maraponga,50,2,1,1,250.0,220000.0
+Apartamento,Presidente Kennedy,68,3,2,1,0.0,503000.0
+Apartamento,Meireles,67,3,2,1,958.0,540000.0
+Apartamento,Meireles,203,4,6,4,0.0,3307000.0
+Apartamento,Cidade dos Funcionários,51,2,2,1,350.0,320000.0
+Apartamento,Cocó,121,3,4,2,1400.0,480000.0
+Apartamento,Meireles,230,4,4,5,0.0,3621286.0
+Apartamento,Engenheiro Luciano Cavalcante,111,3,4,2,800.0,1050000.0
+Apartamento,Montese,69,3,3,1,385.0,180000.0
+Apartamento,Aldeota,126,3,4,3,1200.0,535000.0
+Apartamento,Dias Macedo,46,2,1,1,350.0,188000.0
+Apartamento,Cocó,129,3,4,2,1200.0,430000.0
+Apartamento,José Bonifácio,55,2,2,1,0.0,450000.0
+Apartamento,Aldeota,705,3,3,2,780.0,700000.0
+Apartamento,Parque Dois Irmãos,41,2,0,1,10.0,209990.0
+Apartamento,Aldeota,141,3,4,2,1300.0,600000.0
+Apartamento,Passaré,49,2,2,1,50.0,322549.0
+Apartamento,Montese,63,3,2,1,595.0,300000.0
+Apartamento,Meireles,242,4,5,4,0.0,3506377.0
+Apartamento,Maraponga,83,3,3,2,756.0,440000.0
+Apartamento,Meireles,159,4,4,2,2700.0,830000.0
+Apartamento,Engenheiro Luciano Cavalcante,104,3,4,2,0.0,939615.0
+Apartamento,Jacarecanga,53,2,2,1,150.0,179000.0
+Apartamento,Edson Queiroz,63,3,2,1,0.0,461013.0
+Apartamento,Meireles,65,2,2,1,670.0,750000.0
+Apartamento,Guararapes,269,4,4,4,3204.0,2150000.0
+Apartamento,Messejana,45,2,1,1,0.0,210990.0
+Apartamento,Aldeota,188,4,5,3,1450.0,2700000.0
+Apartamento,Meireles,253,4,6,5,2330.0,4500000.0
+Apartamento,Aldeota,1,1,0,1,0.0,407832.0
+Apartamento,Engenheiro Luciano Cavalcante,119,2,4,2,800.0,1150000.0
+Apartamento,Mucuripe,76,2,2,2,0.0,1250000.0
+Apartamento,Aldeota,106,3,2,2,500.0,1550000.0
+Apartamento,Jangurussu,46,2,1,1,465.0,150000.0
+Apartamento,Cocó,69,3,2,2,655.0,669000.0
+Apartamento,Cocó,108,2,3,1,0.0,480000.0
+Apartamento,Meireles,130,3,3,1,2050.0,320000.0
+Apartamento,Passaré,38,2,1,1,200.0,210000.0
+Apartamento,Praia de Iracema,38,2,1,1,0.0,437000.0
+Apartamento,Meireles,254,4,4,6,0.0,3150000.0
+Apartamento,Parquelândia,78,3,2,2,0.0,700000.0
+Apartamento,São Gerardo,98,3,3,2,617.0,300000.0
+Apartamento,Centro,62,2,2,1,510.0,190000.0
+Apartamento,Meireles,480,3,6,4,2900.0,3800000.0
+Apartamento,Guararapes,195,3,4,3,2182.0,820000.0
+Apartamento,Cambeba,105,3,4,2,550.0,750000.0
+Apartamento,Meireles,64,2,2,1,0.0,930633.0
+Apartamento,Meireles,213,4,6,2,1900.0,1050000.0
+Apartamento,Guararapes,192,3,5,3,1600.0,1200000.0
+Apartamento,Barra do Ceará,37,2,1,1,0.0,254990.0
+Apartamento,José de Alencar,56,2,2,1,350.0,169000.0
+Apartamento,Meireles,330,4,5,5,2300.0,4580000.0
+Apartamento,Parque Iracema,70,3,2,2,880.0,575000.0
+Apartamento,Aldeota,154,3,4,2,1450.0,880000.0
+Apartamento,Cocó,111,3,2,2,1100.0,1300000.0
+Apartamento,Messejana,42,2,1,1,350.0,115000.0
+Apartamento,Joaquim Távora,116,3,3,4,0.0,1050000.0
+Apartamento,Cocó,122,3,3,2,0.0,1390000.0
+Apartamento,Papicu,130,3,2,2,990.0,285000.0
+Apartamento,Benfica,92,3,2,1,840.0,300000.0
+Apartamento,Cocó,170,3,3,2,1732.0,720000.0
+Apartamento,Cocó,180,3,3,2,1100.0,419900.0
+Apartamento,Guararapes,235,4,5,4,0.0,2576495.0
+Apartamento,Aldeota,1,1,0,2,0.0,611940.0
+Apartamento,Papicu,60,2,2,1,950.0,320000.0
+Apartamento,Joaquim Távora,108,4,3,1,1150.0,340000.0
+Apartamento,Salinas,1,1,0,1,401.0,239000.0
+Apartamento,Engenheiro Luciano Cavalcante,44,2,1,1,620.0,535000.0
+Apartamento,Fátima,54,2,2,2,0.0,628000.0
+Apartamento,Guararapes,235,4,5,4,0.0,2560000.0
+Apartamento,Papicu,78,3,2,2,0.0,798806.0
+Apartamento,Fátima,144,3,4,3,1300.0,1950000.0
+Apartamento,Meireles,203,3,4,4,0.0,3340000.0
+Apartamento,Parque Iracema,74,3,2,2,600.0,555000.0
+Apartamento,Meireles,254,4,4,5,0.0,3855128.0
+Apartamento,Cocó,111,3,3,2,950.0,1050000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,3,3,2,680.0,850000.0
+Apartamento,Patriolino Ribeiro,235,4,4,4,0.0,2504013.0
+Apartamento,Meireles,271,4,6,5,2000.0,3619680.0
+Apartamento,Cocó,196,3,3,3,1800.0,1850000.0
+Apartamento,Parque Iracema,93,3,3,2,960.0,990000.0
+Apartamento,Dionisio Torres,83,3,2,1,630.0,250000.0
+Apartamento,Boa Vista Castelão,42,2,1,1,280.0,175000.0
+Apartamento,Papicu,176,5,0,3,0.0,1403411.0
+Apartamento,Parquelândia,63,3,2,1,800.0,349000.0
+Apartamento,Monte Castelo,50,2,1,1,0.0,330807.0
+Apartamento,Aldeota,63,3,2,2,575.0,540000.0
+Apartamento,Cocó,111,3,0,2,1300.0,1250000.0
+Apartamento,Centro,87,2,3,1,685.0,350000.0
+Apartamento,Meireles,66,2,1,1,700.0,1750000.0
+Apartamento,Papicu,160,3,3,3,1300.0,630000.0
+Apartamento,Aldeota,126,3,5,3,1505.0,2350000.0
+Apartamento,Centro,80,3,2,2,600.0,800000.0
+Apartamento,Mucuripe,150,3,2,2,932.0,450000.0
+Apartamento,Benfica,100,4,3,1,820.0,400000.0
+Apartamento,Aldeota,95,3,3,2,0.0,1257433.0
+Apartamento,Meireles,182,4,5,2,1763.0,600000.0
+Apartamento,Mondubim,80,3,1,1,145.0,98000.0
+Apartamento,Meireles,93,2,3,1,700.0,320000.0
+Apartamento,São Gerardo,68,3,2,1,590.0,310000.0
+Apartamento,Cocó,115,3,3,2,0.0,649990.0
+Apartamento,Meireles,203,5,5,2,2014.0,900000.0
+Apartamento,de Lourdes,88,3,3,2,750.0,741999.0
+Apartamento,Cocó,107,3,4,3,1550.0,1200000.0
+Apartamento,Aldeota,124,3,3,2,1100.0,550000.0
+Apartamento,Meireles,58,2,2,1,0.0,940000.0
+Apartamento,Dunas,170,3,4,2,2300.0,1790000.0
+Apartamento,Farias Brito,96,3,2,1,970.0,350000.0
+Apartamento,Benfica,2,2,0,3,0.0,1179771.0
+Apartamento,Itaperi,76,3,2,1,400.0,289999.0
+Apartamento,Dunas,145,4,4,3,1400.0,1842438.0
+Apartamento,Aldeota,117,3,4,2,0.0,1343000.0
+Apartamento,Engenheiro Luciano Cavalcante,74,2,3,2,730.0,695000.0
+Apartamento,Jangurussu,38,2,1,1,0.0,204419.0
+Apartamento,Cocó,75,3,2,2,0.0,530000.0
+Apartamento,Parque Dois Irmãos,60,2,1,1,379.0,250000.0
+Apartamento,Jóquei Clube,49,2,2,1,0.0,366000.0
+Apartamento,Tauape,135,3,4,2,0.0,1430000.0
+Apartamento,Jardim América,78,3,2,2,624.0,430000.0
+Apartamento,Aldeota,112,3,5,2,700.0,1343000.0
+Apartamento,Jacarecanga,100,4,2,1,600.0,330000.0
+Apartamento,Montese,73,2,2,1,350.0,225000.0
+Apartamento,Passaré,50,2,1,1,330.0,230000.0
+Apartamento,Papicu,97,3,3,2,640.0,945000.0
+Apartamento,Aldeota,135,3,3,2,1440.0,390000.0
+Apartamento,Meireles,75,2,2,2,0.0,1350000.0
+Apartamento,Parque Iracema,62,3,2,1,570.0,260000.0
+Apartamento,Antônio Bezerra,43,2,1,1,0.0,232990.0
+Apartamento,Monte Castelo,71,3,2,2,500.0,600000.0
+Apartamento,Meireles,87,3,3,1,800.0,290000.0
+Apartamento,Antônio Bezerra,78,3,2,1,310.0,235000.0
+Apartamento,Aldeota,101,3,3,1,0.0,515000.0
+Apartamento,Meireles,470,3,0,3,0.0,2000000.0
+Apartamento,Engenheiro Luciano Cavalcante,82,3,2,2,550.0,617000.0
+Apartamento,Cocó,120,3,4,3,1200.0,1400000.0
+Apartamento,Parque Del Sol,70,3,2,2,645.0,620000.0
+Apartamento,Praia do Futuro II,51,2,0,2,0.0,354999.0
+Apartamento,Manoel Dias Branco,145,3,4,3,1400.0,1350000.0
+Apartamento,Praia do Futuro II,68,2,2,2,0.0,360000.0
+Apartamento,Papicu,78,3,3,2,0.0,770912.0
+Apartamento,Aldeota,66,3,2,2,750.0,545000.0
+Apartamento,Edson Queiroz,37,2,0,1,0.0,183500.0
+Apartamento,Praia do Futuro,70,2,2,2,750.0,259000.0
+Apartamento,Meireles,86,2,2,2,805.0,765000.0
+Apartamento,Presidente Kennedy,65,3,2,2,400.0,250000.0
+Apartamento,Meireles,44,1,1,1,1689.0,450000.0
+Apartamento,Parquelândia,120,3,4,2,1700.0,850000.0
+Apartamento,Presidente Kennedy,54,2,2,1,700.0,410000.0
+Apartamento,Parque Dois Irmãos,45,2,1,1,0.0,68000.0
+Apartamento,Cocó,3,3,0,3,1800.0,1470000.0
+Apartamento,Meireles,70,3,2,1,580.0,850000.0
+Apartamento,Meireles,491,4,5,5,4500.0,4700000.0
+Apartamento,Cambeba,65,3,2,2,0.0,400000.0
+Apartamento,Praia do Futuro,266,4,4,2,400.0,320000.0
+Apartamento,Meireles,273,5,5,4,3000.0,1300000.0
+Apartamento,Fátima,62,3,3,2,800.0,300000.0
+Apartamento,Dunas,61,2,2,2,593.0,600000.0
+Apartamento,Centro,83,3,3,2,609.0,1150000.0
+Apartamento,Cocó,1,1,1,1,0.0,300000.0
+Apartamento,Cocó,165,3,4,3,1660.0,1850000.0
+Apartamento,de Lourdes,88,3,3,2,780.0,849000.0
+Apartamento,Messejana,50,2,0,1,270.0,175000.0
+Apartamento,José Bonifácio,78,3,2,2,471.0,649730.0
+Apartamento,Meireles,217,3,3,3,2800.0,2200000.0
+Apartamento,Guararapes,240,4,5,3,0.0,2190000.0
+Apartamento,Cocó,158,3,5,3,0.0,1550000.0
+Apartamento,Dionisio Torres,140,3,4,2,1400.0,550000.0
+Apartamento,Varjota,128,3,2,2,1200.0,480000.0
+Apartamento,Aldeota,127,3,0,5,1300.0,680000.0
+Apartamento,Meireles,231,4,6,5,0.0,3713810.0
+Apartamento,Dionisio Torres,160,3,5,3,1500.0,800000.0
+Apartamento,Engenheiro Luciano Cavalcante,81,3,2,2,550.0,635000.0
+Apartamento,Sapiranga,65,3,2,1,170.0,315000.0
+Apartamento,Guararapes,146,4,4,3,1640.0,780000.0
+Apartamento,Mucuripe,86,2,3,2,620.0,799000.0
+Apartamento,Dunas,163,4,5,3,1404.0,1890002.0
+Apartamento,Papicu,65,2,0,1,0.0,627000.0
+Apartamento,Meireles,125,4,3,2,1091.0,590000.0
+Apartamento,Aldeota,105,3,3,1,984.0,380000.0
+Apartamento,Meireles,311,4,6,5,0.0,5380370.0
+Apartamento,Monte Castelo,68,3,2,1,530.0,310000.0
+Apartamento,Passaré,44,2,2,2,0.0,285000.0
+Apartamento,Meireles,107,1,2,2,1175.0,1050000.0
+Apartamento,Presidente Kennedy,95,4,3,1,237.0,235000.0
+Apartamento,Cocó,72,3,2,1,560.0,668999.0
+Apartamento,Centro,33,1,0,1,314.0,115000.0
+Apartamento,José Bonifácio,78,3,3,2,0.0,793562.0
+Apartamento,Meireles,155,3,3,2,0.0,3448000.0
+Apartamento,Meireles,145,4,5,2,1450.0,495000.0
+Apartamento,Papicu,67,3,2,2,0.0,799000.0
+Apartamento,Guararapes,90,3,3,2,1180.0,1050000.0
+Apartamento,Cajazeiras,45,2,0,1,350.0,150000.0
+Apartamento,Jardim Cearense,34,2,1,2,355.0,345000.0
+Apartamento,Meireles,365,4,6,4,3000.0,6800000.0
+Apartamento,Engenheiro Luciano Cavalcante,60,3,2,1,850.0,360000.0
+Apartamento,Conjunto Esperança,56,2,1,1,140.0,100000.0
+Apartamento,Centro,107,3,3,3,555.0,750000.0
+Apartamento,Guajerú,45,2,2,1,0.0,208980.0
+Apartamento,Meireles,310,4,6,5,4100.0,3500000.0
+Apartamento,Cidade dos Funcionários,84,4,2,1,400.0,290000.0
+Apartamento,Farias Brito,118,4,3,2,680.0,330000.0
+Apartamento,Benfica,60,2,1,1,400.0,470000.0
+Apartamento,Fátima,117,4,4,1,730.0,230000.0
+Apartamento,Aldeota,140,3,3,2,1100.0,1400000.0
+Apartamento,Damas,70,3,2,1,0.0,220000.0
+Apartamento,Guararapes,235,4,5,4,0.0,2390990.0
+Apartamento,Rodolfo Teófilo,132,4,2,1,300.0,220000.0
+Apartamento,Lagoa Redonda,38,2,1,1,0.0,199200.0
+Apartamento,Meireles,39,1,1,1,450.0,585000.0
+Apartamento,Parquelândia,78,3,3,2,0.0,790000.0
+Apartamento,Aldeota,120,3,3,2,1500.0,750000.0
+Apartamento,Parque Iracema,53,2,2,1,625.0,569999.0
+Apartamento,Meireles,311,4,5,4,2477.0,1590000.0
+Apartamento,Praia de Iracema,31,1,1,1,0.0,324938.0
+Apartamento,Jangurussu,41,2,1,1,0.0,229900.0
+Apartamento,Passaré,74,2,2,1,0.0,334000.0
+Apartamento,Meireles,163,4,5,3,0.0,2777000.0
+Apartamento,Cambeba,12,3,2,2,754.0,699000.0
+Apartamento,Cocó,108,3,1,2,0.0,420000.0
+Apartamento,Cidade 2000,62,3,2,1,400.0,270000.0
+Apartamento,Vila União,111,3,3,1,325.0,219000.0
+Apartamento,Jóquei Clube,91,3,3,1,600.0,278000.0
+Apartamento,Meireles,21,1,1,1,0.0,522222.0
+Apartamento,Dunas,117,3,4,2,917.0,1390000.0
+Apartamento,Praia de Iracema,186,4,4,2,1325.0,920000.0
+Apartamento,Engenheiro Luciano Cavalcante,76,3,3,2,700.0,700000.0
+Apartamento,Meireles,25,1,1,1,0.0,363322.0
+Apartamento,Meireles,113,2,3,2,1640.0,859000.0
+Apartamento,Meireles,80,2,1,1,1173.0,570000.0
+Apartamento,Parque Iracema,71,2,3,2,620.0,530000.0
+Apartamento,José de Alencar,50,2,2,1,0.0,355331.0
+Apartamento,Aldeota,110,2,1,2,1066.0,929000.0
+Apartamento,Messejana,1,1,0,2,345.0,295000.0
+Apartamento,Centro,62,3,2,1,0.0,567000.0
+Apartamento,Meireles,131,4,4,2,1700.0,750000.0
+Apartamento,Prefeito José Walter,38,2,1,1,0.0,206999.0
+Apartamento,Aldeota,187,5,4,4,1920.0,2600000.0
+Apartamento,Jardim América,97,4,2,2,400.0,249000.0
+Apartamento,Meireles,220,3,5,4,2000.0,2399000.0
+Apartamento,Aldeota,264,3,4,2,1260.0,580000.0
+Apartamento,Mucuripe,89,2,3,2,950.0,1264667.0
+Apartamento,Meireles,311,5,5,5,0.0,5314833.0
+Apartamento,Joaquim Távora,124,3,3,2,900.0,320000.0
+Apartamento,Meireles,368,4,5,5,0.0,6665226.0
+Apartamento,Parque Iracema,91,3,3,2,682.0,625000.0
+Apartamento,Meireles,260,3,4,4,2414.0,2850000.0
+Apartamento,Damas,65,3,2,2,580.0,290000.0
+Apartamento,Cocó,125,3,4,2,1375.0,595000.0
+Apartamento,Centro,112,3,3,2,500.0,580000.0
+Apartamento,Aldeota,126,3,4,2,1420.0,590000.0
+Apartamento,Papicu,260,4,4,3,1500.0,1250000.0
+Apartamento,Maraponga,140,3,3,2,439.0,650000.0
+Apartamento,Maraponga,45,2,1,1,250.0,230000.0
+Apartamento,Cocó,156,4,4,2,1750.0,790000.0
+Apartamento,Meireles,58,2,2,1,50.0,904362.0
+Apartamento,Cocó,143,3,4,2,1651.0,800000.0
+Apartamento,Meireles,79,2,2,1,710.0,1234000.0
+Apartamento,Meireles,80,3,3,1,1170.0,560000.0
+Apartamento,Aldeota,218,4,6,3,1350.0,2983000.0
+Apartamento,Edson Queiroz,54,2,2,1,360.0,499753.0
+Apartamento,Messejana,48,2,1,1,350.0,225000.0
+Apartamento,Meireles,65,2,2,1,890.0,659000.0
+Apartamento,Praia do Futuro II,90,2,2,1,450.0,200000.0
+Apartamento,Aldeota,243,4,5,2,1700.0,700000.0
+Apartamento,Papicu,75,3,3,2,0.0,329000.0
+Apartamento,Dendê,1,1,0,1,0.0,260000.0
+Apartamento,Barra do Ceará,39,2,1,1,280.0,254990.0
+Apartamento,Meireles,170,3,4,2,1450.0,750000.0
+Apartamento,Meireles,127,3,4,3,1200.0,900000.0
+Apartamento,Aldeota,93,3,3,2,1100.0,870000.0
+Apartamento,Messejana,56,2,2,2,400.0,215000.0
+Apartamento,Vicente Pinzon,60,3,2,1,350.0,410000.0
+Apartamento,Cocó,56,2,2,2,646.0,369900.0
+Apartamento,Dunas,75,3,3,2,0.0,603664.0
+Apartamento,Edson Queiroz,91,3,2,2,950.0,880000.0
+Apartamento,Presidente Kennedy,73,2,2,2,500.0,679000.0
+Apartamento,de Lourdes,138,3,4,3,0.0,1382000.0
+Apartamento,Aldeota,152,3,3,3,0.0,730000.0
+Apartamento,Aldeota,100,3,4,2,800.0,890000.0
+Apartamento,Meireles,237,4,5,5,2701.0,1590000.0
+Apartamento,Cocó,65,3,2,2,600.0,410000.0
+Apartamento,Papicu,2,2,0,2,530.0,808658.0
+Apartamento,Manuel Sátiro,109,3,2,1,200.0,335000.0
+Apartamento,Serrinha,54,2,1,1,310.0,139000.0
+Apartamento,Meireles,254,4,6,5,0.0,4500000.0
+Apartamento,Papicu,114,3,3,1,751.0,440000.0
+Apartamento,Cocó,82,3,4,2,0.0,590000.0
+Apartamento,Praia do Futuro I,60,3,2,2,0.0,357055.0
+Apartamento,Cocó,70,3,2,2,655.0,650000.0
+Apartamento,Edson Queiroz,85,3,0,2,300.0,250000.0
+Apartamento,Meireles,4,4,0,5,2898.0,2850000.0
+Apartamento,São João do Tauape,73,3,2,1,330.0,190000.0
+Apartamento,Dionisio Torres,50,2,2,1,0.0,650000.0
+Apartamento,Meireles,217,3,4,4,2051.0,2000000.0
+Apartamento,Aldeota,38,1,1,1,100.0,457653.0
+Apartamento,Papicu,64,2,2,1,650.0,350000.0
+Apartamento,Centro,52,2,1,1,0.0,430000.0
+Apartamento,Aldeota,37,2,2,1,2.0,348945.0
+Apartamento,Maraponga,54,2,1,1,0.0,390000.0
+Apartamento,Cocó,54,2,2,1,0.0,446990.0
+Apartamento,Varjota,120,3,2,1,898.0,680000.0
+Apartamento,Dunas,61,2,2,1,580.0,549000.0
+Apartamento,Aldeota,93,3,0,2,0.0,910000.0
+Apartamento,Guararapes,145,3,4,3,1333.0,899000.0
+Apartamento,Cocó,121,3,3,2,850.0,550000.0
+Apartamento,Engenheiro Luciano Cavalcante,2,2,0,3,0.0,1013765.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,2,680.0,630000.0
+Apartamento,Passaré,44,2,2,1,0.0,274000.0
+Apartamento,Benfica,132,3,2,2,552.0,290000.0
+Apartamento,Dionisio Torres,188,3,3,2,900.0,299000.0
+Apartamento,Aldeota,65,2,1,2,750.0,1090000.0
+Apartamento,Presidente Kennedy,55,2,2,1,10.0,430000.0
+Apartamento,Cambeba,89,3,2,2,754.0,930000.0
+Apartamento,Passaré,50,2,2,1,475.0,259999.0
+Apartamento,Aldeota,127,3,4,3,1442.0,1090000.0
+Apartamento,Meireles,311,4,4,5,0.0,5000000.0
+Apartamento,Passaré,68,3,2,1,0.0,326600.0
+Apartamento,Meireles,311,4,5,5,0.0,4950000.0
+Apartamento,Meireles,450,4,5,4,0.0,2000000.0
+Apartamento,Guararapes,250,3,4,4,0.0,1400000.0
+Apartamento,Meireles,39,1,1,1,0.0,540000.0
+Apartamento,Benfica,110,3,2,1,970.0,320000.0
+Apartamento,Mucuripe,93,3,3,3,916.0,560000.0
+Apartamento,Cocó,82,3,3,2,752.0,668000.0
+Apartamento,Meireles,368,3,4,5,100.0,6652260.0
+Apartamento,Meireles,86,2,3,2,700.0,765000.0
+Apartamento,Itaperi,45,2,1,1,330.0,155000.0
+Apartamento,Passaré,44,2,0,2,0.0,239000.0
+Apartamento,Fátima,1,1,0,2,400.0,198000.0
+Apartamento,Mucuripe,50,1,1,1,0.0,719999.0
+Apartamento,Fátima,114,3,3,2,1194.0,880000.0
+Apartamento,Meireles,56,2,2,1,612.0,760000.0
+Apartamento,Engenheiro Luciano Cavalcante,188,4,4,4,0.0,2170534.0
+Apartamento,Aldeota,87,2,3,1,731.0,350000.0
+Apartamento,Vila União,69,3,1,1,200.0,170000.0
+Apartamento,Parque Santa Maria,38,2,1,1,300.0,216000.0
+Apartamento,Aldeota,0,0,0,0,0.0,1215000.0
+Apartamento,Messejana,49,2,2,1,550.0,374343.0
+Apartamento,Parque Del Sol,54,2,2,1,0.0,679000.0
+Apartamento,Aldeota,102,3,3,2,0.0,549999.0
+Apartamento,Meireles,2,2,0,1,1730.0,2200000.0
+Apartamento,Cocó,131,3,4,2,0.0,1255000.0
+Apartamento,Montese,75,2,2,1,330.0,281000.0
+Apartamento,Praia do Futuro I,80,2,2,1,600.0,220000.0
+Apartamento,Engenheiro Luciano Cavalcante,142,3,5,3,1400.0,1430000.0
+Apartamento,Parque Iracema,73,2,3,2,575.0,590000.0
+Apartamento,Maraponga,50,2,2,1,250.0,248000.0
+Apartamento,Aldeota,35,1,1,1,350.0,459000.0
+Apartamento,Meireles,275,4,6,4,2500.0,2300000.0
+Apartamento,Mondubim,60,3,1,1,360.0,260000.0
+Apartamento,Parque Dois Irmãos,45,2,1,1,197.0,85000.0
+Apartamento,Edson Queiroz,30,1,1,1,214.0,390495.0
+Apartamento,Meireles,136,3,5,3,1077.0,800000.0
+Apartamento,Aldeota,120,3,2,2,1300.0,400000.0
+Apartamento,Montese,77,3,2,1,550.0,284000.0
+Apartamento,Engenheiro Luciano Cavalcante,57,2,2,1,0.0,432000.0
+Apartamento,Centro,122,4,3,1,850.0,399000.0
+Apartamento,Meireles,253,4,5,5,1900.0,4090000.0
+Apartamento,Meireles,254,4,5,5,2466.0,4090598.0
+Apartamento,Engenheiro Luciano Cavalcante,142,3,4,3,950.0,1490000.0
+Apartamento,Papicu,115,3,3,1,750.0,380000.0
+Apartamento,Parque Dois Irmãos,60,3,2,1,350.0,299999.0
+Apartamento,Meireles,242,4,5,4,0.0,3674000.0
+Apartamento,Benfica,30,1,1,1,300.0,283793.0
+Apartamento,Meireles,202,3,4,4,0.0,3180000.0
+Apartamento,Fátima,89,3,2,2,622.0,779999.0
+Apartamento,Praia do Futuro II,37,1,1,1,432.0,380000.0
+Apartamento,Presidente Kennedy,54,2,1,1,111.0,471000.0
+Apartamento,Passaré,45,2,2,1,221.0,230000.0
+Apartamento,Edson Queiroz,54,2,3,1,400.0,499000.0
+Apartamento,Parque Dois Irmãos,44,2,1,1,300.0,85000.0
+Apartamento,Passaré,55,3,2,2,370.0,349999.0
+Apartamento,Sabiaguaba,0,0,0,0,0.0,680000.0
+Apartamento,Meireles,188,4,5,3,0.0,2700000.0
+Apartamento,Meireles,70,2,2,2,750.0,990000.0
+Apartamento,Presidente Kennedy,92,3,1,1,0.0,250000.0
+Apartamento,Jacarecanga,111,4,3,1,715.0,400000.0
+Apartamento,Meireles,352,5,6,3,1900.0,1408000.0
+Apartamento,Meireles,42,1,0,1,0.0,435644.0
+Apartamento,Passaré,73,3,2,2,0.0,355000.0
+Apartamento,Guararapes,90,3,4,2,1110.0,1050000.0
+Apartamento,Meireles,70,2,2,1,812.0,540000.0
+Apartamento,Aldeota,360,3,3,4,0.0,1690000.0
+Apartamento,Henrique Jorge,50,2,2,1,370.0,150000.0
+Apartamento,Barra do Ceará,44,2,1,1,350.0,130000.0
+Apartamento,Parangaba,62,3,2,2,400.0,330000.0
+Apartamento,Meireles,475,4,5,5,3610.0,4500000.0
+Apartamento,Meireles,400,4,5,4,0.0,4000000.0
+Apartamento,Joaquim Távora,51,2,1,1,0.0,448000.0
+Apartamento,Presidente Kennedy,53,2,2,1,0.0,458000.0
+Apartamento,Mucuripe,86,2,3,2,980.0,765000.0
+Apartamento,Engenheiro Luciano Cavalcante,71,3,2,2,900.0,450000.0
+Apartamento,Meireles,141,3,4,2,0.0,690000.0
+Apartamento,Passaré,45,2,1,1,530.0,135000.0
+Apartamento,Couto Fernandes,60,2,2,2,425.0,290000.0
+Apartamento,Meireles,444,4,6,5,0.0,7000000.0
+Apartamento,Praia do Futuro,60,1,2,1,875.0,380000.0
+Apartamento,Seis Bocas,100,3,4,2,1170.0,740000.0
+Apartamento,Papicu,65,2,2,2,485.0,650000.0
+Apartamento,Aldeota,127,3,3,1,1250.0,450000.0
+Apartamento,Aldeota,100,3,3,2,0.0,759100.0
+Apartamento,Dunas,145,3,5,3,1400.0,1350000.0
+Apartamento,Aldeota,197,3,4,2,1700.0,950000.0
+Apartamento,Parque Iracema,115,3,4,2,1250.0,1290000.0
+Apartamento,São Gerardo,85,3,3,2,770.0,252000.0
+Apartamento,Varjota,2,2,0,3,719.0,1264667.0
+Apartamento,Meireles,40,2,2,1,111.0,584537.0
+Apartamento,Papicu,65,3,2,1,650.0,330000.0
+Apartamento,Mondubim,43,2,1,1,0.0,275990.0
+Apartamento,Damas,48,2,2,1,0.0,315943.0
+Apartamento,Sapiranga,100,3,3,2,1170.0,740000.0
+Apartamento,Monte Castelo,104,3,2,2,650.0,500000.0
+Apartamento,Praia do Futuro II,53,2,2,1,0.0,430000.0
+Apartamento,Mucuripe,220,3,5,3,2200.0,4600000.0
+Apartamento,Parquelândia,60,3,1,2,800.0,295000.0
+Apartamento,Presidente Kennedy,53,2,2,1,300.0,458000.0
+Apartamento,Meireles,40,2,2,1,0.0,625000.0
+Apartamento,Aldeota,299,4,6,4,4500.0,1349000.0
+Apartamento,Benfica,85,3,3,1,465.0,400000.0
+Apartamento,Meireles,82,2,2,2,0.0,1248171.0
+Apartamento,Parquelândia,155,3,2,2,1250.0,1290000.0
+Apartamento,Engenheiro Luciano Cavalcante,37,1,0,1,0.0,456500.0
+Apartamento,Meireles,95,3,3,2,0.0,1252720.0
+Apartamento,Mondubim,38,2,1,1,0.0,225990.0
+Apartamento,Engenheiro Luciano Cavalcante,54,2,2,1,0.0,621000.0
+Apartamento,Centro,106,3,2,2,0.0,945000.0
+Apartamento,Meireles,58,2,1,1,0.0,950000.0
+Apartamento,José de Alencar,60,3,3,2,550.0,410566.0
+Apartamento,Passaré,51,2,2,2,380.0,250000.0
+Apartamento,Engenheiro Luciano Cavalcante,77,3,3,2,730.0,660000.0
+Apartamento,Mucuripe,180,3,4,3,1600.0,1980000.0
+Apartamento,Papicu,65,3,2,2,417.0,654000.0
+Apartamento,Mucuripe,86,2,2,2,680.0,765000.0
+Apartamento,Meireles,271,4,6,4,0.0,3680000.0
+Apartamento,Aldeota,154,3,3,2,1620.0,880000.0
+Apartamento,Meireles,380,5,6,3,2990.0,1290000.0
+Apartamento,Meireles,364,4,6,5,0.0,6718573.0
+Apartamento,Cocó,107,3,3,2,0.0,1293778.0
+Apartamento,Edson Queiroz,81,3,3,2,0.0,660000.0
+Apartamento,Meireles,118,3,5,2,1100.0,1700000.0
+Apartamento,Engenheiro Luciano Cavalcante,3,2,1,1,0.0,476500.0
+Apartamento,Passaré,41,1,1,1,0.0,225500.0
+Apartamento,Montese,54,2,1,1,900.0,220000.0
+Apartamento,Meireles,54,1,1,1,1200.0,857408.0
+Apartamento,Jacarecanga,62,3,2,2,509.0,345000.0
+Apartamento,Meireles,113,3,3,1,1250.0,650000.0
+Apartamento,Patriolino Ribeiro,182,3,4,4,1666.0,1790000.0
+Apartamento,Parquelândia,85,3,0,3,0.0,707500.0
+Apartamento,Monte Castelo,60,3,2,2,400.0,220000.0
+Apartamento,Cocó,136,3,2,1,1050.0,420000.0
+Apartamento,Praia do Futuro,53,2,2,1,0.0,418000.0
+Apartamento,Passaré,70,3,2,2,405.0,330000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,1,2,630.0,680000.0
+Apartamento,Meireles,83,2,2,2,0.0,530000.0
+Apartamento,Prefeito José Walter,44,2,2,1,235000.0,325000.0
+Apartamento,Meireles,227,3,5,2,2000.0,1199000.0
+Apartamento,Montese,98,3,2,1,363.0,170000.0
+Apartamento,Fátima,126,3,4,2,1280.0,800000.0
+Apartamento,Aldeota,1,4,4,2,1150.0,1000000.0
+Apartamento,Mucuripe,86,2,2,2,0.0,765000.0
+Apartamento,Serrinha,55,2,2,1,380.0,330000.0
+Apartamento,Mucuripe,110,3,4,3,0.0,1450000.0
+Apartamento,Aldeota,106,3,3,3,750.0,990000.0
+Apartamento,Meireles,213,4,4,2,2000.0,1000000.0
+Apartamento,Meireles,129,4,3,2,1100.0,650000.0
+Apartamento,Meireles,275,4,5,4,2500.0,1900000.0
+Apartamento,Mucuripe,85,2,2,2,0.0,850000.0
+Apartamento,São Gerardo,72,3,2,2,535.0,570000.0
+Apartamento,Papicu,120,3,4,2,1174.0,600000.0
+Apartamento,Passaré,69,3,2,2,664.0,350000.0
+Apartamento,Messejana,74,3,2,1,685.0,330000.0
+Apartamento,Engenheiro Luciano Cavalcante,108,2,3,2,550.0,640000.0
+Apartamento,Meireles,4,4,0,5,3000.0,2899900.0
+Apartamento,Edson Queiroz,92,3,3,2,950.0,890000.0
+Apartamento,Aldeota,110,3,3,2,900.0,1190000.0
+Apartamento,Meireles,819,5,8,10,0.0,14000000.0
+Apartamento,Meireles,539,5,5,8,3750.0,4300000.0
+Apartamento,Meireles,1,1,0,2,1117.0,540000.0
+Apartamento,Aldeota,294,3,5,4,2130.0,1690000.0
+Apartamento,Meireles,188,4,5,3,0.0,2150000.0
+Apartamento,Cocó,29,1,1,1,0.0,382000.0
+Apartamento,Antônio Diogo,75,2,2,2,460.0,190000.0
+Apartamento,José Bonifácio,96,4,2,2,760.0,1600000.0
+Apartamento,Guararapes,89,2,3,1,900.0,420000.0
+Apartamento,Dionisio Torres,127,3,3,2,0.0,550000.0
+Apartamento,Cajazeiras,70,3,1,1,385.0,210000.0
+Apartamento,Aldeota,97,3,3,1,0.0,364999.0
+Apartamento,Maraponga,64,3,3,1,600.0,259999.0
+Apartamento,Parangaba,72,2,2,1,420.0,200000.0
+Apartamento,Papicu,109,3,3,2,732.0,1050000.0
+Apartamento,Papicu,135,3,3,1,800.0,310000.0
+Apartamento,Meireles,150,3,3,2,1460.0,1150000.0
+Apartamento,Fátima,49,2,2,1,0.0,363000.0
+Apartamento,Guararapes,123,3,3,2,810.0,700000.0
+Apartamento,Mucuripe,604,5,6,8,0.0,13000000.0
+Apartamento,Carlito Pamplona,51,2,2,1,0.0,294000.0
+Apartamento,Presidente Kennedy,72,3,3,1,398.0,420000.0
+Apartamento,João XXIII,138,2,2,1,0.0,180000.0
+Apartamento,Maraponga,64,3,2,2,560.0,580000.0
+Apartamento,Cocó,129,3,3,2,1200.0,440000.0
+Apartamento,Cambeba,44,1,1,1,11.0,56000.0
+Apartamento,Aldeota,184,3,4,3,1826.0,999900.0
+Apartamento,Papicu,95,3,3,2,760.0,460000.0
+Apartamento,Guararapes,1,3,1,2,1110.0,1050000.0
+Apartamento,Meireles,271,4,0,4,0.0,3649724.0
+Apartamento,Praia do Futuro II,51,2,2,1,0.0,380000.0
+Apartamento,Meireles,201,3,5,4,2600.0,2650000.0
+Apartamento,Praia do Futuro II,51,2,2,1,0.0,355350.0
+Apartamento,Passaré,58,3,2,2,390.0,360000.0
+Apartamento,Aldeota,162,3,5,3,1350.0,2452117.0
+Apartamento,Meireles,120,3,3,2,898.0,692000.0
+Apartamento,Parque Dois Irmãos,57,2,2,2,450.0,315000.0
+Apartamento,Dionisio Torres,116,3,4,2,1300.0,510000.0
+Apartamento,Guararapes,220,4,5,4,1950.0,2400000.0
+Apartamento,Parangaba,58,3,2,2,300.0,279999.0
+Apartamento,Jóquei Clube,49,2,2,1,0.0,329990.0
+Apartamento,Engenheiro Luciano Cavalcante,54,2,1,1,0.0,140000.0
+Apartamento,Meireles,230,3,6,4,2500.0,3000000.0
+Apartamento,Engenheiro Luciano Cavalcante,152,3,4,3,0.0,1450000.0
+Apartamento,Meireles,27,1,1,1,4.0,470000.0
+Apartamento,Engenheiro Luciano Cavalcante,146,3,0,3,0.0,1620000.0
+Apartamento,Engenheiro Luciano Cavalcante,70,3,2,1,750.0,360000.0
+Apartamento,Engenheiro Luciano Cavalcante,76,3,3,2,620.0,689000.0
+Apartamento,Presidente Kennedy,65,3,2,1,0.0,521000.0
+Apartamento,Engenheiro Luciano Cavalcante,60,3,2,1,850.0,320000.0
+Apartamento,Centro,54,2,2,1,290.0,400000.0
+Apartamento,Planalto Ayrton Senna,38,2,1,1,0.0,206999.0
+Apartamento,Montese,76,2,2,2,400.0,175000.0
+Apartamento,Jardim América,80,3,2,1,615.0,280000.0
+Apartamento,Salinas,113,3,3,2,890.0,575000.0
+Apartamento,Aldeota,115,3,4,2,890.0,865000.0
+Apartamento,Parquelândia,83,3,2,2,0.0,716900.0
+Apartamento,Meireles,82,2,2,1,0.0,1900000.0
+Apartamento,Aldeota,2,2,0,3,0.0,885848.0
+Apartamento,Parque Presidente Vargas,57,2,2,1,157.0,120000.0
+Apartamento,Meireles,21,1,1,2,0.0,475089.0
+Apartamento,Cocó,165,3,4,3,1720.0,1850000.0
+Apartamento,Dionisio Torres,130,3,3,2,950.0,480000.0
+Apartamento,Aldeota,158,4,5,2,980.0,700000.0
+Apartamento,Aldeota,311,4,5,5,2477.0,4440000.0
+Apartamento,Cocó,167,3,4,3,1530.0,1350000.0
+Apartamento,Bela Vista,73,3,1,1,350.0,220000.0
+Apartamento,Meireles,401,4,6,5,3650.0,5899000.0
+Apartamento,Aldeota,150,4,4,2,0.0,1730000.0
+Apartamento,Guararapes,90,3,3,2,1110.0,957000.0
+Apartamento,Passaré,63,3,2,2,546.0,330000.0
+Apartamento,Meireles,193,3,5,2,1600.0,900000.0
+Apartamento,Meireles,61,2,2,1,0.0,954000.0
+Apartamento,Maraponga,44,2,1,1,215.0,200000.0
+Apartamento,Meireles,126,3,0,3,0.0,1000000.0
+Apartamento,Aldeota,101,3,3,1,760.0,515000.0
+Apartamento,Maraponga,44,2,1,1,292.0,230000.0
+Apartamento,Meireles,67,2,2,1,740.0,590000.0
+Apartamento,Parque Iracema,71,2,3,2,620.0,550000.0
+Apartamento,Cocó,205,3,5,4,0.0,2855544.0
+Apartamento,Parque Iracema,87,3,2,2,800.0,680000.0
+Apartamento,Fátima,78,3,2,2,430.0,689000.0
+Apartamento,Meireles,86,2,3,2,900.0,850000.0
+Apartamento,Messejana,74,3,2,1,650.0,330000.0
+Apartamento,Meireles,314,5,5,3,2600.0,1875000.0
+Apartamento,Cambeba,89,3,2,2,0.0,620000.0
+Apartamento,Cocó,107,3,4,3,1540.0,1290000.0
+Apartamento,Engenheiro Luciano Cavalcante,173,3,5,3,1210.0,1500000.0
+Apartamento,Bela Vista,68,3,2,1,10.0,484475.0
+Apartamento,Cocó,1,1,0,2,0.0,481000.0
+Apartamento,Cocó,100,3,3,1,1200.0,490000.0
+Apartamento,Parangaba,60,3,2,1,545.0,280000.0
+Apartamento,Papicu,110,4,3,2,1085.0,340000.0
+Apartamento,Cambeba,65,3,2,1,300.0,279999.0
+Apartamento,Meireles,56,2,1,1,850.0,790000.0
+Apartamento,Passaré,50,2,1,1,150.0,165000.0
+Apartamento,Fátima,87,3,2,2,900.0,650000.0
+Apartamento,Salinas,44,2,1,1,370.0,265000.0
+Apartamento,Fátima,70,2,2,2,700.0,670000.0
+Apartamento,Mondubim,66,3,2,1,450.0,395000.0
+Apartamento,Aldeota,158,3,3,2,1610.0,420000.0
+Apartamento,Aldeota,176,4,5,2,1850.0,890000.0
+Apartamento,Manuel Sátiro,40,4,1,2,0.0,120000.0
+Apartamento,Dionisio Torres,137,4,4,3,1260.0,980000.0
+Apartamento,Papicu,78,3,3,2,790.0,780000.0
+Apartamento,Álvaro Weyne,55,2,1,1,360.0,235000.0
+Apartamento,Dunas,61,2,2,2,555.0,535766.0
+Apartamento,Meireles,175,4,5,3,1920.0,1150000.0
+Apartamento,Centro,55,2,2,1,0.0,485000.0
+Apartamento,Meireles,368,4,5,5,0.0,5940905.0
+Apartamento,Cocó,232,3,4,5,0.0,2490000.0
+Apartamento,Mucuripe,543,4,4,6,4400.0,10095289.0
+Apartamento,Meireles,2,2,0,2,1041.0,970818.0
+Apartamento,Cocó,128,3,4,2,1312.0,640000.0
+Apartamento,Mucuripe,79,1,1,1,1397.0,500000.0
+Apartamento,Aldeota,66,2,2,2,0.0,695000.0
+Apartamento,Parque Dois Irmãos,60,3,2,2,302.0,349900.0
+Apartamento,Mondubim,39,2,1,1,0.0,279990.0
+Apartamento,Papicu,70,3,3,2,750.0,449000.0
+Apartamento,Meireles,290,4,5,3,2900.0,1290000.0
+Apartamento,Cocó,100,2,3,2,0.0,1300000.0
+Apartamento,Meireles,72,3,2,2,0.0,970000.0
+Apartamento,Meireles,5,5,0,1,0.0,2900000.0
+Apartamento,Mucuripe,330,4,4,4,2350.0,2950000.0
+Apartamento,Parque Del Sol,126,3,3,2,1100.0,1220000.0
+Apartamento,Papicu,182,3,1,2,1700.0,495000.0
+Apartamento,Fátima,117,4,3,1,0.0,300000.0
+Apartamento,Parque Iracema,87,3,3,2,530.0,629999.0
+Apartamento,Meireles,59,2,2,2,0.0,848000.0
+Apartamento,Meireles,65,2,1,1,766.0,540000.0
+Apartamento,Meireles,66,2,2,1,600.0,1150000.0
+Apartamento,Engenheiro Luciano Cavalcante,164,4,5,3,750.0,1960000.0
+Apartamento,Dunas,3,3,0,5,1200.0,1350000.0
+Apartamento,Meireles,254,4,4,5,0.0,3985959.0
+Apartamento,Messejana,50,2,2,1,200.0,190000.0
+Apartamento,Fátima,130,3,5,4,1600.0,1400000.0
+Apartamento,Paupina,44,2,1,1,280.0,190000.0
+Apartamento,José de Alencar,56,2,2,1,350.0,199000.0
+Apartamento,Aldeota,218,4,0,5,2000.0,2800000.0
+Apartamento,Cambeba,45,2,1,1,0.0,65000.0
+Apartamento,Meireles,59,3,2,1,900.0,475000.0
+Apartamento,Presidente Kennedy,53,2,2,1,0.0,480000.0
+Apartamento,Farias Brito,109,3,2,2,680.0,340000.0
+Apartamento,Sapiranga,54,2,2,2,500.0,370000.0
+Apartamento,Varjota,181,4,5,3,950.0,1300000.0
+Apartamento,Fátima,89,3,2,1,600.0,320000.0
+Apartamento,Benfica,48,2,1,2,0.0,550000.0
+Apartamento,Parque Dois Irmãos,66,3,2,1,400.0,340000.0
+Apartamento,Meireles,142,3,4,2,0.0,630000.0
+Apartamento,Meireles,72,3,0,2,0.0,970818.0
+Apartamento,Vicente Pinzon,138,3,3,2,1300.0,449800.0
+Apartamento,Damas,65,3,3,2,530.0,290000.0
+Apartamento,Meireles,88,3,3,1,980.0,315000.0
+Apartamento,Meireles,40,1,1,1,0.0,533416.0
+Apartamento,Guararapes,145,3,4,3,1450.0,1390000.0
+Apartamento,Varjota,123,3,3,2,0.0,530640.0
+Apartamento,Maraponga,65,3,2,2,480.0,415000.0
+Apartamento,Meireles,231,4,5,4,0.0,3500000.0
+Apartamento,Aldeota,256,4,5,3,2300.0,1450000.0
+Apartamento,Engenheiro Luciano Cavalcante,146,3,4,3,0.0,1620000.0
+Apartamento,Monte Castelo,50,2,2,1,10.0,335456.0
+Apartamento,Engenheiro Luciano Cavalcante,188,4,5,4,1200.0,2495000.0
+Apartamento,Parreão,70,3,2,2,660.0,290000.0
+Apartamento,Centro,83,3,3,2,442.0,745000.0
+Apartamento,Meireles,118,3,5,11,1300.0,1600000.0
+Apartamento,Benfica,118,4,3,2,680.0,330000.0
+Apartamento,Meireles,365,4,6,5,0.0,6100000.0
+Apartamento,Vicente Pinzon,60,3,2,2,300.0,380000.0
+Apartamento,Papicu,2,2,0,3,890.0,350000.0
+Apartamento,Maraponga,42,2,0,1,250.0,245500.0
+Apartamento,Joaquim Távora,124,3,2,2,1200.0,330000.0
+Apartamento,Monte Castelo,90,3,2,2,680.0,850000.0
+Apartamento,Joaquim Távora,125,3,4,2,970.0,989000.0
+Apartamento,Varjota,92,3,2,2,670.0,420000.0
+Apartamento,Cocó,108,3,3,2,954.0,550000.0
+Apartamento,Aldeota,172,3,3,2,2463.0,700000.0
+Apartamento,Mucuripe,221,3,4,4,1800.0,2500000.0
+Apartamento,Meireles,4,4,0,4,0.0,3936899.0
+Apartamento,Joaquim Távora,110,4,3,2,860.0,490000.0
+Apartamento,Meireles,192,4,6,3,1350.0,1648900.0
+Apartamento,Joaquim Távora,141,3,3,2,925.0,670000.0
+Apartamento,Patriolino Ribeiro,164,3,3,4,1405.0,1487247.0
+Apartamento,Vicente Pinzon,59,2,2,1,756.0,450000.0
+Apartamento,Meireles,305,4,5,4,0.0,2500000.0
+Apartamento,Mucuripe,3,3,0,4,0.0,1950000.0
+Apartamento,Praia do Futuro,50,2,3,1,0.0,309950.0
+Apartamento,Aldeota,120,3,3,2,1500.0,620000.0
+Apartamento,Maraponga,65,3,2,2,380.0,249900.0
+Apartamento,Praia de Iracema,180,3,3,1,1050.0,935000.0
+Apartamento,Maraponga,45,2,1,1,300.0,245000.0
+Apartamento,Meireles,3,3,0,3,0.0,2755416.0
+Apartamento,Parque Iracema,126,4,5,2,1050.0,990000.0
+Apartamento,Guararapes,235,4,5,4,0.0,2500000.0
+Apartamento,Dunas,61,2,2,2,550.0,495000.0
+Apartamento,Aldeota,120,3,3,1,860.0,390000.0
+Apartamento,Meireles,819,5,7,10,4700.0,14000000.0
+Apartamento,Itaperi,44,1,1,1,295.0,130000.0
+Apartamento,Aldeota,39,1,1,1,0.0,445000.0
+Apartamento,Meireles,365,3,4,4,0.0,5490000.0
+Apartamento,Meireles,98,3,4,1,1200.0,400000.0
+Apartamento,Aldeota,92,2,3,1,930.0,450000.0
+Apartamento,Jacarecanga,53,2,2,1,457.0,379500.0
+Apartamento,Centro,113,3,3,1,1150.0,320000.0
+Apartamento,Cocó,231,3,3,2,1600.0,430000.0
+Apartamento,Dionisio Torres,50,2,2,1,540.0,630000.0
+Apartamento,Paupina,44,2,1,1,0.0,188900.0
+Apartamento,Cocó,81,2,3,2,946.0,960000.0
+Apartamento,Jacarecanga,48,2,1,1,300.0,280000.0
+Apartamento,Passaré,58,3,2,2,480.0,370000.0
+Apartamento,Centro,51,2,2,1,0.0,491758.0
+Apartamento,Meireles,189,3,4,3,2800.0,1600000.0
+Apartamento,Siqueira,1,2,1,1,0.0,190000.0
+Apartamento,Aldeota,150,4,4,3,0.0,1727000.0
+Apartamento,Edson Queiroz,48,3,1,1,340.0,130000.0
+Apartamento,Meireles,58,2,2,2,0.0,908000.0
+Apartamento,Montese,64,3,2,1,400.0,325000.0
+Apartamento,Meireles,1,1,0,2,800.0,870000.0
+Apartamento,Guararapes,164,3,4,3,0.0,1504100.0
+Apartamento,Meireles,179,3,2,2,1600.0,750000.0
+Apartamento,Meireles,179,4,5,2,1850.0,950000.0
+Apartamento,Presidente Kennedy,53,2,2,1,500.0,439000.0
+Apartamento,Meireles,153,3,4,3,1500.0,3500000.0
+Apartamento,Parque Iracema,73,3,2,2,541.0,555000.0
+Apartamento,Guararapes,114,3,3,2,786.0,800000.0
+Apartamento,Passaré,49,2,1,1,0.0,315000.0
+Apartamento,Guararapes,150,3,4,3,1700.0,720000.0
+Apartamento,Aldeota,65,2,2,1,350.0,825000.0
+Apartamento,Cocó,3,3,0,4,1838.0,2000000.0
+Apartamento,Cambeba,89,3,2,2,50.0,914000.0
+Apartamento,Meireles,231,4,5,4,1920.0,3100000.0
+Apartamento,Dionisio Torres,200,4,7,3,2050.0,980000.0
+Apartamento,Aldeota,193,3,2,2,930.0,450000.0
+Apartamento,Cocó,7,3,3,2,867.0,950000.0
+Apartamento,Meireles,379,4,6,6,3500.0,7500000.0
+Apartamento,Praia do Futuro II,49,2,2,1,0.0,329000.0
+Apartamento,Montese,85,3,2,1,446.0,184990.0
+Apartamento,Presidente Kennedy,77,3,2,2,590.0,480000.0
+Apartamento,Aldeota,102,3,3,1,850.0,550000.0
+Apartamento,Joaquim Távora,88,3,2,1,1260.0,320000.0
+Apartamento,Messejana,49,2,2,1,0.0,374343.0
+Apartamento,Joaquim Távora,66,3,2,2,1100.0,410000.0
+Apartamento,Praia de Iracema,1,1,0,2,727.0,550000.0
+Apartamento,Praia do Futuro II,68,2,2,2,763.0,365000.0
+Apartamento,Cocó,107,3,4,4,0.0,1200000.0
+Apartamento,Passaré,46,2,1,1,390.0,250000.0
+Apartamento,Varjota,120,3,2,1,890.0,690000.0
+Apartamento,Meireles,251,4,5,2,2000.0,950000.0
+Apartamento,Varjota,119,4,4,2,800.0,560000.0
+Apartamento,Patriolino Ribeiro,138,3,3,2,950.0,1450000.0
+Apartamento,Papicu,145,3,4,2,1200.0,680000.0
+Apartamento,Aldeota,125,3,2,1,750.0,410000.0
+Apartamento,Engenheiro Luciano Cavalcante,144,3,5,3,0.0,1045000.0
+Apartamento,Engenheiro Luciano Cavalcante,72,2,2,2,650.0,650000.0
+Apartamento,Aldeota,134,3,4,2,1200.0,620000.0
+Apartamento,Dionisio Torres,170,4,4,2,1300.0,750000.0
+Apartamento,São Gerardo,102,3,3,2,890.0,398000.0
+Apartamento,Cocó,105,3,4,2,0.0,941000.0
+Apartamento,Jardim Cearense,64,3,4,1,550.0,280000.0
+Apartamento,Meireles,102,3,2,2,750.0,1200000.0
+Apartamento,Engenheiro Luciano Cavalcante,121,3,2,1,0.0,1321644.0
+Apartamento,Parangaba,61,3,2,2,470.0,480000.0
+Apartamento,Guararapes,259,4,6,5,1800.0,3500000.0
+Apartamento,José de Alencar,129,3,2,1,350.0,270000.0
+Apartamento,Mucuripe,604,7,5,8,0.0,9429352.0
+Apartamento,Papicu,110,3,4,1,760.0,500000.0
+Apartamento,Lagoa Redonda,38,2,1,1,10.0,195494.0
+Apartamento,Meireles,203,4,5,4,0.0,2590000.0
+Apartamento,Lagoa Sapiranga (Coité),90,3,4,2,221.0,380000.0
+Apartamento,Aldeota,125,3,3,2,1100.0,220000.0
+Apartamento,Meireles,73,2,2,2,825.0,740000.0
+Apartamento,Mondubim,1,1,0,1,213.0,150000.0
+Apartamento,Engenheiro Luciano Cavalcante,141,3,5,3,1300.0,1550000.0
+Apartamento,Engenheiro Luciano Cavalcante,37,1,1,1,0.0,474000.0
+Apartamento,Aldeota,2,1,1,1,0.0,407000.0
+Apartamento,Meireles,120,3,4,2,0.0,1380000.0
+Apartamento,Parque Iracema,94,3,4,2,950.0,769999.0
+Apartamento,Joaquim Távora,51,2,2,1,0.0,464000.0
+Apartamento,Papicu,78,2,3,1,0.0,300000.0
+Apartamento,Meireles,305,6,6,4,3300.0,1899000.0
+Apartamento,Meireles,174,3,5,3,0.0,2991904.0
+Apartamento,Itaoca,95,3,3,1,380.0,230000.0
+Apartamento,Meireles,210,3,3,3,1550.0,1499900.0
+Apartamento,Meireles,390,4,5,4,0.0,2500000.0
+Apartamento,Maraponga,63,3,2,2,430.0,270000.0
+Apartamento,Dionisio Torres,118,4,4,2,1025.0,1350000.0
+Apartamento,Meireles,150,4,5,4,1350.0,890000.0
+Apartamento,Vila Peri,38,2,1,1,0.0,199000.0
+Apartamento,Parque Iracema,89,3,2,2,750.0,795000.0
+Apartamento,Cocó,81,3,3,2,980.0,889000.0
+Apartamento,Fátima,96,4,3,2,550.0,795000.0
