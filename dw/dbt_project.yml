@@ -36,3 +36,7 @@ models:
       +materialized: view
       +enabled: True
       +schema: bronze
+    silver:
+      +materialized: table
+      +enabled: True
+      +schema: silver
