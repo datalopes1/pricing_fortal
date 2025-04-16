@@ -15,4 +15,4 @@ WITH clean AS (
 SELECT 
 	*
 	, CURRENT_TIMESTAMP AS ingestion_timestamp
-FROM clean;
+FROM clean

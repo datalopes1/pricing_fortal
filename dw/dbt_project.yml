@@ -40,3 +40,8 @@ models:
       +materialized: table
       +enabled: True
       +schema: silver
+    gold:
+      ml:
+        +materialized: table
+        +enabled: True
+        +schema: gold

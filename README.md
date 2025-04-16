@@ -16,7 +16,7 @@
 - [x] DW - Silver Layer
 - [x] DW - Gold Layer
 - [ ] Análise 
-- [ ] Criar dashboard
+- [ ] Criar dashboard (?)
 - [ ] Criar preditor de preços (?)
 
 ## 📌 Sobre o Projeto
