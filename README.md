@@ -13,8 +13,8 @@
 - [x] Tratamento dos dados
 - [x] Criar um database sqlite3
 - [x] DW - Bronze Layer
-- [ ] DW - Silver Layer
-- [ ] DW - Gold Layer
+- [x] DW - Silver Layer
+- [x] DW - Gold Layer
 - [ ] Análise 
 - [ ] Criar dashboard
 - [ ] Criar preditor de preços (?)

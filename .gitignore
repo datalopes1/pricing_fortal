@@ -2,3 +2,4 @@
 src/extract/__pycache__
 src/extract/spiders/__pycache__
 notebooks/.ipynb_checkpoints
+log/
